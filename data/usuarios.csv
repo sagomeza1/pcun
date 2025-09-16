@@ -1,0 +1,5001 @@
+user_id,pais,fecha_registro,canal_adquisicion
+1,México,2022-07-24,Orgánico
+2,Colombia,2023-12-03,Orgánico
+3,Perú,2023-03-03,Referido
+4,Perú,2022-03-16,Facebook
+5,Colombia,2022-06-12,Referido
+6,Chile,2022-05-10,Referido
+7,México,2022-06-17,Facebook
+8,Chile,2022-10-16,Referido
+9,Perú,2023-11-27,Facebook
+10,Colombia,2024-01-12,Facebook
+11,Colombia,2024-02-16,Referido
+12,Argentina,2022-06-17,Orgánico
+13,Colombia,2023-02-10,Orgánico
+14,Chile,2023-06-16,Google Ads
+15,Argentina,2023-07-18,Orgánico
+16,Chile,2023-07-17,Referido
+17,Perú,2023-06-24,Referido
+18,Chile,2022-10-27,Google Ads
+19,Colombia,2022-02-04,Google Ads
+20,Chile,2024-03-08,Google Ads
+21,Chile,2022-01-31,Referido
+22,Argentina,2023-12-07,Orgánico
+23,Chile,2022-05-17,Referido
+24,Colombia,2023-03-21,Referido
+25,Perú,2023-06-23,Google Ads
+26,Chile,2022-09-27,Referido
+27,Argentina,2023-08-17,Facebook
+28,Argentina,2023-08-26,Google Ads
+29,Argentina,2022-08-04,Referido
+30,Argentina,2023-10-17,Facebook
+31,Chile,2022-04-28,Orgánico
+32,México,2023-03-11,Referido
+33,Argentina,2022-01-15,Facebook
+34,Colombia,2023-10-01,Referido
+35,México,2022-09-02,Facebook
+36,Perú,2022-09-03,Referido
+37,Chile,2022-08-12,Google Ads
+38,Colombia,2022-03-23,Facebook
+39,Perú,2023-01-05,Facebook
+40,Argentina,2023-05-18,Referido
+41,México,2022-01-17,Orgánico
+42,Chile,2023-02-25,Referido
+43,Colombia,2023-10-15,Facebook
+44,Colombia,2023-02-24,Facebook
+45,Colombia,2023-10-07,Orgánico
+46,México,2023-06-29,Referido
+47,Chile,2023-10-03,Referido
+48,Argentina,2022-03-09,Orgánico
+49,México,2023-06-22,Orgánico
+50,Chile,2023-06-05,Referido
+51,Colombia,2023-10-15,Referido
+52,México,2022-05-21,Orgánico
+53,Argentina,2023-10-20,Facebook
+54,Perú,2022-08-23,Facebook
+55,Perú,2022-09-25,Referido
+56,Perú,2022-12-01,Orgánico
+57,Perú,2022-07-17,Google Ads
+58,Argentina,2023-06-27,Orgánico
+59,Chile,2022-02-02,Referido
+60,México,2022-10-03,Orgánico
+61,Chile,2023-06-27,Google Ads
+62,Colombia,2023-04-21,Facebook
+63,Perú,2022-08-11,Orgánico
+64,México,2023-08-28,Google Ads
+65,Chile,2022-10-08,Referido
+66,México,2023-08-31,Facebook
+67,Colombia,2022-05-16,Referido
+68,Perú,2022-10-04,Google Ads
+69,Colombia,2022-09-05,Referido
+70,Argentina,2024-01-02,Referido
+71,Colombia,2022-01-10,Referido
+72,México,2022-12-04,Google Ads
+73,México,2023-05-04,Referido
+74,Colombia,2023-03-13,Facebook
+75,Colombia,2023-08-04,Facebook
+76,Colombia,2023-05-28,Referido
+77,Chile,2023-04-17,Referido
+78,Chile,2022-12-24,Orgánico
+79,Argentina,2022-04-02,Orgánico
+80,Perú,2022-04-17,Referido
+81,Chile,2022-03-03,Facebook
+82,Colombia,2022-10-03,Orgánico
+83,Colombia,2023-11-19,Google Ads
+84,Argentina,2022-01-11,Facebook
+85,Argentina,2023-07-03,Orgánico
+86,Argentina,2022-08-17,Orgánico
+87,Colombia,2023-04-25,Orgánico
+88,Perú,2022-09-26,Facebook
+89,Chile,2023-07-12,Referido
+90,Argentina,2023-07-17,Referido
+91,Colombia,2022-07-23,Facebook
+92,Chile,2023-02-02,Facebook
+93,Argentina,2023-06-17,Facebook
+94,Chile,2022-08-09,Google Ads
+95,Colombia,2022-06-02,Facebook
+96,México,2023-02-12,Orgánico
+97,Perú,2023-05-17,Google Ads
+98,México,2023-09-28,Google Ads
+99,México,2023-05-09,Orgánico
+100,Argentina,2023-10-18,Facebook
+101,Argentina,2022-04-26,Referido
+102,Argentina,2023-06-15,Referido
+103,Perú,2023-04-06,Orgánico
+104,Argentina,2022-08-09,Google Ads
+105,Colombia,2022-09-29,Google Ads
+106,Chile,2024-01-04,Facebook
+107,Argentina,2023-12-31,Google Ads
+108,Perú,2022-09-30,Facebook
+109,Argentina,2022-05-05,Google Ads
+110,Perú,2023-04-19,Facebook
+111,Colombia,2022-02-26,Referido
+112,Chile,2023-04-05,Referido
+113,Chile,2022-10-30,Referido
+114,Colombia,2023-03-24,Orgánico
+115,Argentina,2022-09-10,Google Ads
+116,México,2023-03-24,Facebook
+117,Colombia,2022-05-28,Facebook
+118,Colombia,2022-12-24,Orgánico
+119,México,2022-11-21,Orgánico
+120,Argentina,2023-10-08,Referido
+121,Perú,2022-07-21,Facebook
+122,Chile,2022-09-07,Google Ads
+123,Colombia,2024-01-06,Facebook
+124,Chile,2023-08-28,Google Ads
+125,Colombia,2023-04-27,Facebook
+126,Chile,2024-02-10,Referido
+127,México,2023-12-21,Orgánico
+128,Colombia,2023-06-20,Orgánico
+129,Chile,2022-01-20,Referido
+130,Chile,2022-06-28,Facebook
+131,Colombia,2022-09-07,Facebook
+132,Colombia,2022-01-09,Orgánico
+133,Colombia,2023-04-19,Google Ads
+134,Colombia,2023-06-22,Google Ads
+135,Colombia,2022-07-29,Orgánico
+136,Argentina,2023-05-30,Referido
+137,Colombia,2023-06-19,Orgánico
+138,Perú,2023-07-25,Facebook
+139,Perú,2023-12-11,Google Ads
+140,Chile,2024-02-27,Orgánico
+141,Chile,2022-02-20,Facebook
+142,Colombia,2023-07-31,Orgánico
+143,Perú,2022-12-01,Orgánico
+144,Perú,2022-04-26,Referido
+145,Chile,2024-02-09,Google Ads
+146,Argentina,2023-02-27,Google Ads
+147,Argentina,2024-01-11,Google Ads
+148,Perú,2023-12-25,Referido
+149,Chile,2023-09-19,Facebook
+150,Argentina,2022-12-16,Google Ads
+151,Colombia,2023-10-16,Referido
+152,Argentina,2023-09-12,Facebook
+153,Perú,2022-10-24,Orgánico
+154,Chile,2022-06-04,Orgánico
+155,Perú,2022-03-23,Facebook
+156,Perú,2024-01-29,Orgánico
+157,México,2024-01-26,Facebook
+158,Perú,2023-08-03,Referido
+159,Colombia,2022-12-09,Google Ads
+160,Colombia,2023-09-07,Google Ads
+161,Colombia,2022-12-28,Referido
+162,Perú,2023-07-15,Referido
+163,Chile,2024-01-23,Facebook
+164,Chile,2022-07-22,Facebook
+165,Colombia,2022-04-29,Referido
+166,Chile,2023-10-14,Orgánico
+167,Colombia,2022-03-04,Referido
+168,Chile,2022-01-05,Google Ads
+169,Argentina,2023-06-15,Referido
+170,Colombia,2023-12-15,Facebook
+171,Perú,2022-02-04,Referido
+172,Chile,2023-01-16,Facebook
+173,Perú,2022-11-06,Facebook
+174,Chile,2023-04-07,Google Ads
+175,Colombia,2022-02-10,Referido
+176,Chile,2024-01-11,Orgánico
+177,Argentina,2023-06-29,Orgánico
+178,México,2023-01-16,Google Ads
+179,Colombia,2023-12-24,Orgánico
+180,Chile,2023-04-06,Facebook
+181,México,2023-09-06,Facebook
+182,Colombia,2022-01-10,Facebook
+183,Colombia,2023-07-06,Orgánico
+184,México,2023-01-15,Google Ads
+185,Perú,2023-04-01,Facebook
+186,México,2023-05-07,Orgánico
+187,Colombia,2022-09-22,Referido
+188,México,2023-02-26,Orgánico
+189,Chile,2022-08-08,Referido
+190,Perú,2022-04-02,Referido
+191,Colombia,2023-05-30,Facebook
+192,México,2022-02-01,Referido
+193,Chile,2023-10-15,Facebook
+194,México,2023-07-24,Facebook
+195,Perú,2023-03-04,Google Ads
+196,Colombia,2022-03-03,Facebook
+197,Argentina,2024-01-17,Orgánico
+198,Argentina,2024-03-07,Orgánico
+199,Chile,2022-06-13,Google Ads
+200,México,2023-02-19,Orgánico
+201,Argentina,2022-04-23,Facebook
+202,Perú,2022-12-21,Orgánico
+203,Chile,2023-05-27,Facebook
+204,Perú,2022-05-02,Orgánico
+205,Argentina,2023-09-20,Orgánico
+206,Chile,2022-10-26,Google Ads
+207,Colombia,2022-08-28,Facebook
+208,Chile,2023-10-26,Referido
+209,Perú,2022-10-21,Referido
+210,Chile,2023-02-02,Google Ads
+211,Colombia,2022-05-11,Facebook
+212,Colombia,2022-08-19,Google Ads
+213,Chile,2022-01-19,Referido
+214,México,2023-05-18,Referido
+215,Argentina,2022-02-26,Facebook
+216,México,2023-08-19,Orgánico
+217,Chile,2023-10-04,Facebook
+218,Perú,2022-02-05,Facebook
+219,México,2022-06-01,Facebook
+220,Perú,2022-09-25,Referido
+221,México,2022-02-07,Facebook
+222,México,2023-08-20,Orgánico
+223,Colombia,2023-12-02,Facebook
+224,México,2023-07-03,Google Ads
+225,Argentina,2023-07-08,Orgánico
+226,México,2022-01-22,Facebook
+227,Chile,2022-03-15,Facebook
+228,Chile,2024-03-10,Referido
+229,Chile,2022-06-11,Facebook
+230,México,2023-10-19,Orgánico
+231,Chile,2023-01-14,Facebook
+232,México,2022-10-10,Google Ads
+233,Colombia,2022-05-27,Referido
+234,Colombia,2023-05-06,Google Ads
+235,Chile,2023-10-04,Google Ads
+236,México,2022-10-29,Google Ads
+237,Argentina,2022-08-15,Google Ads
+238,Chile,2023-06-24,Facebook
+239,Colombia,2023-04-25,Google Ads
+240,Argentina,2023-12-15,Referido
+241,México,2022-11-27,Orgánico
+242,Colombia,2022-10-27,Referido
+243,Argentina,2023-07-14,Orgánico
+244,Argentina,2022-04-13,Orgánico
+245,Perú,2023-02-10,Orgánico
+246,Perú,2023-09-20,Facebook
+247,Colombia,2023-06-08,Facebook
+248,Chile,2022-12-12,Facebook
+249,México,2022-01-07,Facebook
+250,Perú,2022-12-15,Orgánico
+251,Colombia,2023-07-08,Referido
+252,Chile,2022-06-09,Orgánico
+253,México,2022-10-06,Facebook
+254,Colombia,2022-09-13,Referido
+255,Perú,2022-11-08,Google Ads
+256,Perú,2023-02-16,Facebook
+257,México,2024-02-26,Referido
+258,México,2023-05-30,Google Ads
+259,Chile,2023-09-23,Referido
+260,Colombia,2023-08-09,Referido
+261,Argentina,2022-02-11,Referido
+262,Colombia,2022-10-19,Facebook
+263,México,2022-04-11,Orgánico
+264,Chile,2023-07-23,Google Ads
+265,Chile,2023-08-10,Referido
+266,Argentina,2023-10-22,Referido
+267,Chile,2023-08-01,Orgánico
+268,Chile,2023-09-14,Google Ads
+269,Perú,2023-12-15,Orgánico
+270,Argentina,2022-05-16,Referido
+271,Colombia,2023-03-11,Referido
+272,Colombia,2022-10-15,Google Ads
+273,Colombia,2022-03-09,Orgánico
+274,Argentina,2024-02-07,Orgánico
+275,Colombia,2023-09-07,Referido
+276,Chile,2023-07-25,Referido
+277,Perú,2023-05-10,Orgánico
+278,Perú,2022-09-23,Referido
+279,Perú,2022-03-23,Referido
+280,Colombia,2022-07-29,Google Ads
+281,Argentina,2023-04-11,Orgánico
+282,Colombia,2022-07-20,Facebook
+283,Colombia,2023-04-22,Referido
+284,Chile,2022-04-01,Facebook
+285,Colombia,2023-06-06,Google Ads
+286,México,2023-05-21,Facebook
+287,México,2022-12-20,Orgánico
+288,Argentina,2023-09-09,Referido
+289,Perú,2023-09-13,Facebook
+290,Colombia,2022-08-03,Facebook
+291,Argentina,2022-02-02,Orgánico
+292,Perú,2023-12-01,Orgánico
+293,México,2022-05-19,Referido
+294,Argentina,2023-02-03,Referido
+295,Chile,2023-10-29,Referido
+296,Argentina,2023-09-26,Orgánico
+297,Perú,2022-10-09,Facebook
+298,Chile,2022-04-29,Orgánico
+299,Perú,2022-10-16,Facebook
+300,Colombia,2023-07-19,Facebook
+301,Perú,2023-06-22,Referido
+302,Argentina,2023-08-01,Google Ads
+303,Argentina,2023-08-02,Referido
+304,Perú,2022-11-23,Referido
+305,Chile,2023-04-06,Orgánico
+306,Colombia,2022-06-19,Orgánico
+307,México,2022-03-06,Orgánico
+308,Colombia,2022-11-07,Orgánico
+309,Chile,2022-12-11,Facebook
+310,México,2022-10-12,Google Ads
+311,Colombia,2023-11-16,Facebook
+312,Perú,2023-11-22,Facebook
+313,Argentina,2022-01-22,Facebook
+314,Argentina,2023-11-25,Google Ads
+315,Perú,2022-02-14,Google Ads
+316,Chile,2023-03-16,Google Ads
+317,Perú,2023-11-15,Orgánico
+318,Perú,2023-12-24,Orgánico
+319,Colombia,2022-07-14,Facebook
+320,Colombia,2022-07-03,Google Ads
+321,Colombia,2024-01-10,Referido
+322,México,2022-11-05,Referido
+323,Colombia,2022-09-10,Facebook
+324,Chile,2023-08-16,Google Ads
+325,Chile,2023-07-14,Facebook
+326,Perú,2022-01-16,Google Ads
+327,Perú,2022-03-02,Facebook
+328,Perú,2022-04-25,Referido
+329,Colombia,2023-08-30,Referido
+330,Argentina,2022-01-02,Referido
+331,Chile,2022-04-10,Google Ads
+332,Colombia,2022-04-06,Orgánico
+333,Perú,2022-05-21,Referido
+334,Perú,2023-11-15,Facebook
+335,Argentina,2023-02-06,Orgánico
+336,Perú,2023-08-13,Orgánico
+337,Argentina,2023-11-29,Facebook
+338,Perú,2022-02-11,Orgánico
+339,Chile,2022-12-12,Facebook
+340,Argentina,2022-12-26,Orgánico
+341,Perú,2023-10-13,Referido
+342,Perú,2022-05-20,Google Ads
+343,México,2023-01-01,Orgánico
+344,Argentina,2023-06-01,Orgánico
+345,México,2024-02-26,Facebook
+346,Argentina,2022-11-04,Referido
+347,Argentina,2022-04-14,Facebook
+348,Argentina,2023-04-05,Google Ads
+349,Argentina,2022-12-26,Referido
+350,Perú,2024-02-07,Facebook
+351,México,2022-09-25,Google Ads
+352,México,2022-08-01,Referido
+353,Argentina,2022-07-24,Facebook
+354,Argentina,2022-07-15,Referido
+355,Chile,2022-03-29,Facebook
+356,Perú,2022-08-07,Facebook
+357,Chile,2022-05-24,Google Ads
+358,Colombia,2023-04-26,Referido
+359,Chile,2023-05-11,Google Ads
+360,Chile,2023-07-04,Google Ads
+361,Argentina,2022-04-27,Facebook
+362,Perú,2023-05-14,Orgánico
+363,México,2023-10-18,Google Ads
+364,Argentina,2022-01-16,Orgánico
+365,Perú,2022-02-16,Google Ads
+366,Argentina,2022-09-17,Google Ads
+367,México,2022-03-24,Facebook
+368,México,2023-06-27,Google Ads
+369,Chile,2023-03-23,Orgánico
+370,Perú,2023-06-10,Google Ads
+371,Perú,2022-03-15,Google Ads
+372,Argentina,2024-02-04,Orgánico
+373,Perú,2022-05-16,Google Ads
+374,Argentina,2023-06-18,Orgánico
+375,Colombia,2022-04-11,Facebook
+376,Perú,2022-08-25,Orgánico
+377,Chile,2023-12-17,Google Ads
+378,Perú,2023-06-28,Referido
+379,Argentina,2023-07-23,Google Ads
+380,México,2023-08-14,Referido
+381,México,2023-03-23,Referido
+382,Chile,2024-02-06,Referido
+383,Chile,2022-07-20,Orgánico
+384,México,2023-01-30,Facebook
+385,Colombia,2023-07-14,Referido
+386,Perú,2023-06-06,Referido
+387,Argentina,2023-10-17,Orgánico
+388,Perú,2024-02-25,Orgánico
+389,México,2022-09-10,Google Ads
+390,Colombia,2023-03-24,Referido
+391,Chile,2022-02-27,Facebook
+392,Chile,2023-01-10,Referido
+393,Argentina,2023-08-21,Facebook
+394,Chile,2022-05-07,Google Ads
+395,Colombia,2023-06-13,Referido
+396,Chile,2022-08-14,Referido
+397,Argentina,2022-10-03,Orgánico
+398,Perú,2023-10-06,Facebook
+399,Argentina,2023-06-23,Facebook
+400,Chile,2023-08-29,Orgánico
+401,Chile,2023-12-20,Referido
+402,Colombia,2024-02-14,Google Ads
+403,Colombia,2023-09-11,Google Ads
+404,Colombia,2023-08-14,Referido
+405,Chile,2022-04-22,Google Ads
+406,Chile,2023-06-02,Facebook
+407,Argentina,2022-09-05,Facebook
+408,Argentina,2023-01-21,Facebook
+409,Argentina,2023-03-12,Orgánico
+410,Colombia,2024-02-25,Facebook
+411,México,2023-07-27,Google Ads
+412,Perú,2023-09-15,Referido
+413,Perú,2023-03-18,Orgánico
+414,México,2023-03-11,Orgánico
+415,Chile,2022-03-12,Referido
+416,Colombia,2023-10-01,Facebook
+417,Argentina,2023-04-29,Orgánico
+418,Colombia,2024-03-01,Google Ads
+419,Perú,2023-06-01,Facebook
+420,Argentina,2022-09-29,Orgánico
+421,Argentina,2024-03-06,Facebook
+422,Perú,2022-08-06,Orgánico
+423,Perú,2022-04-12,Referido
+424,Argentina,2022-01-29,Facebook
+425,México,2023-08-16,Orgánico
+426,México,2022-04-29,Facebook
+427,México,2022-12-18,Facebook
+428,México,2022-06-04,Orgánico
+429,Perú,2024-01-17,Referido
+430,Argentina,2022-05-23,Orgánico
+431,México,2022-06-10,Referido
+432,Colombia,2024-02-16,Google Ads
+433,Chile,2022-11-26,Orgánico
+434,Perú,2022-11-23,Referido
+435,Perú,2023-10-21,Google Ads
+436,Colombia,2022-11-03,Facebook
+437,México,2022-04-08,Google Ads
+438,Perú,2023-03-27,Facebook
+439,Chile,2024-02-29,Facebook
+440,Colombia,2024-03-05,Google Ads
+441,Perú,2022-08-26,Facebook
+442,Colombia,2022-02-25,Google Ads
+443,Perú,2023-08-10,Google Ads
+444,Colombia,2023-10-08,Google Ads
+445,Argentina,2023-11-13,Facebook
+446,Chile,2023-04-01,Facebook
+447,Argentina,2022-08-25,Orgánico
+448,Chile,2023-07-29,Google Ads
+449,Colombia,2022-09-02,Orgánico
+450,Argentina,2022-07-15,Google Ads
+451,Perú,2023-09-16,Referido
+452,Chile,2024-03-08,Facebook
+453,México,2022-01-18,Orgánico
+454,Perú,2022-05-29,Orgánico
+455,Colombia,2024-01-12,Google Ads
+456,Colombia,2022-05-10,Facebook
+457,Perú,2022-04-26,Referido
+458,Perú,2022-04-24,Referido
+459,Argentina,2024-02-06,Referido
+460,México,2022-01-16,Google Ads
+461,México,2023-09-19,Orgánico
+462,Argentina,2023-10-29,Referido
+463,Perú,2022-04-14,Facebook
+464,Colombia,2023-07-02,Referido
+465,México,2023-09-11,Orgánico
+466,México,2023-07-08,Facebook
+467,Chile,2022-12-29,Facebook
+468,Chile,2022-06-29,Facebook
+469,Argentina,2023-03-11,Facebook
+470,México,2023-04-29,Referido
+471,Colombia,2022-09-16,Referido
+472,México,2022-03-30,Facebook
+473,México,2022-04-05,Facebook
+474,Perú,2023-10-13,Facebook
+475,Chile,2022-10-15,Google Ads
+476,Colombia,2023-07-11,Google Ads
+477,Chile,2022-08-04,Google Ads
+478,Perú,2023-08-12,Referido
+479,Perú,2023-06-07,Referido
+480,México,2022-01-14,Referido
+481,Chile,2023-07-11,Orgánico
+482,México,2023-12-20,Google Ads
+483,Chile,2023-01-05,Facebook
+484,Perú,2023-08-09,Referido
+485,México,2023-04-28,Referido
+486,Chile,2023-08-08,Referido
+487,Argentina,2023-02-08,Orgánico
+488,Perú,2023-05-26,Orgánico
+489,Chile,2023-01-27,Orgánico
+490,Perú,2023-01-07,Google Ads
+491,Argentina,2023-05-09,Facebook
+492,Colombia,2023-03-21,Facebook
+493,Argentina,2023-04-24,Facebook
+494,Colombia,2023-04-21,Referido
+495,Argentina,2024-01-31,Orgánico
+496,Colombia,2022-01-18,Facebook
+497,Colombia,2023-05-27,Referido
+498,Argentina,2022-01-15,Facebook
+499,Perú,2023-08-21,Google Ads
+500,Chile,2022-11-09,Google Ads
+501,Argentina,2023-05-03,Facebook
+502,Chile,2022-12-08,Google Ads
+503,México,2022-04-24,Referido
+504,Perú,2023-03-12,Referido
+505,Perú,2024-02-15,Google Ads
+506,México,2024-01-17,Referido
+507,Chile,2022-11-13,Google Ads
+508,Colombia,2023-12-11,Referido
+509,México,2024-02-09,Google Ads
+510,México,2023-12-15,Facebook
+511,Argentina,2023-02-17,Referido
+512,Argentina,2022-01-21,Referido
+513,Chile,2023-01-27,Facebook
+514,Perú,2023-03-11,Facebook
+515,Chile,2022-08-11,Referido
+516,Chile,2024-01-22,Orgánico
+517,Argentina,2022-11-11,Google Ads
+518,Colombia,2022-08-12,Referido
+519,Perú,2024-01-21,Orgánico
+520,Chile,2023-04-23,Google Ads
+521,Argentina,2023-10-30,Referido
+522,México,2022-08-03,Orgánico
+523,Colombia,2022-01-28,Facebook
+524,Argentina,2023-09-22,Orgánico
+525,Chile,2022-07-10,Facebook
+526,Chile,2022-04-23,Orgánico
+527,Colombia,2023-03-01,Referido
+528,Colombia,2024-01-18,Facebook
+529,Colombia,2023-05-08,Google Ads
+530,Argentina,2022-06-12,Referido
+531,México,2024-01-31,Facebook
+532,Perú,2023-09-23,Facebook
+533,Argentina,2023-07-06,Facebook
+534,Perú,2023-10-14,Referido
+535,Colombia,2023-07-11,Facebook
+536,Argentina,2022-02-05,Referido
+537,Argentina,2023-07-22,Facebook
+538,Chile,2023-11-14,Orgánico
+539,México,2022-05-31,Referido
+540,Argentina,2022-06-25,Referido
+541,Colombia,2022-12-27,Orgánico
+542,Argentina,2023-11-25,Facebook
+543,Chile,2023-11-29,Google Ads
+544,México,2022-04-20,Referido
+545,Argentina,2022-12-21,Facebook
+546,México,2023-01-19,Google Ads
+547,Colombia,2023-10-26,Referido
+548,Chile,2022-10-18,Google Ads
+549,Chile,2024-01-10,Orgánico
+550,México,2022-03-05,Referido
+551,Chile,2022-01-20,Referido
+552,Argentina,2023-09-10,Orgánico
+553,Chile,2022-10-02,Google Ads
+554,Chile,2022-11-05,Google Ads
+555,Chile,2023-05-08,Google Ads
+556,México,2023-04-07,Referido
+557,México,2023-07-16,Google Ads
+558,México,2022-09-08,Referido
+559,Argentina,2022-04-24,Facebook
+560,Chile,2023-09-12,Google Ads
+561,Colombia,2023-07-10,Facebook
+562,México,2024-02-04,Facebook
+563,Colombia,2022-02-12,Facebook
+564,Colombia,2023-09-09,Facebook
+565,Colombia,2023-03-15,Orgánico
+566,Perú,2024-03-04,Google Ads
+567,Argentina,2024-02-01,Google Ads
+568,México,2022-08-08,Google Ads
+569,Chile,2024-01-09,Orgánico
+570,Perú,2022-01-29,Referido
+571,Chile,2023-11-20,Orgánico
+572,Perú,2024-01-13,Google Ads
+573,Argentina,2023-09-16,Referido
+574,Perú,2023-06-06,Referido
+575,Chile,2022-01-25,Google Ads
+576,Argentina,2022-09-29,Google Ads
+577,Colombia,2023-11-26,Facebook
+578,Colombia,2023-01-09,Referido
+579,Colombia,2024-02-21,Referido
+580,Argentina,2024-03-07,Facebook
+581,Argentina,2023-06-25,Google Ads
+582,Chile,2022-12-26,Google Ads
+583,Perú,2023-11-27,Orgánico
+584,Colombia,2022-04-09,Facebook
+585,Colombia,2022-06-26,Orgánico
+586,México,2023-12-19,Orgánico
+587,Colombia,2022-01-10,Orgánico
+588,Chile,2022-02-26,Referido
+589,Argentina,2022-07-31,Facebook
+590,Perú,2023-04-13,Google Ads
+591,Chile,2022-06-13,Referido
+592,Perú,2022-03-25,Google Ads
+593,Argentina,2022-03-30,Google Ads
+594,Colombia,2023-07-18,Google Ads
+595,Argentina,2022-08-10,Google Ads
+596,México,2023-08-08,Google Ads
+597,Argentina,2023-01-04,Orgánico
+598,Chile,2023-08-16,Referido
+599,Chile,2022-08-30,Facebook
+600,México,2022-11-21,Google Ads
+601,México,2023-08-01,Referido
+602,México,2023-08-27,Orgánico
+603,Perú,2022-03-12,Referido
+604,Chile,2023-10-22,Google Ads
+605,Chile,2023-05-02,Referido
+606,México,2022-05-14,Referido
+607,Perú,2022-04-25,Facebook
+608,Colombia,2023-09-29,Google Ads
+609,México,2023-04-26,Facebook
+610,Colombia,2022-08-19,Referido
+611,Colombia,2022-04-11,Facebook
+612,Perú,2022-01-01,Google Ads
+613,Chile,2022-03-26,Facebook
+614,Perú,2023-11-06,Google Ads
+615,Chile,2023-12-11,Facebook
+616,México,2022-06-27,Orgánico
+617,México,2023-01-29,Google Ads
+618,Argentina,2023-01-28,Referido
+619,Colombia,2023-10-03,Referido
+620,Colombia,2022-07-04,Referido
+621,Argentina,2022-01-03,Referido
+622,Perú,2024-03-05,Google Ads
+623,Chile,2023-02-14,Orgánico
+624,Chile,2022-10-01,Referido
+625,Perú,2023-11-26,Referido
+626,Perú,2023-03-21,Facebook
+627,México,2022-06-10,Facebook
+628,Perú,2022-05-06,Facebook
+629,Perú,2023-01-27,Google Ads
+630,Colombia,2023-10-20,Google Ads
+631,Chile,2022-12-31,Referido
+632,Colombia,2023-11-04,Referido
+633,Colombia,2022-05-20,Google Ads
+634,México,2024-01-21,Referido
+635,Chile,2022-10-12,Referido
+636,Argentina,2022-05-24,Facebook
+637,Perú,2022-05-08,Referido
+638,México,2023-01-28,Facebook
+639,Chile,2022-07-03,Google Ads
+640,Argentina,2023-10-17,Google Ads
+641,Argentina,2022-08-29,Facebook
+642,Colombia,2022-01-31,Referido
+643,México,2023-01-11,Facebook
+644,Perú,2022-05-07,Google Ads
+645,Argentina,2022-04-23,Facebook
+646,Argentina,2022-05-05,Referido
+647,Colombia,2022-10-16,Referido
+648,Perú,2022-07-15,Google Ads
+649,Perú,2022-01-09,Google Ads
+650,Chile,2023-09-17,Referido
+651,Colombia,2022-12-02,Referido
+652,Perú,2022-11-03,Google Ads
+653,Chile,2022-05-31,Facebook
+654,Perú,2022-05-13,Facebook
+655,Chile,2023-11-11,Referido
+656,México,2022-02-19,Referido
+657,Chile,2023-07-16,Google Ads
+658,Chile,2022-09-24,Orgánico
+659,Chile,2022-06-14,Facebook
+660,Chile,2022-05-08,Referido
+661,Chile,2023-10-09,Orgánico
+662,Perú,2022-04-26,Referido
+663,Perú,2023-11-02,Google Ads
+664,México,2022-08-30,Orgánico
+665,Colombia,2022-04-25,Referido
+666,Colombia,2022-06-05,Orgánico
+667,Argentina,2022-02-14,Referido
+668,Colombia,2022-12-11,Google Ads
+669,Perú,2024-01-21,Referido
+670,Colombia,2022-11-23,Orgánico
+671,México,2023-04-22,Google Ads
+672,Perú,2023-02-02,Referido
+673,Argentina,2023-07-12,Google Ads
+674,Colombia,2022-05-09,Orgánico
+675,Colombia,2022-02-22,Google Ads
+676,México,2022-12-15,Orgánico
+677,Chile,2023-02-14,Facebook
+678,Chile,2023-09-02,Google Ads
+679,Colombia,2022-07-07,Facebook
+680,Perú,2022-07-26,Facebook
+681,Perú,2023-09-03,Google Ads
+682,Perú,2023-04-18,Google Ads
+683,Argentina,2023-08-18,Facebook
+684,Perú,2023-06-20,Orgánico
+685,México,2022-08-16,Referido
+686,México,2022-10-31,Facebook
+687,Chile,2022-05-16,Orgánico
+688,Colombia,2022-06-20,Referido
+689,Colombia,2022-12-11,Facebook
+690,Colombia,2022-03-08,Google Ads
+691,Perú,2022-02-25,Google Ads
+692,Argentina,2022-06-26,Facebook
+693,México,2023-04-10,Orgánico
+694,Perú,2023-01-20,Referido
+695,Chile,2023-07-22,Referido
+696,Chile,2022-03-19,Orgánico
+697,Colombia,2023-03-13,Referido
+698,Perú,2024-01-27,Facebook
+699,México,2023-04-18,Referido
+700,Colombia,2023-09-25,Google Ads
+701,Colombia,2022-06-09,Facebook
+702,Colombia,2022-02-13,Facebook
+703,México,2024-02-08,Facebook
+704,Colombia,2022-07-22,Google Ads
+705,Colombia,2023-05-19,Google Ads
+706,México,2022-10-31,Referido
+707,Argentina,2024-02-29,Google Ads
+708,Chile,2022-12-11,Google Ads
+709,Argentina,2022-01-10,Referido
+710,Chile,2023-03-22,Referido
+711,Chile,2023-04-08,Referido
+712,México,2023-09-22,Google Ads
+713,Colombia,2022-11-30,Facebook
+714,Perú,2023-02-04,Google Ads
+715,Colombia,2024-02-04,Google Ads
+716,Argentina,2022-02-03,Referido
+717,México,2022-08-06,Orgánico
+718,Argentina,2022-10-28,Google Ads
+719,Chile,2022-10-14,Facebook
+720,Perú,2022-11-22,Google Ads
+721,Chile,2022-09-03,Google Ads
+722,Argentina,2023-02-26,Orgánico
+723,Perú,2023-11-02,Facebook
+724,Colombia,2022-12-16,Orgánico
+725,Chile,2022-02-28,Google Ads
+726,Chile,2022-04-07,Orgánico
+727,México,2024-02-26,Referido
+728,Perú,2023-05-19,Referido
+729,Chile,2023-02-17,Orgánico
+730,Chile,2023-12-16,Google Ads
+731,Chile,2022-09-14,Facebook
+732,Colombia,2022-11-07,Facebook
+733,Perú,2023-08-21,Orgánico
+734,Colombia,2022-05-13,Google Ads
+735,Colombia,2022-10-31,Orgánico
+736,México,2023-03-21,Facebook
+737,Argentina,2023-11-12,Google Ads
+738,México,2022-01-31,Referido
+739,Chile,2024-02-13,Google Ads
+740,Perú,2022-04-18,Orgánico
+741,Perú,2023-12-22,Google Ads
+742,Perú,2023-11-17,Referido
+743,Perú,2022-02-23,Referido
+744,Colombia,2022-02-07,Facebook
+745,Chile,2023-05-02,Google Ads
+746,Colombia,2022-07-27,Orgánico
+747,Chile,2022-06-09,Google Ads
+748,Perú,2023-08-01,Referido
+749,Colombia,2022-11-30,Orgánico
+750,Chile,2023-08-01,Orgánico
+751,Perú,2023-05-03,Referido
+752,México,2023-07-27,Google Ads
+753,México,2022-11-01,Orgánico
+754,Colombia,2022-01-31,Facebook
+755,Argentina,2022-05-07,Google Ads
+756,Argentina,2023-04-13,Google Ads
+757,Colombia,2022-09-19,Referido
+758,Argentina,2022-06-23,Google Ads
+759,Chile,2023-09-15,Orgánico
+760,México,2023-10-21,Referido
+761,México,2024-02-01,Facebook
+762,Chile,2022-08-14,Facebook
+763,Argentina,2023-05-02,Facebook
+764,Perú,2022-05-17,Referido
+765,Chile,2023-04-23,Orgánico
+766,México,2022-12-05,Referido
+767,Colombia,2022-07-09,Orgánico
+768,México,2023-01-06,Facebook
+769,Chile,2024-01-11,Orgánico
+770,México,2022-05-05,Facebook
+771,Perú,2023-03-25,Facebook
+772,Colombia,2022-09-14,Google Ads
+773,Perú,2023-04-12,Google Ads
+774,Colombia,2022-08-21,Orgánico
+775,México,2023-02-12,Google Ads
+776,México,2022-09-05,Facebook
+777,Argentina,2022-05-31,Google Ads
+778,Chile,2024-01-19,Orgánico
+779,Argentina,2022-01-12,Referido
+780,Argentina,2023-05-15,Orgánico
+781,Colombia,2024-02-13,Referido
+782,Perú,2023-07-18,Referido
+783,México,2023-05-17,Facebook
+784,México,2022-04-09,Facebook
+785,Argentina,2023-04-06,Google Ads
+786,Colombia,2023-01-07,Orgánico
+787,Chile,2023-06-30,Google Ads
+788,Argentina,2022-01-30,Facebook
+789,México,2024-02-17,Referido
+790,Chile,2023-10-05,Facebook
+791,Argentina,2022-02-03,Google Ads
+792,Argentina,2023-06-20,Facebook
+793,Chile,2023-04-08,Facebook
+794,Colombia,2022-06-19,Google Ads
+795,México,2024-01-10,Google Ads
+796,Perú,2022-05-14,Facebook
+797,Perú,2023-07-31,Orgánico
+798,México,2022-12-20,Google Ads
+799,Chile,2022-02-23,Referido
+800,Colombia,2022-01-02,Google Ads
+801,Argentina,2022-07-27,Google Ads
+802,Chile,2023-05-21,Orgánico
+803,Argentina,2024-03-04,Google Ads
+804,Chile,2023-10-06,Referido
+805,Chile,2023-09-11,Referido
+806,Argentina,2023-03-04,Referido
+807,Chile,2023-07-18,Google Ads
+808,Perú,2023-08-28,Referido
+809,México,2022-03-16,Orgánico
+810,México,2023-08-04,Referido
+811,Colombia,2022-06-17,Facebook
+812,Argentina,2023-01-06,Orgánico
+813,Perú,2022-05-22,Orgánico
+814,Colombia,2022-07-29,Google Ads
+815,Colombia,2023-07-13,Referido
+816,Argentina,2023-09-09,Facebook
+817,Colombia,2023-08-05,Referido
+818,Chile,2023-04-28,Google Ads
+819,Perú,2023-12-07,Facebook
+820,Colombia,2023-10-05,Referido
+821,Colombia,2022-01-21,Orgánico
+822,Perú,2022-01-14,Referido
+823,Colombia,2022-02-24,Facebook
+824,Colombia,2023-08-03,Referido
+825,México,2022-03-09,Orgánico
+826,Perú,2022-12-28,Facebook
+827,Perú,2024-01-17,Referido
+828,Colombia,2022-05-08,Google Ads
+829,México,2022-04-12,Google Ads
+830,México,2023-02-13,Referido
+831,Perú,2022-11-07,Facebook
+832,Perú,2022-12-25,Referido
+833,Perú,2022-12-23,Orgánico
+834,Perú,2023-07-13,Facebook
+835,Colombia,2022-07-19,Referido
+836,Chile,2023-12-20,Google Ads
+837,Chile,2022-05-01,Referido
+838,Colombia,2023-05-06,Orgánico
+839,Chile,2023-08-14,Referido
+840,Chile,2022-01-27,Referido
+841,Colombia,2022-07-08,Referido
+842,Argentina,2023-05-10,Google Ads
+843,México,2022-11-15,Facebook
+844,Chile,2023-09-25,Facebook
+845,Chile,2022-07-17,Orgánico
+846,Perú,2022-04-17,Orgánico
+847,Perú,2024-03-01,Google Ads
+848,Chile,2022-12-03,Referido
+849,Argentina,2023-10-03,Google Ads
+850,México,2022-11-18,Facebook
+851,Perú,2023-05-08,Referido
+852,Colombia,2022-07-30,Referido
+853,Colombia,2024-03-06,Google Ads
+854,Chile,2023-01-12,Facebook
+855,Perú,2022-02-07,Orgánico
+856,Colombia,2022-07-10,Facebook
+857,Chile,2023-05-13,Orgánico
+858,Chile,2024-03-04,Facebook
+859,Argentina,2023-05-03,Orgánico
+860,Argentina,2022-04-12,Google Ads
+861,Argentina,2022-12-17,Facebook
+862,Chile,2023-11-27,Orgánico
+863,México,2022-10-04,Google Ads
+864,Colombia,2024-02-20,Referido
+865,Colombia,2023-11-30,Facebook
+866,Argentina,2022-10-31,Referido
+867,México,2023-10-09,Google Ads
+868,Perú,2024-01-08,Facebook
+869,Colombia,2024-02-08,Facebook
+870,Chile,2023-01-08,Facebook
+871,Chile,2022-02-06,Google Ads
+872,Colombia,2023-07-28,Orgánico
+873,Perú,2022-11-06,Google Ads
+874,Colombia,2022-09-21,Google Ads
+875,Perú,2022-05-25,Orgánico
+876,Argentina,2023-07-05,Referido
+877,Colombia,2023-08-14,Google Ads
+878,Perú,2023-01-29,Orgánico
+879,Colombia,2022-08-13,Orgánico
+880,Argentina,2023-05-24,Facebook
+881,Colombia,2023-01-21,Orgánico
+882,Colombia,2022-03-16,Google Ads
+883,Colombia,2023-07-23,Orgánico
+884,Argentina,2022-12-21,Facebook
+885,Perú,2024-01-03,Google Ads
+886,Colombia,2023-12-03,Orgánico
+887,Perú,2022-03-23,Orgánico
+888,México,2024-03-04,Google Ads
+889,Colombia,2023-07-05,Google Ads
+890,Chile,2023-01-27,Orgánico
+891,Argentina,2024-02-06,Google Ads
+892,Colombia,2023-05-23,Orgánico
+893,Argentina,2022-03-23,Google Ads
+894,Colombia,2022-09-19,Orgánico
+895,Chile,2022-09-24,Google Ads
+896,Colombia,2022-12-02,Referido
+897,Colombia,2022-06-30,Orgánico
+898,Argentina,2022-05-20,Google Ads
+899,Chile,2022-08-27,Orgánico
+900,Chile,2022-08-04,Orgánico
+901,Argentina,2023-07-28,Google Ads
+902,Colombia,2023-09-12,Orgánico
+903,México,2024-03-04,Facebook
+904,México,2022-11-03,Google Ads
+905,Perú,2023-02-18,Referido
+906,Chile,2023-02-27,Orgánico
+907,México,2022-03-04,Referido
+908,Perú,2024-02-20,Google Ads
+909,Chile,2023-06-09,Orgánico
+910,Chile,2022-03-29,Facebook
+911,Chile,2023-06-13,Orgánico
+912,Chile,2022-11-12,Orgánico
+913,Perú,2023-03-15,Orgánico
+914,México,2022-01-14,Orgánico
+915,Argentina,2022-10-24,Google Ads
+916,Perú,2023-10-21,Orgánico
+917,Perú,2023-11-16,Referido
+918,Colombia,2022-09-16,Referido
+919,México,2022-06-02,Google Ads
+920,Chile,2023-12-16,Google Ads
+921,Perú,2023-12-29,Orgánico
+922,Perú,2023-02-15,Referido
+923,Argentina,2023-09-25,Orgánico
+924,México,2023-11-19,Google Ads
+925,México,2022-05-01,Google Ads
+926,Argentina,2022-01-02,Google Ads
+927,Chile,2023-06-15,Referido
+928,Perú,2022-12-06,Referido
+929,Perú,2023-03-05,Facebook
+930,México,2022-06-20,Facebook
+931,Colombia,2022-03-22,Facebook
+932,México,2023-12-30,Orgánico
+933,Perú,2022-11-11,Facebook
+934,México,2022-11-27,Facebook
+935,Perú,2022-12-17,Facebook
+936,Argentina,2022-12-29,Referido
+937,México,2022-10-16,Facebook
+938,Chile,2023-03-18,Orgánico
+939,Colombia,2023-10-07,Facebook
+940,Perú,2024-03-09,Facebook
+941,Colombia,2022-06-03,Orgánico
+942,Colombia,2022-02-02,Orgánico
+943,Colombia,2022-05-20,Orgánico
+944,Chile,2023-02-20,Google Ads
+945,Chile,2022-03-24,Referido
+946,Colombia,2023-01-29,Google Ads
+947,Chile,2022-04-04,Referido
+948,Chile,2022-10-07,Google Ads
+949,Chile,2023-11-04,Orgánico
+950,Perú,2023-08-10,Facebook
+951,Colombia,2022-05-18,Facebook
+952,Perú,2023-05-12,Google Ads
+953,México,2023-07-14,Facebook
+954,Colombia,2022-08-20,Google Ads
+955,Perú,2023-07-19,Orgánico
+956,Colombia,2023-08-05,Facebook
+957,Chile,2022-10-13,Referido
+958,Chile,2023-08-18,Orgánico
+959,Chile,2022-04-18,Facebook
+960,Argentina,2022-08-24,Orgánico
+961,Colombia,2022-09-26,Facebook
+962,Colombia,2022-06-05,Facebook
+963,Argentina,2022-05-24,Orgánico
+964,México,2023-07-01,Orgánico
+965,Perú,2022-03-28,Google Ads
+966,Chile,2024-03-08,Orgánico
+967,Colombia,2022-06-06,Referido
+968,Argentina,2022-04-09,Orgánico
+969,Chile,2022-12-28,Referido
+970,Argentina,2024-02-12,Facebook
+971,Perú,2023-12-21,Google Ads
+972,Chile,2022-05-20,Google Ads
+973,México,2024-02-01,Facebook
+974,Argentina,2022-06-07,Facebook
+975,Chile,2023-06-26,Referido
+976,México,2023-07-10,Orgánico
+977,Colombia,2023-11-21,Google Ads
+978,México,2022-04-30,Google Ads
+979,Perú,2023-11-11,Google Ads
+980,Chile,2022-08-10,Google Ads
+981,Colombia,2022-04-30,Google Ads
+982,México,2024-01-05,Facebook
+983,México,2023-11-12,Facebook
+984,Perú,2023-04-22,Google Ads
+985,Colombia,2022-01-17,Orgánico
+986,Chile,2022-06-27,Referido
+987,Colombia,2022-11-15,Referido
+988,Perú,2023-12-29,Orgánico
+989,México,2023-03-04,Google Ads
+990,México,2023-06-01,Facebook
+991,México,2022-12-21,Facebook
+992,Argentina,2022-07-26,Facebook
+993,Chile,2023-08-19,Orgánico
+994,México,2024-01-25,Facebook
+995,Perú,2022-09-21,Google Ads
+996,Argentina,2022-09-28,Google Ads
+997,Argentina,2024-01-31,Google Ads
+998,Argentina,2023-04-13,Referido
+999,México,2023-04-18,Referido
+1000,Chile,2023-01-02,Facebook
+1001,Chile,2023-06-27,Google Ads
+1002,Colombia,2023-04-05,Facebook
+1003,Argentina,2022-02-14,Google Ads
+1004,Chile,2022-04-23,Orgánico
+1005,Argentina,2023-05-17,Google Ads
+1006,Argentina,2023-01-10,Facebook
+1007,Colombia,2022-01-14,Referido
+1008,Colombia,2023-09-15,Referido
+1009,Argentina,2024-02-29,Facebook
+1010,Argentina,2022-06-11,Referido
+1011,México,2022-08-24,Facebook
+1012,Colombia,2023-05-20,Google Ads
+1013,Chile,2022-06-22,Referido
+1014,Colombia,2023-10-23,Orgánico
+1015,Chile,2023-10-22,Google Ads
+1016,Argentina,2024-02-11,Facebook
+1017,Chile,2022-07-28,Google Ads
+1018,Chile,2022-03-14,Google Ads
+1019,Perú,2022-01-06,Referido
+1020,Argentina,2023-11-08,Orgánico
+1021,México,2022-09-22,Orgánico
+1022,Perú,2023-10-05,Google Ads
+1023,Perú,2022-09-09,Facebook
+1024,Perú,2022-11-16,Orgánico
+1025,México,2023-12-06,Referido
+1026,Chile,2022-08-19,Google Ads
+1027,Argentina,2022-09-05,Facebook
+1028,México,2024-02-19,Facebook
+1029,México,2022-09-05,Google Ads
+1030,Perú,2022-09-01,Google Ads
+1031,Chile,2024-03-06,Facebook
+1032,Colombia,2022-01-21,Facebook
+1033,Chile,2022-01-23,Facebook
+1034,Argentina,2022-08-26,Facebook
+1035,Colombia,2024-02-23,Referido
+1036,Chile,2022-09-15,Facebook
+1037,Chile,2023-12-26,Google Ads
+1038,Chile,2022-05-06,Orgánico
+1039,Perú,2023-05-16,Referido
+1040,Perú,2022-08-03,Facebook
+1041,Argentina,2022-06-17,Orgánico
+1042,Chile,2023-09-18,Google Ads
+1043,Perú,2024-02-07,Orgánico
+1044,Argentina,2023-11-02,Referido
+1045,Chile,2023-11-08,Orgánico
+1046,Chile,2022-07-12,Referido
+1047,Colombia,2022-04-08,Referido
+1048,Argentina,2023-10-29,Orgánico
+1049,México,2022-12-22,Google Ads
+1050,Chile,2023-10-01,Facebook
+1051,Argentina,2022-09-21,Orgánico
+1052,Argentina,2022-12-01,Google Ads
+1053,Colombia,2023-12-25,Google Ads
+1054,México,2023-09-26,Referido
+1055,Chile,2022-03-26,Facebook
+1056,Perú,2023-10-16,Orgánico
+1057,Perú,2023-09-30,Facebook
+1058,Chile,2023-08-16,Referido
+1059,Perú,2022-11-14,Google Ads
+1060,Colombia,2023-05-03,Google Ads
+1061,México,2022-09-07,Google Ads
+1062,Chile,2022-04-13,Orgánico
+1063,Colombia,2022-05-05,Orgánico
+1064,Colombia,2023-08-29,Orgánico
+1065,Chile,2022-01-01,Referido
+1066,Argentina,2024-03-08,Facebook
+1067,Colombia,2023-11-21,Facebook
+1068,Perú,2023-05-30,Google Ads
+1069,Perú,2022-08-10,Facebook
+1070,Chile,2023-01-13,Google Ads
+1071,México,2023-12-02,Google Ads
+1072,Chile,2023-12-19,Facebook
+1073,Colombia,2022-01-30,Google Ads
+1074,Chile,2022-01-02,Referido
+1075,Perú,2022-04-06,Facebook
+1076,Argentina,2023-04-08,Orgánico
+1077,Perú,2023-10-26,Facebook
+1078,Chile,2023-03-10,Facebook
+1079,Colombia,2022-07-29,Referido
+1080,Perú,2023-04-08,Orgánico
+1081,Argentina,2022-12-11,Google Ads
+1082,Argentina,2022-12-12,Referido
+1083,México,2022-09-19,Facebook
+1084,Chile,2023-06-06,Referido
+1085,Argentina,2022-11-18,Orgánico
+1086,Argentina,2023-11-24,Referido
+1087,México,2022-12-12,Referido
+1088,México,2022-03-14,Google Ads
+1089,Perú,2023-12-01,Referido
+1090,Colombia,2022-03-19,Google Ads
+1091,Perú,2022-09-22,Google Ads
+1092,México,2022-04-16,Orgánico
+1093,Colombia,2022-12-20,Referido
+1094,México,2023-01-14,Referido
+1095,Perú,2022-06-25,Referido
+1096,Perú,2023-12-19,Google Ads
+1097,México,2023-03-28,Facebook
+1098,México,2022-08-15,Orgánico
+1099,Argentina,2024-03-06,Facebook
+1100,Colombia,2022-10-06,Orgánico
+1101,México,2023-09-18,Google Ads
+1102,México,2023-01-29,Facebook
+1103,Colombia,2022-03-03,Referido
+1104,Chile,2023-03-17,Facebook
+1105,México,2023-06-22,Google Ads
+1106,Chile,2022-11-28,Facebook
+1107,Argentina,2022-05-29,Facebook
+1108,Argentina,2023-03-06,Orgánico
+1109,México,2023-04-07,Google Ads
+1110,Chile,2022-01-08,Orgánico
+1111,Argentina,2023-06-13,Orgánico
+1112,Colombia,2022-02-13,Referido
+1113,Argentina,2023-12-22,Facebook
+1114,Argentina,2022-11-19,Facebook
+1115,Argentina,2023-08-26,Orgánico
+1116,Perú,2022-12-18,Facebook
+1117,México,2023-06-03,Google Ads
+1118,Perú,2022-04-13,Referido
+1119,Chile,2022-03-27,Referido
+1120,Perú,2023-07-28,Facebook
+1121,México,2022-08-29,Facebook
+1122,Perú,2023-02-02,Referido
+1123,Chile,2022-03-30,Orgánico
+1124,Argentina,2023-05-10,Google Ads
+1125,Perú,2024-03-03,Facebook
+1126,Chile,2024-02-26,Facebook
+1127,Argentina,2023-09-15,Facebook
+1128,México,2022-05-30,Orgánico
+1129,Argentina,2022-08-23,Referido
+1130,Perú,2022-02-20,Facebook
+1131,México,2022-11-19,Referido
+1132,Colombia,2022-07-13,Facebook
+1133,México,2022-12-29,Google Ads
+1134,Argentina,2022-05-03,Referido
+1135,Chile,2023-12-06,Orgánico
+1136,México,2024-02-15,Facebook
+1137,Perú,2022-06-02,Orgánico
+1138,Colombia,2023-04-04,Facebook
+1139,Chile,2023-04-15,Google Ads
+1140,Argentina,2023-05-30,Orgánico
+1141,Chile,2022-08-25,Orgánico
+1142,Chile,2023-07-19,Facebook
+1143,México,2022-03-15,Google Ads
+1144,Colombia,2023-06-07,Google Ads
+1145,México,2023-08-18,Google Ads
+1146,Chile,2024-01-18,Orgánico
+1147,Colombia,2022-10-25,Orgánico
+1148,Argentina,2022-06-25,Referido
+1149,Argentina,2023-08-15,Google Ads
+1150,México,2022-08-09,Facebook
+1151,Colombia,2022-10-14,Referido
+1152,México,2023-03-07,Orgánico
+1153,Colombia,2022-12-24,Google Ads
+1154,Argentina,2022-05-25,Orgánico
+1155,Colombia,2023-11-16,Orgánico
+1156,Colombia,2022-10-24,Referido
+1157,México,2023-02-14,Referido
+1158,Chile,2022-07-17,Referido
+1159,México,2022-06-29,Google Ads
+1160,Colombia,2022-02-11,Orgánico
+1161,Chile,2023-04-26,Referido
+1162,México,2022-07-01,Facebook
+1163,Colombia,2023-02-25,Orgánico
+1164,Argentina,2023-08-08,Referido
+1165,Perú,2022-11-23,Orgánico
+1166,Argentina,2022-06-19,Facebook
+1167,Perú,2024-03-01,Facebook
+1168,Chile,2022-01-11,Facebook
+1169,Perú,2024-01-12,Google Ads
+1170,Perú,2023-04-30,Google Ads
+1171,Colombia,2022-08-18,Referido
+1172,Argentina,2022-10-11,Orgánico
+1173,Chile,2023-08-31,Orgánico
+1174,Perú,2022-10-24,Facebook
+1175,Colombia,2023-01-06,Google Ads
+1176,Argentina,2022-10-22,Facebook
+1177,Perú,2022-06-28,Orgánico
+1178,Chile,2023-07-08,Google Ads
+1179,Colombia,2022-06-12,Facebook
+1180,Argentina,2023-06-18,Orgánico
+1181,Perú,2023-10-06,Orgánico
+1182,Chile,2024-01-22,Google Ads
+1183,Argentina,2023-09-25,Referido
+1184,México,2023-08-03,Facebook
+1185,Chile,2023-03-07,Facebook
+1186,Chile,2023-02-02,Google Ads
+1187,Chile,2023-12-01,Referido
+1188,Perú,2022-01-10,Referido
+1189,Chile,2024-01-26,Facebook
+1190,Argentina,2022-08-31,Facebook
+1191,Colombia,2023-04-12,Google Ads
+1192,Perú,2022-02-24,Orgánico
+1193,Perú,2022-01-04,Orgánico
+1194,Chile,2023-06-26,Google Ads
+1195,México,2022-10-23,Referido
+1196,Argentina,2022-04-06,Orgánico
+1197,Argentina,2023-06-17,Referido
+1198,Colombia,2023-09-14,Facebook
+1199,Colombia,2024-01-12,Referido
+1200,Colombia,2022-05-28,Facebook
+1201,Perú,2023-12-12,Facebook
+1202,Colombia,2023-08-16,Orgánico
+1203,Perú,2022-02-12,Orgánico
+1204,Colombia,2022-01-29,Facebook
+1205,Perú,2022-11-16,Facebook
+1206,Argentina,2022-08-30,Google Ads
+1207,Chile,2023-11-25,Referido
+1208,Argentina,2023-04-08,Google Ads
+1209,Colombia,2022-12-10,Referido
+1210,Perú,2022-01-04,Facebook
+1211,Colombia,2023-11-26,Facebook
+1212,Colombia,2022-02-11,Referido
+1213,Argentina,2022-12-24,Referido
+1214,Argentina,2023-08-01,Orgánico
+1215,Colombia,2022-03-28,Google Ads
+1216,Chile,2023-10-29,Google Ads
+1217,México,2023-12-09,Referido
+1218,Perú,2022-04-15,Referido
+1219,Argentina,2023-01-29,Referido
+1220,México,2024-02-29,Google Ads
+1221,Perú,2023-04-08,Orgánico
+1222,Colombia,2022-05-06,Referido
+1223,México,2022-10-24,Orgánico
+1224,México,2023-08-17,Orgánico
+1225,Chile,2024-01-12,Referido
+1226,Chile,2022-01-28,Orgánico
+1227,Argentina,2022-07-26,Facebook
+1228,Chile,2022-01-19,Facebook
+1229,Chile,2023-02-11,Referido
+1230,Perú,2023-06-04,Orgánico
+1231,Perú,2023-03-19,Google Ads
+1232,México,2024-02-17,Facebook
+1233,Chile,2022-02-14,Google Ads
+1234,México,2022-10-26,Referido
+1235,Perú,2024-01-13,Orgánico
+1236,Perú,2022-11-07,Facebook
+1237,Colombia,2023-04-13,Referido
+1238,México,2023-01-27,Google Ads
+1239,México,2022-11-03,Google Ads
+1240,Chile,2022-11-09,Google Ads
+1241,México,2022-05-15,Google Ads
+1242,Chile,2023-08-13,Facebook
+1243,Argentina,2023-09-01,Facebook
+1244,Argentina,2022-08-24,Google Ads
+1245,Argentina,2022-07-19,Referido
+1246,Argentina,2022-02-25,Google Ads
+1247,Perú,2023-05-22,Referido
+1248,México,2022-09-26,Orgánico
+1249,Perú,2023-03-15,Facebook
+1250,Argentina,2022-02-16,Facebook
+1251,Perú,2023-07-20,Google Ads
+1252,Colombia,2023-11-14,Orgánico
+1253,Chile,2023-02-12,Orgánico
+1254,Perú,2023-07-12,Referido
+1255,Argentina,2023-11-18,Facebook
+1256,Colombia,2023-05-29,Orgánico
+1257,México,2024-03-05,Referido
+1258,Perú,2023-12-04,Google Ads
+1259,Perú,2022-09-03,Referido
+1260,Perú,2022-09-10,Google Ads
+1261,Argentina,2023-08-27,Referido
+1262,México,2022-02-25,Orgánico
+1263,Perú,2023-11-13,Referido
+1264,México,2023-10-04,Referido
+1265,Chile,2024-02-27,Google Ads
+1266,Argentina,2022-03-30,Facebook
+1267,Colombia,2024-01-31,Referido
+1268,Colombia,2023-06-11,Google Ads
+1269,Argentina,2023-09-27,Google Ads
+1270,México,2022-12-05,Orgánico
+1271,México,2023-04-29,Google Ads
+1272,México,2022-04-12,Referido
+1273,Chile,2022-06-06,Google Ads
+1274,México,2023-01-14,Google Ads
+1275,México,2023-01-13,Orgánico
+1276,México,2023-06-10,Referido
+1277,México,2023-05-31,Google Ads
+1278,México,2023-02-08,Facebook
+1279,Colombia,2023-03-14,Orgánico
+1280,Perú,2023-10-16,Facebook
+1281,Chile,2023-09-16,Google Ads
+1282,Argentina,2022-06-30,Facebook
+1283,Perú,2023-03-23,Orgánico
+1284,Argentina,2023-11-28,Google Ads
+1285,México,2023-10-21,Referido
+1286,Perú,2022-01-08,Referido
+1287,Chile,2024-02-19,Referido
+1288,Argentina,2022-06-28,Facebook
+1289,Perú,2022-07-15,Facebook
+1290,Perú,2023-01-31,Facebook
+1291,México,2023-06-05,Facebook
+1292,Perú,2023-08-30,Facebook
+1293,Colombia,2023-12-17,Facebook
+1294,México,2022-07-21,Referido
+1295,Argentina,2022-02-19,Referido
+1296,Argentina,2024-01-17,Orgánico
+1297,Chile,2022-03-27,Google Ads
+1298,México,2022-01-19,Facebook
+1299,México,2022-11-29,Google Ads
+1300,Argentina,2023-08-26,Facebook
+1301,Perú,2022-04-23,Google Ads
+1302,Chile,2022-04-11,Orgánico
+1303,Colombia,2023-09-15,Facebook
+1304,Colombia,2022-10-30,Facebook
+1305,Colombia,2023-02-28,Facebook
+1306,Perú,2024-02-02,Facebook
+1307,Colombia,2022-03-15,Google Ads
+1308,México,2023-03-05,Facebook
+1309,Argentina,2022-09-23,Google Ads
+1310,Chile,2022-09-03,Facebook
+1311,Colombia,2022-08-08,Google Ads
+1312,Colombia,2023-08-12,Referido
+1313,Chile,2023-05-31,Facebook
+1314,Colombia,2023-02-11,Google Ads
+1315,Colombia,2022-02-08,Orgánico
+1316,Perú,2022-12-13,Referido
+1317,México,2023-06-20,Orgánico
+1318,Perú,2022-01-17,Referido
+1319,México,2022-11-21,Referido
+1320,Chile,2023-05-20,Facebook
+1321,Perú,2022-06-04,Facebook
+1322,Chile,2024-02-23,Referido
+1323,Chile,2023-06-21,Facebook
+1324,México,2023-04-22,Facebook
+1325,Chile,2023-04-05,Facebook
+1326,Chile,2022-11-07,Facebook
+1327,Perú,2022-04-25,Referido
+1328,Colombia,2023-05-22,Facebook
+1329,Colombia,2022-01-30,Facebook
+1330,Chile,2022-03-03,Orgánico
+1331,Argentina,2023-04-01,Google Ads
+1332,Chile,2022-02-11,Orgánico
+1333,Argentina,2023-10-30,Google Ads
+1334,Perú,2022-05-29,Referido
+1335,Chile,2023-07-22,Referido
+1336,Chile,2023-08-15,Referido
+1337,Perú,2023-01-12,Facebook
+1338,Chile,2022-01-01,Referido
+1339,Argentina,2023-10-08,Orgánico
+1340,México,2022-08-28,Facebook
+1341,Perú,2022-02-16,Google Ads
+1342,Colombia,2022-09-08,Google Ads
+1343,Colombia,2023-03-26,Referido
+1344,Argentina,2024-01-23,Orgánico
+1345,Chile,2023-09-09,Referido
+1346,Chile,2024-01-23,Google Ads
+1347,Perú,2023-01-24,Orgánico
+1348,Argentina,2022-10-03,Orgánico
+1349,Colombia,2022-07-22,Orgánico
+1350,Chile,2023-11-21,Facebook
+1351,Argentina,2023-11-21,Google Ads
+1352,Colombia,2022-02-11,Orgánico
+1353,Colombia,2022-06-28,Facebook
+1354,Argentina,2023-07-01,Orgánico
+1355,Colombia,2023-03-05,Referido
+1356,Colombia,2023-09-30,Facebook
+1357,Chile,2023-09-29,Referido
+1358,Colombia,2023-03-25,Orgánico
+1359,Perú,2022-04-30,Google Ads
+1360,Perú,2023-02-10,Referido
+1361,Colombia,2022-05-16,Google Ads
+1362,Argentina,2023-04-20,Referido
+1363,Chile,2023-07-30,Google Ads
+1364,Argentina,2022-07-16,Referido
+1365,México,2023-10-13,Orgánico
+1366,México,2022-03-08,Referido
+1367,Chile,2024-02-02,Orgánico
+1368,Chile,2022-04-29,Facebook
+1369,Argentina,2023-02-09,Facebook
+1370,México,2023-10-11,Orgánico
+1371,Chile,2023-06-27,Google Ads
+1372,Argentina,2022-09-12,Facebook
+1373,Perú,2024-01-20,Referido
+1374,Colombia,2022-02-10,Referido
+1375,Chile,2023-04-02,Referido
+1376,México,2023-05-04,Google Ads
+1377,Colombia,2023-09-02,Facebook
+1378,Perú,2022-01-07,Google Ads
+1379,Perú,2023-01-20,Referido
+1380,Chile,2023-03-07,Google Ads
+1381,Colombia,2023-04-21,Referido
+1382,Perú,2023-09-29,Orgánico
+1383,Colombia,2022-11-16,Orgánico
+1384,Colombia,2023-03-28,Facebook
+1385,Colombia,2022-10-16,Facebook
+1386,Chile,2024-02-15,Orgánico
+1387,Perú,2023-03-21,Google Ads
+1388,Argentina,2022-05-29,Orgánico
+1389,México,2023-01-07,Referido
+1390,Colombia,2022-05-02,Google Ads
+1391,Chile,2023-05-28,Orgánico
+1392,Perú,2022-11-21,Referido
+1393,Colombia,2022-08-28,Facebook
+1394,Colombia,2023-07-15,Facebook
+1395,Perú,2022-10-13,Facebook
+1396,Colombia,2023-08-29,Orgánico
+1397,Perú,2023-01-23,Google Ads
+1398,México,2024-02-27,Facebook
+1399,Argentina,2023-12-07,Google Ads
+1400,Chile,2023-11-09,Orgánico
+1401,Chile,2024-02-21,Orgánico
+1402,Colombia,2023-04-12,Facebook
+1403,Perú,2023-03-07,Google Ads
+1404,Perú,2023-10-09,Google Ads
+1405,Colombia,2024-03-09,Google Ads
+1406,Argentina,2022-07-05,Orgánico
+1407,Chile,2023-12-28,Google Ads
+1408,Colombia,2023-05-25,Orgánico
+1409,Colombia,2023-03-15,Facebook
+1410,Colombia,2023-11-19,Orgánico
+1411,Chile,2023-12-04,Facebook
+1412,Chile,2023-10-10,Google Ads
+1413,Argentina,2022-03-03,Orgánico
+1414,Colombia,2022-12-25,Google Ads
+1415,México,2023-12-01,Orgánico
+1416,México,2022-06-03,Google Ads
+1417,México,2022-02-18,Referido
+1418,Chile,2023-04-08,Google Ads
+1419,Colombia,2023-09-20,Google Ads
+1420,Chile,2022-04-21,Referido
+1421,Argentina,2022-10-31,Orgánico
+1422,Argentina,2022-08-09,Orgánico
+1423,Colombia,2022-12-08,Referido
+1424,Chile,2022-11-12,Referido
+1425,Colombia,2022-12-30,Facebook
+1426,Chile,2023-05-11,Facebook
+1427,Argentina,2024-01-26,Referido
+1428,México,2022-05-12,Google Ads
+1429,Perú,2023-02-16,Google Ads
+1430,Argentina,2022-11-26,Facebook
+1431,Perú,2022-05-22,Orgánico
+1432,Perú,2022-12-09,Google Ads
+1433,Colombia,2024-02-24,Orgánico
+1434,Perú,2023-12-18,Referido
+1435,Argentina,2023-05-10,Orgánico
+1436,Chile,2022-02-27,Google Ads
+1437,Colombia,2022-03-27,Referido
+1438,Chile,2023-01-01,Orgánico
+1439,Argentina,2023-06-27,Referido
+1440,Perú,2022-08-19,Facebook
+1441,México,2023-04-06,Referido
+1442,Chile,2022-12-20,Google Ads
+1443,Chile,2023-10-27,Referido
+1444,Perú,2022-09-23,Google Ads
+1445,México,2023-05-04,Referido
+1446,Perú,2022-08-06,Referido
+1447,Argentina,2023-06-18,Referido
+1448,Colombia,2022-10-14,Referido
+1449,Colombia,2023-07-21,Orgánico
+1450,Perú,2022-12-09,Referido
+1451,Argentina,2024-02-04,Facebook
+1452,Perú,2023-10-22,Referido
+1453,Chile,2023-08-05,Orgánico
+1454,Argentina,2022-01-21,Facebook
+1455,Colombia,2022-06-19,Referido
+1456,Chile,2023-05-22,Orgánico
+1457,Perú,2022-12-27,Google Ads
+1458,Perú,2022-11-02,Google Ads
+1459,Chile,2022-10-08,Referido
+1460,Colombia,2023-04-29,Orgánico
+1461,México,2023-08-31,Referido
+1462,Perú,2022-03-25,Orgánico
+1463,Perú,2023-06-28,Orgánico
+1464,Perú,2023-09-23,Google Ads
+1465,Colombia,2022-06-07,Orgánico
+1466,Perú,2022-01-11,Facebook
+1467,Chile,2022-06-12,Facebook
+1468,Chile,2022-07-04,Google Ads
+1469,Perú,2023-03-25,Facebook
+1470,México,2022-09-12,Referido
+1471,Colombia,2022-09-02,Google Ads
+1472,México,2023-03-16,Orgánico
+1473,Colombia,2022-08-04,Orgánico
+1474,Argentina,2023-01-18,Google Ads
+1475,Perú,2022-03-02,Referido
+1476,Perú,2022-02-09,Facebook
+1477,Colombia,2022-03-20,Facebook
+1478,Colombia,2023-04-24,Referido
+1479,Argentina,2023-04-05,Google Ads
+1480,Perú,2023-11-01,Orgánico
+1481,Perú,2023-10-14,Google Ads
+1482,Argentina,2022-08-03,Referido
+1483,Chile,2022-11-25,Google Ads
+1484,Chile,2022-07-26,Facebook
+1485,Colombia,2022-03-16,Orgánico
+1486,Perú,2023-11-17,Orgánico
+1487,Colombia,2022-02-08,Referido
+1488,Perú,2023-12-23,Orgánico
+1489,Chile,2024-01-13,Google Ads
+1490,México,2022-05-21,Facebook
+1491,Argentina,2022-02-27,Referido
+1492,Chile,2023-01-12,Google Ads
+1493,Argentina,2022-01-13,Google Ads
+1494,Chile,2023-10-05,Orgánico
+1495,Colombia,2023-03-09,Facebook
+1496,México,2022-10-19,Google Ads
+1497,Chile,2023-10-17,Google Ads
+1498,Argentina,2023-10-10,Google Ads
+1499,Argentina,2023-11-15,Google Ads
+1500,Chile,2022-09-12,Google Ads
+1501,Perú,2022-04-21,Referido
+1502,Chile,2023-08-29,Facebook
+1503,Chile,2022-01-11,Facebook
+1504,Argentina,2023-05-01,Orgánico
+1505,Chile,2023-02-09,Referido
+1506,Perú,2024-02-19,Orgánico
+1507,Argentina,2023-08-30,Google Ads
+1508,Perú,2023-07-03,Orgánico
+1509,Colombia,2022-02-08,Referido
+1510,México,2022-09-10,Facebook
+1511,Perú,2022-02-20,Referido
+1512,Argentina,2023-05-31,Referido
+1513,Perú,2022-11-23,Referido
+1514,Colombia,2022-10-05,Orgánico
+1515,México,2022-12-12,Referido
+1516,Colombia,2023-07-20,Facebook
+1517,Perú,2023-02-20,Referido
+1518,Chile,2023-01-19,Referido
+1519,México,2022-03-17,Google Ads
+1520,Chile,2023-09-14,Orgánico
+1521,México,2022-03-12,Facebook
+1522,Colombia,2023-06-11,Google Ads
+1523,Colombia,2023-06-27,Google Ads
+1524,Argentina,2022-02-24,Facebook
+1525,Perú,2023-12-27,Referido
+1526,Perú,2023-06-25,Facebook
+1527,México,2023-01-17,Facebook
+1528,Chile,2023-04-08,Google Ads
+1529,México,2022-11-08,Google Ads
+1530,Argentina,2022-07-31,Google Ads
+1531,Colombia,2022-06-10,Referido
+1532,México,2024-02-08,Orgánico
+1533,Colombia,2023-06-30,Referido
+1534,Chile,2022-02-06,Orgánico
+1535,Perú,2022-01-06,Orgánico
+1536,Chile,2023-07-15,Referido
+1537,Argentina,2023-09-03,Referido
+1538,Perú,2023-11-25,Facebook
+1539,Perú,2022-09-03,Facebook
+1540,México,2023-07-03,Orgánico
+1541,Argentina,2022-09-20,Orgánico
+1542,Colombia,2022-04-05,Orgánico
+1543,Argentina,2022-11-25,Google Ads
+1544,Colombia,2022-01-19,Orgánico
+1545,Argentina,2022-12-22,Orgánico
+1546,Chile,2024-01-25,Orgánico
+1547,Chile,2023-01-22,Google Ads
+1548,Chile,2022-05-14,Orgánico
+1549,Perú,2023-01-13,Facebook
+1550,México,2023-07-22,Facebook
+1551,Argentina,2022-02-04,Orgánico
+1552,México,2024-02-06,Google Ads
+1553,México,2022-12-29,Facebook
+1554,México,2022-04-10,Orgánico
+1555,Argentina,2023-05-18,Facebook
+1556,Chile,2022-01-15,Google Ads
+1557,México,2022-06-09,Orgánico
+1558,Perú,2023-03-22,Google Ads
+1559,Colombia,2023-09-28,Referido
+1560,Perú,2023-08-15,Referido
+1561,Perú,2023-02-19,Referido
+1562,Colombia,2022-05-05,Facebook
+1563,Colombia,2022-12-23,Referido
+1564,Argentina,2023-08-17,Referido
+1565,Argentina,2023-09-05,Facebook
+1566,Argentina,2023-03-04,Orgánico
+1567,México,2022-02-20,Google Ads
+1568,Argentina,2022-10-21,Orgánico
+1569,Perú,2023-08-15,Google Ads
+1570,Chile,2024-02-16,Orgánico
+1571,México,2022-05-30,Orgánico
+1572,México,2023-02-26,Orgánico
+1573,México,2023-03-16,Orgánico
+1574,Argentina,2024-01-04,Orgánico
+1575,México,2022-01-25,Referido
+1576,Perú,2023-05-29,Referido
+1577,Perú,2022-05-23,Referido
+1578,Perú,2022-10-07,Google Ads
+1579,Argentina,2022-01-17,Orgánico
+1580,México,2024-01-09,Referido
+1581,Chile,2023-03-21,Google Ads
+1582,Colombia,2023-12-24,Google Ads
+1583,México,2022-03-26,Google Ads
+1584,Colombia,2024-03-05,Orgánico
+1585,México,2022-06-01,Orgánico
+1586,Perú,2023-06-13,Orgánico
+1587,México,2023-09-20,Facebook
+1588,Colombia,2022-01-09,Facebook
+1589,Perú,2022-11-03,Orgánico
+1590,México,2022-11-17,Referido
+1591,Colombia,2023-08-23,Facebook
+1592,Chile,2024-01-02,Orgánico
+1593,Argentina,2023-09-09,Orgánico
+1594,Perú,2023-11-07,Orgánico
+1595,México,2022-05-01,Google Ads
+1596,Perú,2022-03-20,Google Ads
+1597,Argentina,2023-06-19,Google Ads
+1598,Chile,2024-01-30,Google Ads
+1599,Colombia,2023-06-20,Google Ads
+1600,Colombia,2023-03-19,Referido
+1601,Perú,2023-12-02,Orgánico
+1602,Chile,2022-09-08,Google Ads
+1603,Argentina,2022-10-29,Orgánico
+1604,México,2023-10-06,Orgánico
+1605,Argentina,2022-10-04,Google Ads
+1606,México,2022-05-20,Facebook
+1607,Colombia,2022-08-06,Orgánico
+1608,Colombia,2022-12-15,Referido
+1609,Argentina,2022-03-30,Referido
+1610,México,2023-11-06,Referido
+1611,Argentina,2023-02-24,Google Ads
+1612,México,2023-11-28,Referido
+1613,Chile,2023-07-29,Facebook
+1614,México,2023-01-06,Google Ads
+1615,Perú,2023-07-20,Referido
+1616,Colombia,2023-11-12,Facebook
+1617,Argentina,2022-02-05,Google Ads
+1618,México,2022-05-16,Orgánico
+1619,Colombia,2022-12-11,Facebook
+1620,Chile,2022-07-03,Orgánico
+1621,Perú,2023-05-16,Facebook
+1622,Argentina,2022-07-22,Referido
+1623,Argentina,2023-08-11,Google Ads
+1624,Argentina,2022-08-27,Facebook
+1625,Chile,2022-05-08,Google Ads
+1626,Perú,2023-06-11,Facebook
+1627,Argentina,2023-08-28,Google Ads
+1628,Colombia,2023-03-18,Orgánico
+1629,Argentina,2022-03-12,Orgánico
+1630,México,2022-05-09,Facebook
+1631,Perú,2023-05-27,Orgánico
+1632,Colombia,2023-08-04,Facebook
+1633,Perú,2022-03-05,Referido
+1634,Chile,2023-01-08,Orgánico
+1635,Chile,2023-08-12,Referido
+1636,México,2022-11-30,Referido
+1637,México,2023-06-10,Facebook
+1638,Colombia,2024-01-15,Facebook
+1639,México,2024-02-25,Orgánico
+1640,Perú,2022-11-08,Referido
+1641,Chile,2023-01-28,Facebook
+1642,Colombia,2022-06-29,Orgánico
+1643,México,2023-10-25,Orgánico
+1644,Colombia,2022-08-16,Orgánico
+1645,Argentina,2022-01-05,Referido
+1646,Chile,2023-06-14,Orgánico
+1647,Perú,2022-06-19,Google Ads
+1648,Chile,2022-01-30,Facebook
+1649,Perú,2023-02-16,Orgánico
+1650,Chile,2023-09-05,Orgánico
+1651,Colombia,2023-11-26,Referido
+1652,Argentina,2023-11-20,Google Ads
+1653,México,2023-07-23,Orgánico
+1654,Argentina,2023-09-20,Orgánico
+1655,Argentina,2023-12-10,Google Ads
+1656,Colombia,2023-09-02,Google Ads
+1657,Perú,2022-01-05,Google Ads
+1658,Perú,2022-07-05,Facebook
+1659,Argentina,2023-07-10,Google Ads
+1660,Argentina,2022-02-25,Referido
+1661,Colombia,2022-06-15,Orgánico
+1662,Colombia,2022-01-26,Google Ads
+1663,Chile,2022-02-08,Orgánico
+1664,Chile,2022-09-19,Facebook
+1665,Colombia,2022-10-24,Google Ads
+1666,México,2022-08-31,Orgánico
+1667,Argentina,2023-08-07,Facebook
+1668,Chile,2022-01-28,Google Ads
+1669,Argentina,2023-10-16,Facebook
+1670,México,2024-01-05,Facebook
+1671,Argentina,2022-11-23,Referido
+1672,Colombia,2023-05-03,Google Ads
+1673,Chile,2023-10-28,Google Ads
+1674,Chile,2023-06-14,Orgánico
+1675,Perú,2022-09-19,Facebook
+1676,Chile,2023-05-23,Facebook
+1677,México,2022-10-20,Referido
+1678,Colombia,2023-03-21,Google Ads
+1679,México,2023-09-24,Google Ads
+1680,Perú,2022-06-01,Referido
+1681,México,2022-06-15,Facebook
+1682,Argentina,2022-09-22,Referido
+1683,Chile,2023-04-20,Orgánico
+1684,Argentina,2022-01-16,Referido
+1685,México,2023-03-30,Google Ads
+1686,México,2022-08-10,Referido
+1687,México,2023-07-15,Orgánico
+1688,Perú,2022-01-14,Referido
+1689,Colombia,2023-11-23,Referido
+1690,Argentina,2022-01-25,Facebook
+1691,Chile,2024-03-07,Referido
+1692,Colombia,2023-11-08,Facebook
+1693,Perú,2022-02-16,Orgánico
+1694,Argentina,2022-04-23,Google Ads
+1695,Chile,2022-07-25,Referido
+1696,México,2022-08-28,Orgánico
+1697,Argentina,2023-11-19,Referido
+1698,Chile,2022-05-24,Google Ads
+1699,México,2023-07-03,Google Ads
+1700,Colombia,2024-03-02,Referido
+1701,México,2023-01-07,Google Ads
+1702,Colombia,2023-04-10,Referido
+1703,Chile,2023-01-24,Facebook
+1704,Argentina,2024-03-10,Orgánico
+1705,México,2023-12-03,Referido
+1706,Argentina,2023-09-17,Referido
+1707,Colombia,2022-01-21,Orgánico
+1708,México,2023-10-28,Facebook
+1709,México,2023-12-16,Google Ads
+1710,Chile,2022-09-05,Google Ads
+1711,Colombia,2023-10-28,Orgánico
+1712,Chile,2022-06-12,Google Ads
+1713,Argentina,2022-09-25,Referido
+1714,México,2022-09-24,Orgánico
+1715,Colombia,2023-01-10,Google Ads
+1716,Argentina,2022-09-11,Orgánico
+1717,México,2022-11-25,Orgánico
+1718,México,2022-07-18,Orgánico
+1719,Chile,2022-10-26,Referido
+1720,Colombia,2023-05-28,Orgánico
+1721,Argentina,2024-02-26,Orgánico
+1722,Chile,2022-04-08,Facebook
+1723,Colombia,2023-09-21,Orgánico
+1724,México,2022-03-25,Facebook
+1725,Colombia,2022-09-25,Referido
+1726,México,2023-04-10,Facebook
+1727,Colombia,2023-08-17,Google Ads
+1728,Chile,2022-12-06,Referido
+1729,Colombia,2024-01-10,Orgánico
+1730,Chile,2024-01-08,Referido
+1731,Chile,2023-01-29,Facebook
+1732,México,2022-06-02,Facebook
+1733,Colombia,2022-04-01,Referido
+1734,México,2022-09-28,Orgánico
+1735,Chile,2023-04-30,Orgánico
+1736,Chile,2023-11-15,Facebook
+1737,Colombia,2023-03-08,Referido
+1738,México,2022-04-23,Google Ads
+1739,Argentina,2023-06-01,Orgánico
+1740,Colombia,2022-02-04,Orgánico
+1741,Colombia,2024-02-11,Referido
+1742,Colombia,2022-03-03,Google Ads
+1743,Perú,2023-02-04,Google Ads
+1744,Argentina,2023-08-29,Referido
+1745,México,2023-03-19,Orgánico
+1746,Chile,2022-11-07,Orgánico
+1747,México,2022-08-02,Referido
+1748,Argentina,2022-12-31,Orgánico
+1749,Perú,2023-09-21,Facebook
+1750,Perú,2022-02-04,Orgánico
+1751,Colombia,2023-10-26,Orgánico
+1752,Colombia,2023-03-30,Google Ads
+1753,Perú,2022-07-29,Google Ads
+1754,Perú,2022-06-27,Facebook
+1755,Chile,2022-08-06,Referido
+1756,Perú,2023-02-15,Google Ads
+1757,Argentina,2022-04-10,Referido
+1758,Argentina,2023-01-01,Facebook
+1759,Colombia,2023-09-25,Orgánico
+1760,Argentina,2022-08-09,Orgánico
+1761,Colombia,2022-02-12,Facebook
+1762,Perú,2022-11-21,Orgánico
+1763,Perú,2023-04-19,Referido
+1764,Colombia,2023-01-09,Referido
+1765,Colombia,2022-12-28,Orgánico
+1766,Chile,2022-02-01,Orgánico
+1767,Perú,2022-04-20,Facebook
+1768,Perú,2022-02-05,Referido
+1769,Chile,2023-08-07,Google Ads
+1770,Colombia,2022-12-09,Orgánico
+1771,Chile,2022-06-24,Facebook
+1772,Chile,2023-05-04,Referido
+1773,Argentina,2024-03-05,Orgánico
+1774,Colombia,2023-07-01,Orgánico
+1775,Argentina,2023-06-03,Google Ads
+1776,México,2023-10-13,Referido
+1777,Perú,2023-10-24,Orgánico
+1778,México,2022-07-14,Google Ads
+1779,Colombia,2023-11-19,Referido
+1780,Chile,2023-06-27,Google Ads
+1781,Perú,2023-03-20,Facebook
+1782,México,2022-03-29,Orgánico
+1783,Colombia,2022-12-22,Orgánico
+1784,Chile,2023-05-05,Facebook
+1785,Perú,2023-06-05,Facebook
+1786,Argentina,2022-08-06,Referido
+1787,México,2022-08-25,Orgánico
+1788,Argentina,2022-04-03,Orgánico
+1789,Chile,2023-11-30,Orgánico
+1790,México,2022-11-24,Referido
+1791,Chile,2024-01-07,Orgánico
+1792,Chile,2023-11-08,Google Ads
+1793,Perú,2022-07-23,Google Ads
+1794,México,2023-03-09,Facebook
+1795,Colombia,2023-06-24,Referido
+1796,Colombia,2023-04-24,Google Ads
+1797,Perú,2023-08-21,Referido
+1798,México,2022-08-11,Google Ads
+1799,Chile,2023-04-22,Facebook
+1800,Perú,2023-07-14,Orgánico
+1801,México,2024-01-04,Referido
+1802,Chile,2023-12-09,Facebook
+1803,Argentina,2023-06-23,Google Ads
+1804,Chile,2023-11-15,Google Ads
+1805,Argentina,2022-05-12,Facebook
+1806,Argentina,2023-08-08,Facebook
+1807,Chile,2022-06-23,Orgánico
+1808,México,2024-02-19,Google Ads
+1809,Chile,2023-12-15,Referido
+1810,Colombia,2022-01-31,Facebook
+1811,Perú,2022-02-12,Google Ads
+1812,Perú,2023-05-19,Facebook
+1813,Argentina,2023-03-15,Referido
+1814,Colombia,2024-02-12,Facebook
+1815,Colombia,2023-05-07,Google Ads
+1816,Chile,2022-07-23,Orgánico
+1817,México,2024-02-15,Google Ads
+1818,Colombia,2022-01-02,Orgánico
+1819,Colombia,2023-08-16,Referido
+1820,Colombia,2022-09-14,Facebook
+1821,México,2023-05-15,Referido
+1822,Colombia,2022-04-20,Facebook
+1823,Perú,2022-03-19,Facebook
+1824,Colombia,2022-07-09,Google Ads
+1825,Perú,2023-01-02,Orgánico
+1826,México,2022-08-10,Referido
+1827,Perú,2023-06-13,Facebook
+1828,Argentina,2022-09-14,Referido
+1829,Chile,2023-06-22,Orgánico
+1830,Argentina,2022-03-07,Google Ads
+1831,Chile,2023-06-09,Orgánico
+1832,Argentina,2023-02-24,Orgánico
+1833,Perú,2023-07-22,Facebook
+1834,Perú,2023-12-25,Facebook
+1835,Colombia,2023-06-29,Orgánico
+1836,Chile,2023-08-05,Google Ads
+1837,Colombia,2023-04-22,Google Ads
+1838,Colombia,2023-07-22,Referido
+1839,Argentina,2023-07-25,Facebook
+1840,Chile,2022-09-28,Facebook
+1841,Perú,2022-12-29,Facebook
+1842,Argentina,2024-01-30,Google Ads
+1843,Argentina,2023-01-20,Referido
+1844,Chile,2022-08-30,Facebook
+1845,Colombia,2023-01-09,Orgánico
+1846,Argentina,2023-01-08,Google Ads
+1847,Colombia,2022-01-07,Facebook
+1848,Argentina,2022-11-07,Facebook
+1849,Colombia,2022-10-17,Facebook
+1850,Colombia,2023-02-20,Referido
+1851,Perú,2022-10-05,Orgánico
+1852,Argentina,2022-02-02,Facebook
+1853,Perú,2023-08-19,Facebook
+1854,Colombia,2023-06-28,Google Ads
+1855,México,2022-02-26,Orgánico
+1856,Perú,2023-07-29,Google Ads
+1857,Perú,2022-04-21,Referido
+1858,México,2023-04-03,Referido
+1859,Colombia,2023-03-01,Facebook
+1860,México,2022-09-06,Google Ads
+1861,Colombia,2022-06-05,Referido
+1862,Colombia,2023-06-23,Google Ads
+1863,Argentina,2023-11-16,Google Ads
+1864,Chile,2022-12-07,Referido
+1865,Perú,2023-08-13,Google Ads
+1866,México,2023-04-07,Orgánico
+1867,Perú,2022-02-12,Facebook
+1868,Argentina,2022-06-09,Orgánico
+1869,Perú,2022-09-04,Referido
+1870,Perú,2023-07-31,Google Ads
+1871,Perú,2022-05-15,Facebook
+1872,Perú,2022-09-29,Referido
+1873,México,2022-11-17,Google Ads
+1874,Perú,2022-12-30,Orgánico
+1875,Argentina,2023-06-24,Referido
+1876,Colombia,2023-10-25,Facebook
+1877,Argentina,2024-01-09,Referido
+1878,Colombia,2023-12-24,Orgánico
+1879,Perú,2022-10-29,Facebook
+1880,Perú,2022-08-03,Google Ads
+1881,Colombia,2024-01-30,Facebook
+1882,Colombia,2022-03-06,Referido
+1883,México,2022-07-01,Orgánico
+1884,Perú,2023-12-02,Google Ads
+1885,Perú,2024-03-08,Referido
+1886,Argentina,2022-10-11,Google Ads
+1887,Colombia,2022-07-25,Referido
+1888,Colombia,2023-11-26,Orgánico
+1889,Perú,2022-01-08,Facebook
+1890,Perú,2022-12-15,Referido
+1891,Argentina,2023-12-02,Referido
+1892,México,2023-12-23,Facebook
+1893,Argentina,2022-03-13,Google Ads
+1894,Argentina,2023-12-09,Referido
+1895,México,2023-12-18,Google Ads
+1896,México,2022-07-23,Referido
+1897,Chile,2023-05-14,Facebook
+1898,Argentina,2024-01-14,Referido
+1899,Chile,2024-01-29,Orgánico
+1900,Perú,2024-02-17,Google Ads
+1901,Argentina,2023-12-28,Referido
+1902,Argentina,2023-08-12,Orgánico
+1903,Colombia,2024-02-27,Facebook
+1904,Chile,2023-11-17,Orgánico
+1905,México,2022-08-09,Referido
+1906,Perú,2023-05-17,Facebook
+1907,Chile,2022-03-01,Facebook
+1908,Argentina,2024-03-05,Google Ads
+1909,Chile,2022-07-02,Referido
+1910,Chile,2023-03-25,Orgánico
+1911,México,2023-05-31,Referido
+1912,Chile,2023-02-08,Google Ads
+1913,México,2022-04-25,Referido
+1914,Chile,2023-06-07,Facebook
+1915,Colombia,2022-05-01,Facebook
+1916,Colombia,2023-01-28,Facebook
+1917,Argentina,2022-02-15,Referido
+1918,Argentina,2022-07-21,Referido
+1919,Chile,2022-08-08,Orgánico
+1920,Chile,2023-04-03,Facebook
+1921,Perú,2022-03-09,Orgánico
+1922,Argentina,2022-05-10,Google Ads
+1923,Chile,2024-02-19,Referido
+1924,Chile,2023-08-29,Facebook
+1925,México,2022-06-03,Referido
+1926,México,2023-05-07,Google Ads
+1927,Colombia,2022-11-25,Orgánico
+1928,Chile,2023-11-23,Facebook
+1929,México,2024-02-20,Facebook
+1930,Colombia,2022-08-27,Orgánico
+1931,Chile,2022-09-22,Facebook
+1932,Argentina,2024-01-08,Referido
+1933,Perú,2023-09-23,Referido
+1934,Chile,2023-07-21,Facebook
+1935,Chile,2023-12-29,Orgánico
+1936,Chile,2022-02-09,Google Ads
+1937,Perú,2023-03-30,Referido
+1938,Perú,2023-08-12,Referido
+1939,Colombia,2023-07-18,Orgánico
+1940,Colombia,2023-01-24,Orgánico
+1941,México,2023-07-21,Google Ads
+1942,Colombia,2023-03-07,Referido
+1943,Chile,2023-10-07,Facebook
+1944,Chile,2022-06-04,Google Ads
+1945,México,2023-04-25,Facebook
+1946,México,2023-07-01,Google Ads
+1947,Colombia,2022-08-31,Orgánico
+1948,Perú,2022-07-09,Google Ads
+1949,Colombia,2022-09-06,Orgánico
+1950,Perú,2022-10-04,Orgánico
+1951,Argentina,2022-05-20,Referido
+1952,México,2022-01-18,Referido
+1953,Colombia,2023-08-17,Facebook
+1954,Argentina,2022-04-17,Referido
+1955,Colombia,2023-06-15,Google Ads
+1956,Perú,2022-07-20,Facebook
+1957,Colombia,2023-12-14,Orgánico
+1958,México,2023-11-01,Referido
+1959,Colombia,2022-10-08,Orgánico
+1960,México,2022-01-16,Orgánico
+1961,Perú,2022-05-27,Referido
+1962,Colombia,2023-05-09,Facebook
+1963,Perú,2023-12-20,Facebook
+1964,Perú,2023-01-11,Facebook
+1965,Argentina,2022-03-15,Orgánico
+1966,Argentina,2024-01-06,Facebook
+1967,Perú,2024-01-17,Facebook
+1968,México,2023-11-23,Google Ads
+1969,Colombia,2023-06-16,Referido
+1970,Colombia,2024-02-06,Google Ads
+1971,Argentina,2023-09-17,Facebook
+1972,Chile,2023-12-16,Facebook
+1973,Chile,2024-01-15,Facebook
+1974,Perú,2024-01-08,Google Ads
+1975,México,2023-05-17,Google Ads
+1976,Perú,2023-04-02,Orgánico
+1977,Colombia,2023-05-09,Google Ads
+1978,Perú,2023-07-23,Orgánico
+1979,México,2023-02-16,Facebook
+1980,Colombia,2023-01-12,Facebook
+1981,Argentina,2023-12-14,Referido
+1982,Chile,2023-03-08,Orgánico
+1983,Colombia,2022-05-07,Referido
+1984,Perú,2023-04-11,Referido
+1985,México,2022-09-29,Referido
+1986,Chile,2023-08-31,Orgánico
+1987,Argentina,2022-08-01,Google Ads
+1988,Perú,2023-04-18,Referido
+1989,Argentina,2022-05-14,Orgánico
+1990,Colombia,2023-09-27,Facebook
+1991,Chile,2024-01-03,Facebook
+1992,Perú,2023-02-19,Referido
+1993,México,2024-02-13,Google Ads
+1994,México,2023-07-23,Orgánico
+1995,Colombia,2023-08-08,Referido
+1996,Colombia,2022-11-23,Orgánico
+1997,Perú,2023-07-15,Referido
+1998,México,2022-04-08,Google Ads
+1999,Perú,2023-01-08,Facebook
+2000,Chile,2023-01-16,Facebook
+2001,Colombia,2023-08-01,Orgánico
+2002,Chile,2023-04-07,Orgánico
+2003,México,2022-11-24,Facebook
+2004,México,2023-05-25,Referido
+2005,Perú,2023-04-09,Google Ads
+2006,Perú,2023-11-12,Referido
+2007,Chile,2023-09-10,Referido
+2008,Perú,2022-05-19,Google Ads
+2009,México,2022-10-04,Facebook
+2010,Colombia,2022-01-03,Facebook
+2011,Perú,2022-12-18,Google Ads
+2012,Perú,2023-04-12,Orgánico
+2013,Chile,2022-04-18,Orgánico
+2014,Chile,2022-01-24,Referido
+2015,Colombia,2022-06-05,Referido
+2016,Perú,2022-08-08,Facebook
+2017,México,2023-07-05,Orgánico
+2018,Argentina,2023-09-16,Facebook
+2019,Chile,2022-05-25,Facebook
+2020,Argentina,2022-10-09,Facebook
+2021,Perú,2023-06-27,Google Ads
+2022,Chile,2023-07-20,Referido
+2023,México,2024-03-03,Referido
+2024,Chile,2022-07-16,Google Ads
+2025,México,2022-09-01,Facebook
+2026,Argentina,2023-06-22,Google Ads
+2027,México,2023-03-27,Orgánico
+2028,Perú,2022-10-31,Referido
+2029,Argentina,2023-02-21,Orgánico
+2030,Colombia,2023-07-12,Referido
+2031,Argentina,2023-10-08,Orgánico
+2032,México,2023-07-27,Orgánico
+2033,Argentina,2022-08-01,Referido
+2034,México,2022-11-29,Referido
+2035,Argentina,2023-10-30,Orgánico
+2036,Perú,2022-04-26,Referido
+2037,Perú,2022-06-18,Orgánico
+2038,Argentina,2022-12-30,Google Ads
+2039,México,2023-01-30,Google Ads
+2040,Argentina,2023-09-14,Google Ads
+2041,México,2023-06-15,Orgánico
+2042,México,2022-08-20,Facebook
+2043,México,2023-10-23,Google Ads
+2044,Chile,2023-12-09,Referido
+2045,México,2022-06-03,Referido
+2046,Argentina,2023-08-11,Referido
+2047,Perú,2023-04-25,Facebook
+2048,Colombia,2023-03-19,Google Ads
+2049,Argentina,2022-11-14,Orgánico
+2050,México,2023-10-05,Orgánico
+2051,Colombia,2023-10-25,Referido
+2052,Argentina,2023-06-19,Google Ads
+2053,Colombia,2022-07-06,Facebook
+2054,Argentina,2022-07-22,Google Ads
+2055,Colombia,2023-10-08,Orgánico
+2056,Argentina,2022-02-12,Google Ads
+2057,Argentina,2023-04-04,Orgánico
+2058,Perú,2022-09-27,Google Ads
+2059,Chile,2022-01-31,Orgánico
+2060,Argentina,2022-12-13,Referido
+2061,México,2024-01-22,Facebook
+2062,Argentina,2022-02-19,Facebook
+2063,Colombia,2023-02-06,Facebook
+2064,Argentina,2024-02-28,Orgánico
+2065,Colombia,2022-11-25,Facebook
+2066,Perú,2023-08-13,Facebook
+2067,Colombia,2023-07-01,Facebook
+2068,Argentina,2023-05-24,Referido
+2069,Chile,2022-07-12,Referido
+2070,Chile,2022-07-03,Google Ads
+2071,Perú,2022-03-19,Google Ads
+2072,Chile,2022-10-31,Referido
+2073,Colombia,2022-06-22,Referido
+2074,Chile,2022-03-17,Referido
+2075,Colombia,2023-04-30,Orgánico
+2076,Chile,2024-02-19,Facebook
+2077,Argentina,2022-12-16,Facebook
+2078,Argentina,2023-07-15,Orgánico
+2079,Colombia,2022-12-28,Orgánico
+2080,Chile,2023-12-14,Google Ads
+2081,Perú,2023-09-22,Google Ads
+2082,Perú,2023-10-26,Referido
+2083,Chile,2022-04-18,Facebook
+2084,Colombia,2024-02-20,Orgánico
+2085,Argentina,2023-06-29,Referido
+2086,Chile,2022-12-09,Orgánico
+2087,Chile,2023-07-22,Facebook
+2088,Argentina,2023-02-05,Facebook
+2089,Chile,2023-04-04,Orgánico
+2090,México,2022-09-25,Google Ads
+2091,Argentina,2022-04-14,Referido
+2092,Perú,2023-03-17,Facebook
+2093,Argentina,2023-05-26,Referido
+2094,Colombia,2023-07-28,Referido
+2095,Colombia,2024-02-05,Facebook
+2096,Argentina,2022-02-08,Google Ads
+2097,Perú,2022-03-01,Referido
+2098,México,2023-09-02,Facebook
+2099,Chile,2023-12-21,Facebook
+2100,Chile,2023-11-04,Google Ads
+2101,Argentina,2022-01-07,Facebook
+2102,Argentina,2024-01-21,Facebook
+2103,Colombia,2023-03-28,Orgánico
+2104,Chile,2022-11-24,Google Ads
+2105,Colombia,2023-12-02,Referido
+2106,México,2022-07-02,Referido
+2107,Chile,2022-04-30,Orgánico
+2108,México,2023-09-16,Orgánico
+2109,Perú,2022-03-20,Referido
+2110,Colombia,2023-05-23,Google Ads
+2111,Perú,2023-09-06,Facebook
+2112,México,2022-02-18,Orgánico
+2113,Perú,2022-03-12,Google Ads
+2114,Argentina,2023-08-22,Google Ads
+2115,Colombia,2023-06-23,Facebook
+2116,Chile,2023-07-11,Google Ads
+2117,Colombia,2023-11-02,Facebook
+2118,México,2024-02-12,Orgánico
+2119,Colombia,2024-02-21,Referido
+2120,Chile,2023-03-23,Google Ads
+2121,Colombia,2022-06-04,Referido
+2122,Chile,2023-11-11,Facebook
+2123,México,2022-10-24,Google Ads
+2124,México,2022-07-24,Orgánico
+2125,Argentina,2022-03-16,Orgánico
+2126,Argentina,2024-02-16,Google Ads
+2127,Argentina,2022-02-25,Orgánico
+2128,Chile,2022-11-08,Referido
+2129,Colombia,2022-09-14,Google Ads
+2130,Perú,2022-01-11,Google Ads
+2131,Colombia,2023-08-19,Google Ads
+2132,Argentina,2022-04-09,Referido
+2133,Perú,2023-08-11,Referido
+2134,Argentina,2024-01-15,Referido
+2135,Colombia,2022-08-20,Google Ads
+2136,Perú,2022-03-09,Google Ads
+2137,Perú,2024-02-19,Orgánico
+2138,Perú,2022-01-14,Referido
+2139,Perú,2023-11-30,Referido
+2140,Argentina,2022-11-10,Google Ads
+2141,Argentina,2022-04-15,Facebook
+2142,Chile,2023-02-16,Google Ads
+2143,Argentina,2023-09-12,Referido
+2144,México,2023-05-07,Google Ads
+2145,México,2022-07-31,Referido
+2146,Perú,2022-09-12,Facebook
+2147,Perú,2023-03-30,Orgánico
+2148,Chile,2022-06-30,Orgánico
+2149,Colombia,2022-06-19,Orgánico
+2150,Perú,2023-07-20,Orgánico
+2151,Chile,2022-11-24,Orgánico
+2152,Perú,2022-11-25,Google Ads
+2153,México,2023-12-04,Google Ads
+2154,Colombia,2023-10-25,Orgánico
+2155,México,2024-01-12,Orgánico
+2156,Argentina,2023-03-08,Facebook
+2157,Chile,2022-01-14,Orgánico
+2158,Chile,2023-04-08,Facebook
+2159,México,2023-09-24,Referido
+2160,Argentina,2023-02-27,Google Ads
+2161,Colombia,2022-05-29,Facebook
+2162,Chile,2023-12-25,Facebook
+2163,Chile,2023-11-28,Referido
+2164,Argentina,2023-10-04,Referido
+2165,México,2022-10-17,Google Ads
+2166,México,2022-01-03,Referido
+2167,México,2022-06-20,Facebook
+2168,Colombia,2022-06-18,Referido
+2169,Colombia,2022-02-14,Google Ads
+2170,Perú,2023-07-01,Facebook
+2171,México,2023-12-31,Referido
+2172,Chile,2023-07-07,Referido
+2173,Colombia,2022-12-21,Google Ads
+2174,Argentina,2023-08-22,Google Ads
+2175,Argentina,2022-02-12,Google Ads
+2176,Colombia,2023-03-28,Facebook
+2177,Chile,2023-04-16,Orgánico
+2178,Perú,2023-06-15,Facebook
+2179,México,2022-11-18,Orgánico
+2180,Chile,2023-12-11,Referido
+2181,México,2024-01-10,Google Ads
+2182,Chile,2023-10-05,Google Ads
+2183,Perú,2022-05-14,Facebook
+2184,México,2023-03-06,Google Ads
+2185,Argentina,2022-01-13,Facebook
+2186,Argentina,2023-12-19,Google Ads
+2187,Argentina,2023-09-15,Referido
+2188,Colombia,2022-10-15,Orgánico
+2189,Colombia,2024-01-09,Facebook
+2190,Perú,2022-10-04,Google Ads
+2191,Chile,2022-05-12,Orgánico
+2192,Argentina,2022-06-21,Google Ads
+2193,México,2022-02-06,Referido
+2194,Argentina,2024-02-03,Google Ads
+2195,Colombia,2022-04-19,Facebook
+2196,México,2023-05-16,Google Ads
+2197,Colombia,2024-01-03,Facebook
+2198,Chile,2024-01-13,Facebook
+2199,Chile,2023-08-08,Orgánico
+2200,Colombia,2023-04-25,Facebook
+2201,Colombia,2023-08-02,Orgánico
+2202,México,2023-09-20,Orgánico
+2203,Chile,2022-06-06,Google Ads
+2204,Colombia,2022-03-07,Orgánico
+2205,Perú,2023-01-20,Referido
+2206,Colombia,2024-02-17,Facebook
+2207,México,2023-06-29,Google Ads
+2208,Perú,2023-10-04,Referido
+2209,Argentina,2023-10-17,Google Ads
+2210,México,2023-11-17,Orgánico
+2211,México,2023-01-26,Orgánico
+2212,Chile,2023-07-21,Orgánico
+2213,Colombia,2022-09-10,Facebook
+2214,Colombia,2023-05-18,Google Ads
+2215,Argentina,2023-05-16,Google Ads
+2216,México,2023-12-14,Google Ads
+2217,Perú,2023-01-31,Referido
+2218,Argentina,2022-04-12,Google Ads
+2219,Perú,2023-10-05,Orgánico
+2220,Perú,2023-02-04,Google Ads
+2221,Argentina,2023-10-22,Google Ads
+2222,Chile,2023-12-06,Referido
+2223,México,2022-08-06,Facebook
+2224,Argentina,2022-04-19,Google Ads
+2225,México,2022-11-06,Referido
+2226,Argentina,2023-01-21,Facebook
+2227,Chile,2022-09-07,Google Ads
+2228,Colombia,2023-11-06,Google Ads
+2229,México,2022-05-21,Facebook
+2230,Chile,2023-08-31,Google Ads
+2231,México,2023-08-23,Orgánico
+2232,Perú,2022-06-07,Facebook
+2233,México,2023-11-08,Facebook
+2234,Perú,2022-06-02,Google Ads
+2235,Perú,2023-06-10,Facebook
+2236,México,2022-09-29,Facebook
+2237,Colombia,2022-07-31,Google Ads
+2238,México,2023-08-03,Facebook
+2239,Chile,2022-05-18,Facebook
+2240,Argentina,2022-08-07,Orgánico
+2241,Colombia,2022-06-27,Google Ads
+2242,Colombia,2022-05-21,Referido
+2243,Chile,2023-09-03,Referido
+2244,Perú,2022-07-01,Facebook
+2245,Perú,2023-11-26,Facebook
+2246,Chile,2023-06-07,Facebook
+2247,México,2022-03-11,Referido
+2248,México,2022-08-10,Facebook
+2249,Argentina,2022-04-22,Facebook
+2250,Perú,2024-02-27,Facebook
+2251,Chile,2022-07-14,Google Ads
+2252,Argentina,2022-09-28,Referido
+2253,Argentina,2022-11-01,Referido
+2254,Argentina,2023-11-21,Google Ads
+2255,Argentina,2023-05-23,Referido
+2256,Chile,2023-05-04,Google Ads
+2257,Perú,2023-08-10,Orgánico
+2258,México,2022-12-10,Facebook
+2259,Perú,2023-04-16,Facebook
+2260,Perú,2022-05-01,Google Ads
+2261,Colombia,2023-05-31,Facebook
+2262,Perú,2022-05-31,Facebook
+2263,Colombia,2022-04-19,Google Ads
+2264,Colombia,2024-01-02,Facebook
+2265,Argentina,2022-09-05,Referido
+2266,Chile,2023-11-10,Orgánico
+2267,Perú,2022-06-09,Facebook
+2268,México,2023-08-09,Google Ads
+2269,Perú,2022-06-06,Orgánico
+2270,Chile,2023-01-07,Google Ads
+2271,Perú,2022-08-14,Referido
+2272,Perú,2022-08-30,Referido
+2273,Colombia,2023-03-02,Google Ads
+2274,México,2023-06-12,Google Ads
+2275,Colombia,2022-12-01,Orgánico
+2276,Colombia,2023-11-26,Google Ads
+2277,Chile,2022-05-13,Google Ads
+2278,Perú,2023-03-02,Facebook
+2279,Colombia,2022-06-16,Referido
+2280,Colombia,2022-01-30,Orgánico
+2281,Chile,2022-06-08,Facebook
+2282,Argentina,2023-08-23,Facebook
+2283,Argentina,2022-05-27,Facebook
+2284,Argentina,2023-04-11,Orgánico
+2285,México,2023-06-09,Orgánico
+2286,Argentina,2022-07-28,Google Ads
+2287,Colombia,2023-07-02,Facebook
+2288,Argentina,2023-07-07,Google Ads
+2289,Argentina,2023-12-29,Google Ads
+2290,Colombia,2023-11-24,Referido
+2291,Colombia,2023-03-07,Google Ads
+2292,México,2022-09-11,Google Ads
+2293,Colombia,2023-09-27,Referido
+2294,Colombia,2024-02-07,Facebook
+2295,Perú,2022-12-05,Google Ads
+2296,Argentina,2022-03-17,Orgánico
+2297,Perú,2024-02-18,Orgánico
+2298,Colombia,2022-11-28,Orgánico
+2299,México,2023-05-12,Orgánico
+2300,Argentina,2022-04-16,Orgánico
+2301,Argentina,2023-11-11,Referido
+2302,Chile,2022-02-04,Orgánico
+2303,Argentina,2022-10-07,Google Ads
+2304,Chile,2023-06-13,Referido
+2305,Perú,2023-01-14,Facebook
+2306,Perú,2022-06-08,Orgánico
+2307,Perú,2024-01-06,Facebook
+2308,Chile,2022-02-27,Facebook
+2309,Colombia,2022-01-08,Google Ads
+2310,Chile,2022-07-05,Referido
+2311,México,2022-11-27,Google Ads
+2312,Colombia,2024-01-08,Orgánico
+2313,México,2022-01-13,Google Ads
+2314,Perú,2022-02-24,Referido
+2315,Chile,2023-01-21,Google Ads
+2316,Chile,2022-04-01,Orgánico
+2317,Argentina,2023-10-06,Orgánico
+2318,Perú,2022-06-29,Referido
+2319,Perú,2022-05-28,Google Ads
+2320,Argentina,2022-04-30,Orgánico
+2321,Colombia,2022-04-21,Facebook
+2322,Colombia,2022-06-12,Referido
+2323,Chile,2022-07-27,Orgánico
+2324,Argentina,2023-07-29,Google Ads
+2325,Chile,2022-04-09,Facebook
+2326,Colombia,2022-08-22,Google Ads
+2327,Chile,2022-11-20,Facebook
+2328,México,2023-09-26,Google Ads
+2329,Argentina,2022-08-24,Facebook
+2330,Argentina,2022-04-22,Facebook
+2331,Argentina,2023-08-10,Orgánico
+2332,Argentina,2022-11-05,Facebook
+2333,Colombia,2023-11-05,Referido
+2334,México,2023-09-06,Orgánico
+2335,Perú,2023-04-01,Orgánico
+2336,Colombia,2023-04-14,Facebook
+2337,Colombia,2023-04-03,Referido
+2338,Perú,2023-10-07,Orgánico
+2339,Chile,2022-02-06,Google Ads
+2340,Colombia,2022-08-24,Google Ads
+2341,Argentina,2023-05-14,Orgánico
+2342,Chile,2022-06-13,Facebook
+2343,México,2023-03-06,Facebook
+2344,Colombia,2023-05-05,Referido
+2345,Argentina,2023-10-28,Referido
+2346,México,2023-09-25,Referido
+2347,Chile,2023-12-15,Orgánico
+2348,Perú,2023-12-15,Google Ads
+2349,Colombia,2023-02-07,Facebook
+2350,Argentina,2023-01-08,Facebook
+2351,Perú,2022-06-20,Orgánico
+2352,México,2023-12-09,Google Ads
+2353,Argentina,2023-02-15,Facebook
+2354,Colombia,2024-03-03,Google Ads
+2355,Argentina,2024-02-26,Facebook
+2356,México,2024-02-27,Facebook
+2357,Argentina,2022-02-08,Referido
+2358,Argentina,2022-02-11,Facebook
+2359,Colombia,2022-10-13,Facebook
+2360,Perú,2024-01-09,Orgánico
+2361,Perú,2022-10-09,Google Ads
+2362,Perú,2023-08-19,Google Ads
+2363,Argentina,2022-05-10,Facebook
+2364,Perú,2023-12-04,Orgánico
+2365,Argentina,2022-10-17,Orgánico
+2366,México,2023-09-01,Orgánico
+2367,Perú,2022-09-29,Google Ads
+2368,Chile,2023-09-16,Orgánico
+2369,Perú,2022-11-05,Facebook
+2370,Argentina,2023-03-18,Facebook
+2371,México,2022-10-07,Referido
+2372,Chile,2023-12-22,Facebook
+2373,Perú,2022-08-31,Orgánico
+2374,Colombia,2023-06-12,Orgánico
+2375,Colombia,2024-02-19,Google Ads
+2376,Chile,2023-01-06,Google Ads
+2377,México,2023-01-22,Orgánico
+2378,Argentina,2022-07-30,Referido
+2379,México,2023-04-11,Facebook
+2380,Chile,2022-06-01,Orgánico
+2381,Argentina,2023-02-22,Orgánico
+2382,Colombia,2023-08-15,Facebook
+2383,México,2022-06-20,Referido
+2384,Perú,2022-11-09,Referido
+2385,Argentina,2023-06-24,Facebook
+2386,Perú,2022-12-15,Orgánico
+2387,Colombia,2022-05-26,Referido
+2388,Perú,2023-07-12,Referido
+2389,Chile,2024-01-04,Referido
+2390,Chile,2022-11-17,Referido
+2391,México,2024-03-06,Facebook
+2392,Perú,2023-11-26,Google Ads
+2393,Argentina,2022-02-25,Google Ads
+2394,Colombia,2023-04-12,Google Ads
+2395,Chile,2022-10-31,Facebook
+2396,México,2024-01-26,Referido
+2397,México,2023-06-12,Google Ads
+2398,México,2022-10-29,Facebook
+2399,México,2023-07-20,Google Ads
+2400,Colombia,2022-09-25,Google Ads
+2401,Perú,2022-03-20,Google Ads
+2402,Perú,2023-07-17,Facebook
+2403,Chile,2024-02-27,Facebook
+2404,Perú,2023-08-05,Orgánico
+2405,Chile,2023-10-17,Orgánico
+2406,México,2022-11-12,Orgánico
+2407,México,2023-08-25,Referido
+2408,Chile,2023-02-08,Orgánico
+2409,México,2022-05-03,Facebook
+2410,Colombia,2023-02-11,Facebook
+2411,Colombia,2023-07-10,Google Ads
+2412,Chile,2022-09-30,Google Ads
+2413,Perú,2024-01-06,Google Ads
+2414,Colombia,2022-03-25,Orgánico
+2415,México,2023-02-22,Google Ads
+2416,Argentina,2022-06-18,Referido
+2417,Argentina,2023-01-15,Facebook
+2418,Chile,2023-10-29,Referido
+2419,Perú,2022-12-31,Orgánico
+2420,Perú,2023-06-15,Orgánico
+2421,Colombia,2023-04-18,Orgánico
+2422,Colombia,2022-03-10,Orgánico
+2423,Perú,2022-04-03,Google Ads
+2424,Perú,2023-12-21,Facebook
+2425,Chile,2023-12-10,Facebook
+2426,México,2023-12-04,Facebook
+2427,Colombia,2023-04-07,Referido
+2428,Perú,2023-02-22,Google Ads
+2429,Colombia,2023-04-23,Referido
+2430,Perú,2024-01-27,Google Ads
+2431,Chile,2022-04-07,Orgánico
+2432,Argentina,2023-11-12,Orgánico
+2433,Chile,2022-02-11,Facebook
+2434,México,2022-10-07,Facebook
+2435,Chile,2022-11-01,Facebook
+2436,Chile,2023-03-17,Google Ads
+2437,Colombia,2023-01-01,Referido
+2438,Chile,2022-07-06,Referido
+2439,Colombia,2023-08-21,Orgánico
+2440,Chile,2023-01-20,Referido
+2441,Colombia,2023-10-03,Referido
+2442,Argentina,2022-11-06,Orgánico
+2443,Chile,2022-06-20,Orgánico
+2444,Perú,2022-07-07,Facebook
+2445,Chile,2023-01-11,Facebook
+2446,Argentina,2023-01-10,Google Ads
+2447,Colombia,2023-12-24,Orgánico
+2448,México,2023-02-25,Google Ads
+2449,Perú,2024-02-03,Facebook
+2450,Perú,2023-12-20,Google Ads
+2451,México,2024-01-01,Google Ads
+2452,Perú,2022-02-09,Facebook
+2453,Argentina,2023-10-09,Referido
+2454,Chile,2023-09-18,Facebook
+2455,Argentina,2023-11-03,Google Ads
+2456,Chile,2023-02-18,Facebook
+2457,Colombia,2023-07-03,Referido
+2458,Chile,2023-04-22,Facebook
+2459,Argentina,2024-01-04,Facebook
+2460,México,2023-09-13,Orgánico
+2461,Perú,2022-12-15,Orgánico
+2462,Argentina,2023-11-29,Facebook
+2463,Colombia,2023-05-25,Referido
+2464,Chile,2022-03-02,Referido
+2465,México,2023-12-11,Google Ads
+2466,Chile,2023-04-16,Facebook
+2467,México,2022-01-21,Referido
+2468,Colombia,2023-10-26,Orgánico
+2469,México,2022-01-28,Orgánico
+2470,Perú,2023-03-25,Referido
+2471,Colombia,2022-09-27,Google Ads
+2472,Colombia,2023-03-13,Facebook
+2473,Perú,2023-01-11,Orgánico
+2474,Argentina,2023-03-24,Facebook
+2475,Chile,2022-03-29,Facebook
+2476,Chile,2023-08-10,Orgánico
+2477,Argentina,2022-01-06,Referido
+2478,Colombia,2023-09-30,Orgánico
+2479,Chile,2023-07-06,Facebook
+2480,Colombia,2022-02-10,Google Ads
+2481,Chile,2022-01-18,Orgánico
+2482,México,2023-09-13,Facebook
+2483,Argentina,2022-08-30,Orgánico
+2484,Perú,2022-10-05,Facebook
+2485,México,2024-02-12,Facebook
+2486,Perú,2023-07-04,Google Ads
+2487,Perú,2022-12-31,Referido
+2488,México,2023-02-12,Google Ads
+2489,México,2024-01-10,Google Ads
+2490,México,2022-05-21,Referido
+2491,Colombia,2023-09-01,Orgánico
+2492,México,2024-01-18,Orgánico
+2493,México,2022-07-24,Facebook
+2494,Perú,2024-03-08,Orgánico
+2495,Argentina,2023-03-05,Google Ads
+2496,Colombia,2024-02-25,Orgánico
+2497,Chile,2023-04-03,Orgánico
+2498,Colombia,2023-10-15,Orgánico
+2499,Argentina,2022-07-24,Referido
+2500,México,2022-02-12,Google Ads
+2501,México,2022-11-11,Google Ads
+2502,Colombia,2023-08-25,Orgánico
+2503,Perú,2023-07-15,Google Ads
+2504,Argentina,2022-02-13,Facebook
+2505,México,2023-08-10,Referido
+2506,Colombia,2022-04-27,Referido
+2507,Colombia,2022-09-28,Google Ads
+2508,Colombia,2023-02-06,Google Ads
+2509,Chile,2022-01-19,Facebook
+2510,Chile,2023-06-18,Referido
+2511,Colombia,2024-01-02,Orgánico
+2512,Colombia,2023-03-28,Orgánico
+2513,Perú,2024-03-10,Referido
+2514,Perú,2023-12-09,Facebook
+2515,Chile,2023-09-27,Referido
+2516,Chile,2023-01-04,Referido
+2517,Chile,2022-10-25,Facebook
+2518,Colombia,2023-06-28,Facebook
+2519,Chile,2022-04-13,Facebook
+2520,Chile,2022-08-05,Google Ads
+2521,Colombia,2023-06-18,Google Ads
+2522,Perú,2023-01-02,Orgánico
+2523,Argentina,2022-11-05,Google Ads
+2524,Chile,2023-03-11,Google Ads
+2525,Argentina,2023-06-06,Google Ads
+2526,Argentina,2023-10-05,Google Ads
+2527,Colombia,2022-10-01,Google Ads
+2528,Argentina,2024-03-04,Orgánico
+2529,México,2023-07-15,Orgánico
+2530,Argentina,2022-11-06,Google Ads
+2531,Colombia,2023-02-27,Orgánico
+2532,México,2024-01-06,Referido
+2533,Perú,2023-12-14,Google Ads
+2534,México,2022-06-12,Referido
+2535,México,2022-02-15,Facebook
+2536,Perú,2022-01-23,Facebook
+2537,Colombia,2023-12-14,Referido
+2538,Chile,2024-02-18,Google Ads
+2539,Chile,2023-11-12,Referido
+2540,Perú,2022-05-19,Referido
+2541,Perú,2023-01-21,Orgánico
+2542,Colombia,2023-10-01,Google Ads
+2543,Chile,2022-09-10,Referido
+2544,Chile,2022-12-10,Facebook
+2545,Chile,2023-11-29,Orgánico
+2546,México,2023-04-13,Referido
+2547,Chile,2023-11-28,Facebook
+2548,Perú,2022-10-30,Facebook
+2549,México,2022-10-19,Facebook
+2550,Perú,2024-01-30,Referido
+2551,México,2023-01-11,Orgánico
+2552,Chile,2023-12-08,Referido
+2553,Chile,2022-04-18,Orgánico
+2554,México,2023-02-12,Orgánico
+2555,Argentina,2022-01-13,Google Ads
+2556,México,2022-09-21,Orgánico
+2557,Argentina,2022-02-15,Referido
+2558,Colombia,2022-10-26,Referido
+2559,Argentina,2024-01-20,Orgánico
+2560,Chile,2022-12-30,Referido
+2561,Colombia,2022-01-05,Orgánico
+2562,Argentina,2023-06-12,Facebook
+2563,México,2023-08-10,Google Ads
+2564,México,2022-03-01,Orgánico
+2565,Colombia,2022-12-16,Facebook
+2566,Perú,2022-11-22,Facebook
+2567,Colombia,2022-12-19,Orgánico
+2568,Colombia,2022-12-25,Facebook
+2569,Perú,2023-01-21,Referido
+2570,Colombia,2023-11-18,Facebook
+2571,Perú,2023-01-07,Orgánico
+2572,México,2022-04-18,Referido
+2573,Chile,2022-03-20,Facebook
+2574,Perú,2023-05-03,Facebook
+2575,México,2022-02-03,Referido
+2576,Perú,2024-02-19,Referido
+2577,Perú,2022-05-23,Orgánico
+2578,Argentina,2023-01-14,Orgánico
+2579,México,2022-05-13,Referido
+2580,Chile,2023-09-27,Referido
+2581,Argentina,2022-07-17,Facebook
+2582,Perú,2023-12-14,Referido
+2583,Perú,2022-07-11,Facebook
+2584,Chile,2024-01-07,Facebook
+2585,Colombia,2022-06-25,Google Ads
+2586,Argentina,2022-06-14,Google Ads
+2587,Perú,2022-06-11,Facebook
+2588,Colombia,2023-06-10,Facebook
+2589,Argentina,2023-01-27,Facebook
+2590,Perú,2023-07-21,Orgánico
+2591,Colombia,2022-08-09,Referido
+2592,Argentina,2022-08-09,Orgánico
+2593,Chile,2022-11-21,Referido
+2594,Colombia,2023-12-11,Facebook
+2595,Chile,2022-07-09,Facebook
+2596,Colombia,2022-08-09,Orgánico
+2597,Argentina,2022-09-20,Referido
+2598,México,2023-11-09,Referido
+2599,Chile,2023-12-06,Facebook
+2600,Argentina,2022-10-25,Facebook
+2601,Colombia,2022-11-06,Google Ads
+2602,Perú,2023-03-12,Google Ads
+2603,Colombia,2023-01-13,Google Ads
+2604,Chile,2023-05-27,Orgánico
+2605,México,2022-05-06,Orgánico
+2606,Argentina,2023-07-14,Facebook
+2607,Argentina,2022-06-07,Orgánico
+2608,Chile,2022-11-09,Facebook
+2609,Perú,2022-04-17,Referido
+2610,Chile,2022-11-04,Orgánico
+2611,Colombia,2022-07-24,Referido
+2612,México,2023-02-04,Google Ads
+2613,México,2022-11-15,Facebook
+2614,Chile,2022-12-17,Google Ads
+2615,México,2023-04-10,Referido
+2616,México,2023-02-27,Referido
+2617,Chile,2024-01-14,Google Ads
+2618,Perú,2023-07-22,Google Ads
+2619,México,2023-03-25,Referido
+2620,Chile,2022-06-06,Google Ads
+2621,Colombia,2024-01-11,Referido
+2622,México,2022-09-28,Facebook
+2623,Argentina,2022-11-11,Orgánico
+2624,Colombia,2023-04-13,Orgánico
+2625,Colombia,2022-01-06,Facebook
+2626,Chile,2022-03-16,Referido
+2627,Argentina,2022-12-28,Referido
+2628,México,2022-10-30,Google Ads
+2629,Argentina,2024-01-10,Google Ads
+2630,Colombia,2022-12-23,Orgánico
+2631,Argentina,2022-08-23,Orgánico
+2632,Argentina,2023-09-15,Referido
+2633,Perú,2022-11-30,Referido
+2634,Argentina,2023-03-23,Orgánico
+2635,Colombia,2022-11-15,Orgánico
+2636,Perú,2022-06-21,Google Ads
+2637,Chile,2023-01-28,Orgánico
+2638,México,2023-08-27,Google Ads
+2639,México,2023-12-19,Google Ads
+2640,Perú,2023-11-20,Facebook
+2641,México,2023-04-04,Referido
+2642,Argentina,2023-12-03,Orgánico
+2643,Chile,2023-08-05,Google Ads
+2644,Chile,2023-04-02,Referido
+2645,Perú,2022-12-23,Facebook
+2646,Argentina,2023-04-26,Orgánico
+2647,Argentina,2023-08-05,Referido
+2648,Colombia,2022-02-07,Orgánico
+2649,Argentina,2022-08-10,Referido
+2650,Argentina,2023-01-21,Orgánico
+2651,Chile,2022-02-25,Facebook
+2652,México,2023-01-16,Google Ads
+2653,México,2022-12-05,Orgánico
+2654,México,2023-06-05,Referido
+2655,Perú,2022-06-07,Orgánico
+2656,Perú,2023-11-03,Facebook
+2657,México,2022-01-26,Referido
+2658,Colombia,2023-05-30,Facebook
+2659,México,2023-05-04,Referido
+2660,Argentina,2023-06-10,Referido
+2661,México,2022-07-18,Google Ads
+2662,Argentina,2022-02-27,Facebook
+2663,Colombia,2023-04-30,Orgánico
+2664,Colombia,2023-04-04,Orgánico
+2665,Chile,2023-10-10,Orgánico
+2666,Perú,2024-01-01,Google Ads
+2667,Perú,2023-03-17,Orgánico
+2668,Argentina,2022-09-02,Orgánico
+2669,Colombia,2022-03-04,Referido
+2670,Perú,2023-01-15,Referido
+2671,Colombia,2022-07-28,Referido
+2672,Chile,2023-10-28,Google Ads
+2673,Perú,2024-03-04,Referido
+2674,Perú,2022-09-17,Referido
+2675,Perú,2023-02-18,Orgánico
+2676,Colombia,2023-12-14,Referido
+2677,México,2022-09-17,Facebook
+2678,Perú,2023-12-13,Orgánico
+2679,Perú,2023-07-08,Referido
+2680,México,2023-06-03,Facebook
+2681,Colombia,2024-01-05,Google Ads
+2682,Argentina,2022-01-31,Referido
+2683,México,2024-01-17,Referido
+2684,Chile,2022-12-06,Referido
+2685,Colombia,2023-01-13,Orgánico
+2686,México,2024-02-18,Google Ads
+2687,México,2022-01-08,Referido
+2688,Argentina,2022-09-08,Orgánico
+2689,México,2023-08-08,Orgánico
+2690,Perú,2023-11-02,Orgánico
+2691,Perú,2022-04-11,Referido
+2692,Colombia,2022-10-07,Orgánico
+2693,Colombia,2023-12-05,Orgánico
+2694,Argentina,2023-08-02,Orgánico
+2695,Chile,2023-01-20,Orgánico
+2696,México,2023-12-20,Google Ads
+2697,Colombia,2024-02-03,Google Ads
+2698,Colombia,2023-08-22,Facebook
+2699,Argentina,2023-05-25,Google Ads
+2700,México,2023-05-03,Facebook
+2701,Argentina,2024-01-18,Google Ads
+2702,Chile,2022-03-03,Google Ads
+2703,Perú,2024-01-12,Facebook
+2704,Argentina,2023-02-14,Orgánico
+2705,Chile,2024-01-24,Facebook
+2706,Perú,2023-08-30,Orgánico
+2707,Colombia,2022-03-18,Google Ads
+2708,México,2023-08-11,Google Ads
+2709,Chile,2022-07-16,Facebook
+2710,Perú,2023-11-09,Facebook
+2711,Perú,2023-03-11,Google Ads
+2712,Chile,2022-05-19,Facebook
+2713,Argentina,2022-09-08,Facebook
+2714,Colombia,2022-08-06,Google Ads
+2715,Chile,2024-01-15,Referido
+2716,Argentina,2023-02-20,Google Ads
+2717,Perú,2022-10-25,Google Ads
+2718,Perú,2022-07-01,Facebook
+2719,Colombia,2023-10-30,Google Ads
+2720,Perú,2023-06-22,Referido
+2721,Chile,2023-05-12,Orgánico
+2722,Chile,2023-02-17,Orgánico
+2723,Argentina,2022-04-01,Referido
+2724,Argentina,2023-06-28,Google Ads
+2725,México,2023-07-06,Orgánico
+2726,Chile,2022-08-15,Referido
+2727,México,2022-09-20,Referido
+2728,Argentina,2023-08-08,Orgánico
+2729,Colombia,2022-09-04,Google Ads
+2730,Colombia,2023-04-26,Orgánico
+2731,Argentina,2023-06-16,Google Ads
+2732,Colombia,2023-04-29,Orgánico
+2733,Argentina,2023-11-08,Referido
+2734,Colombia,2023-10-21,Google Ads
+2735,Argentina,2022-12-19,Facebook
+2736,Argentina,2023-05-10,Referido
+2737,Perú,2023-05-05,Google Ads
+2738,Argentina,2022-01-04,Facebook
+2739,Chile,2024-02-01,Google Ads
+2740,México,2023-03-08,Facebook
+2741,Perú,2023-07-30,Google Ads
+2742,Chile,2024-01-21,Referido
+2743,Argentina,2023-04-15,Orgánico
+2744,Argentina,2024-03-01,Facebook
+2745,México,2022-03-16,Referido
+2746,México,2023-03-11,Orgánico
+2747,Perú,2024-01-05,Google Ads
+2748,Colombia,2023-05-13,Google Ads
+2749,México,2023-07-26,Referido
+2750,Chile,2023-09-11,Referido
+2751,Perú,2022-01-09,Facebook
+2752,Perú,2022-07-01,Facebook
+2753,Chile,2023-06-09,Google Ads
+2754,Chile,2023-11-26,Facebook
+2755,Argentina,2022-09-23,Referido
+2756,Argentina,2022-05-24,Facebook
+2757,México,2022-09-04,Orgánico
+2758,Perú,2023-08-15,Google Ads
+2759,Chile,2023-02-12,Referido
+2760,Chile,2024-02-09,Referido
+2761,Argentina,2023-07-22,Google Ads
+2762,Chile,2023-08-01,Orgánico
+2763,Chile,2022-06-29,Facebook
+2764,Colombia,2022-10-24,Referido
+2765,Perú,2024-02-20,Orgánico
+2766,México,2022-03-09,Referido
+2767,Chile,2023-10-01,Referido
+2768,Colombia,2022-06-27,Referido
+2769,México,2023-01-28,Google Ads
+2770,Chile,2022-04-10,Orgánico
+2771,Chile,2023-05-16,Google Ads
+2772,Colombia,2022-05-22,Referido
+2773,Colombia,2022-11-18,Google Ads
+2774,México,2023-10-21,Google Ads
+2775,Perú,2023-03-03,Referido
+2776,México,2022-10-29,Referido
+2777,Perú,2022-07-16,Referido
+2778,México,2023-10-19,Orgánico
+2779,Chile,2022-06-07,Orgánico
+2780,Perú,2023-06-06,Referido
+2781,Colombia,2022-08-21,Facebook
+2782,Chile,2023-06-25,Facebook
+2783,Chile,2023-02-25,Referido
+2784,Colombia,2023-11-24,Google Ads
+2785,Colombia,2022-02-09,Google Ads
+2786,Colombia,2024-02-07,Referido
+2787,Colombia,2022-07-23,Google Ads
+2788,México,2023-01-16,Facebook
+2789,Argentina,2022-05-13,Orgánico
+2790,México,2023-05-20,Google Ads
+2791,Argentina,2022-11-17,Orgánico
+2792,Colombia,2024-02-21,Orgánico
+2793,Perú,2024-02-08,Google Ads
+2794,Colombia,2023-11-10,Google Ads
+2795,Chile,2022-06-11,Facebook
+2796,Argentina,2022-04-28,Orgánico
+2797,Colombia,2022-10-08,Referido
+2798,Perú,2023-01-07,Facebook
+2799,Colombia,2023-02-03,Google Ads
+2800,Colombia,2024-02-15,Google Ads
+2801,Perú,2022-10-01,Google Ads
+2802,México,2023-12-18,Facebook
+2803,Argentina,2022-10-09,Google Ads
+2804,Colombia,2022-11-10,Orgánico
+2805,Argentina,2024-02-02,Orgánico
+2806,Argentina,2023-07-21,Orgánico
+2807,Argentina,2023-05-22,Orgánico
+2808,Colombia,2022-08-05,Referido
+2809,Colombia,2023-01-31,Referido
+2810,Argentina,2022-05-25,Google Ads
+2811,Perú,2022-10-25,Orgánico
+2812,Colombia,2022-09-21,Referido
+2813,Argentina,2024-02-19,Referido
+2814,Colombia,2022-12-30,Orgánico
+2815,Perú,2022-12-03,Facebook
+2816,Chile,2022-05-20,Orgánico
+2817,Argentina,2022-01-16,Facebook
+2818,Perú,2023-12-16,Facebook
+2819,Argentina,2023-04-07,Google Ads
+2820,Colombia,2022-02-13,Orgánico
+2821,Perú,2022-01-26,Orgánico
+2822,México,2024-01-18,Facebook
+2823,México,2022-12-21,Google Ads
+2824,Colombia,2022-10-03,Google Ads
+2825,Chile,2023-11-26,Google Ads
+2826,México,2022-07-03,Facebook
+2827,México,2023-07-19,Referido
+2828,Perú,2023-10-11,Orgánico
+2829,Perú,2022-09-08,Orgánico
+2830,México,2022-12-02,Google Ads
+2831,Argentina,2022-08-20,Orgánico
+2832,Perú,2023-01-24,Orgánico
+2833,Perú,2022-09-16,Referido
+2834,México,2024-02-03,Orgánico
+2835,México,2022-07-14,Referido
+2836,Argentina,2023-02-22,Referido
+2837,Colombia,2024-02-14,Google Ads
+2838,Argentina,2023-02-17,Referido
+2839,Chile,2023-09-17,Facebook
+2840,México,2023-08-05,Facebook
+2841,Chile,2023-10-25,Referido
+2842,Chile,2023-06-10,Orgánico
+2843,Chile,2023-08-22,Orgánico
+2844,México,2022-03-30,Facebook
+2845,Perú,2022-01-03,Google Ads
+2846,Perú,2023-07-10,Orgánico
+2847,Chile,2024-01-11,Orgánico
+2848,México,2022-09-22,Google Ads
+2849,Chile,2022-04-19,Google Ads
+2850,Colombia,2022-08-05,Facebook
+2851,Argentina,2022-08-04,Orgánico
+2852,Perú,2023-07-01,Orgánico
+2853,Argentina,2022-02-04,Referido
+2854,Argentina,2022-06-30,Orgánico
+2855,Argentina,2024-02-28,Google Ads
+2856,Perú,2024-02-17,Orgánico
+2857,Chile,2022-04-17,Orgánico
+2858,Colombia,2022-06-08,Orgánico
+2859,México,2022-08-11,Orgánico
+2860,Chile,2022-06-02,Orgánico
+2861,Chile,2023-11-19,Google Ads
+2862,México,2023-11-19,Referido
+2863,Chile,2022-12-18,Facebook
+2864,Chile,2023-12-05,Orgánico
+2865,México,2022-01-23,Facebook
+2866,México,2022-06-10,Referido
+2867,Chile,2023-08-12,Referido
+2868,Argentina,2023-01-03,Referido
+2869,Perú,2023-08-04,Facebook
+2870,Perú,2022-04-23,Facebook
+2871,Chile,2022-11-13,Orgánico
+2872,Argentina,2023-03-30,Facebook
+2873,Perú,2023-04-02,Google Ads
+2874,Argentina,2022-12-29,Orgánico
+2875,Chile,2023-08-29,Google Ads
+2876,Colombia,2022-11-20,Referido
+2877,Perú,2022-02-04,Orgánico
+2878,Chile,2022-01-02,Referido
+2879,Perú,2023-03-02,Facebook
+2880,Perú,2022-06-11,Orgánico
+2881,Argentina,2023-04-12,Orgánico
+2882,Perú,2024-01-29,Orgánico
+2883,Colombia,2024-01-17,Facebook
+2884,Colombia,2023-05-04,Facebook
+2885,Argentina,2022-12-11,Orgánico
+2886,México,2022-09-03,Google Ads
+2887,Perú,2022-11-19,Orgánico
+2888,Chile,2022-06-06,Referido
+2889,México,2024-03-06,Facebook
+2890,Argentina,2022-03-08,Facebook
+2891,Colombia,2023-09-08,Facebook
+2892,Argentina,2022-03-05,Referido
+2893,Argentina,2023-09-28,Referido
+2894,México,2023-06-19,Facebook
+2895,Colombia,2023-01-01,Facebook
+2896,Colombia,2022-10-15,Facebook
+2897,Colombia,2022-02-18,Google Ads
+2898,Colombia,2022-11-26,Orgánico
+2899,México,2024-02-19,Google Ads
+2900,Colombia,2022-04-25,Facebook
+2901,Perú,2022-10-10,Orgánico
+2902,Colombia,2023-09-10,Facebook
+2903,México,2023-01-21,Facebook
+2904,Colombia,2023-07-07,Referido
+2905,Chile,2022-12-22,Referido
+2906,Argentina,2022-07-20,Google Ads
+2907,México,2022-07-10,Facebook
+2908,Argentina,2022-09-21,Referido
+2909,México,2022-03-30,Orgánico
+2910,Colombia,2023-11-03,Facebook
+2911,Chile,2023-08-03,Orgánico
+2912,Argentina,2023-08-03,Referido
+2913,Argentina,2023-06-01,Referido
+2914,Colombia,2024-01-17,Google Ads
+2915,Chile,2022-03-13,Orgánico
+2916,Argentina,2023-01-11,Referido
+2917,México,2023-08-25,Facebook
+2918,Argentina,2022-07-16,Referido
+2919,Perú,2023-12-04,Facebook
+2920,México,2022-08-16,Orgánico
+2921,Argentina,2024-01-20,Google Ads
+2922,Argentina,2022-07-23,Facebook
+2923,Perú,2023-06-22,Referido
+2924,Perú,2022-03-05,Facebook
+2925,Colombia,2023-05-15,Orgánico
+2926,Chile,2022-02-11,Orgánico
+2927,Colombia,2022-12-27,Referido
+2928,Argentina,2023-09-30,Referido
+2929,Chile,2022-03-22,Referido
+2930,México,2024-02-23,Facebook
+2931,Chile,2022-11-04,Facebook
+2932,Colombia,2023-01-19,Referido
+2933,Perú,2023-08-10,Orgánico
+2934,Colombia,2023-03-07,Facebook
+2935,México,2022-06-01,Referido
+2936,Perú,2023-05-14,Referido
+2937,Chile,2023-10-03,Facebook
+2938,México,2022-12-11,Google Ads
+2939,Chile,2023-04-27,Referido
+2940,Argentina,2022-07-30,Google Ads
+2941,Perú,2022-10-27,Referido
+2942,Colombia,2023-03-25,Orgánico
+2943,México,2024-02-05,Google Ads
+2944,Perú,2022-03-24,Facebook
+2945,México,2023-07-21,Referido
+2946,Colombia,2022-08-16,Facebook
+2947,Chile,2023-03-26,Facebook
+2948,Colombia,2022-04-28,Orgánico
+2949,Perú,2022-12-15,Orgánico
+2950,México,2022-10-12,Facebook
+2951,Argentina,2023-04-27,Google Ads
+2952,Argentina,2022-03-14,Orgánico
+2953,México,2022-06-24,Referido
+2954,Perú,2023-05-15,Orgánico
+2955,Perú,2022-02-14,Orgánico
+2956,Colombia,2022-01-06,Facebook
+2957,Colombia,2023-12-25,Facebook
+2958,Perú,2023-09-30,Referido
+2959,Colombia,2022-06-15,Referido
+2960,Colombia,2023-02-27,Google Ads
+2961,Chile,2024-03-06,Referido
+2962,México,2022-05-30,Orgánico
+2963,Perú,2022-06-19,Google Ads
+2964,Perú,2023-07-04,Orgánico
+2965,México,2024-02-07,Referido
+2966,Perú,2023-04-06,Referido
+2967,Perú,2022-06-16,Facebook
+2968,Chile,2022-04-18,Google Ads
+2969,Argentina,2023-10-05,Referido
+2970,Chile,2022-02-02,Referido
+2971,México,2023-09-01,Orgánico
+2972,Perú,2023-04-14,Orgánico
+2973,México,2024-01-22,Google Ads
+2974,México,2023-09-12,Facebook
+2975,Colombia,2022-11-27,Google Ads
+2976,Argentina,2023-08-09,Google Ads
+2977,Colombia,2023-12-04,Referido
+2978,Argentina,2022-05-07,Orgánico
+2979,Perú,2023-03-06,Facebook
+2980,México,2023-12-27,Google Ads
+2981,Colombia,2023-05-31,Referido
+2982,México,2023-11-16,Facebook
+2983,Colombia,2022-10-12,Facebook
+2984,Perú,2023-03-03,Referido
+2985,México,2022-07-24,Referido
+2986,Colombia,2023-04-11,Google Ads
+2987,Chile,2023-08-21,Orgánico
+2988,Chile,2022-07-26,Referido
+2989,Perú,2022-05-19,Orgánico
+2990,Argentina,2023-07-26,Google Ads
+2991,México,2023-09-14,Referido
+2992,Perú,2023-03-06,Referido
+2993,Chile,2022-04-26,Facebook
+2994,México,2024-01-18,Facebook
+2995,México,2023-11-03,Orgánico
+2996,Colombia,2023-03-17,Orgánico
+2997,Perú,2022-12-10,Referido
+2998,Argentina,2022-04-27,Facebook
+2999,Perú,2023-06-28,Facebook
+3000,México,2023-03-23,Referido
+3001,Argentina,2023-05-17,Facebook
+3002,Chile,2022-11-18,Google Ads
+3003,Colombia,2022-12-12,Orgánico
+3004,Perú,2022-07-09,Referido
+3005,Argentina,2023-01-09,Referido
+3006,Perú,2023-10-25,Google Ads
+3007,México,2022-09-13,Google Ads
+3008,Argentina,2023-11-04,Referido
+3009,Colombia,2023-09-01,Google Ads
+3010,México,2024-01-29,Facebook
+3011,Colombia,2022-06-01,Google Ads
+3012,Colombia,2022-11-25,Referido
+3013,Perú,2022-01-20,Orgánico
+3014,Chile,2023-10-25,Facebook
+3015,México,2022-05-07,Orgánico
+3016,Perú,2024-03-05,Orgánico
+3017,Perú,2023-01-22,Facebook
+3018,Argentina,2022-08-25,Facebook
+3019,México,2024-01-03,Google Ads
+3020,Perú,2022-06-27,Referido
+3021,México,2022-11-20,Orgánico
+3022,Colombia,2023-06-29,Referido
+3023,Argentina,2022-10-18,Orgánico
+3024,Argentina,2022-12-31,Referido
+3025,Colombia,2022-01-21,Orgánico
+3026,México,2024-01-29,Orgánico
+3027,Argentina,2023-05-05,Google Ads
+3028,Colombia,2022-01-09,Google Ads
+3029,Perú,2023-01-06,Facebook
+3030,Chile,2023-01-16,Google Ads
+3031,Chile,2022-05-04,Google Ads
+3032,Colombia,2022-07-21,Facebook
+3033,México,2023-09-11,Google Ads
+3034,Colombia,2023-01-15,Facebook
+3035,Colombia,2023-08-18,Google Ads
+3036,Argentina,2022-05-31,Orgánico
+3037,Argentina,2022-12-18,Referido
+3038,Chile,2023-03-14,Referido
+3039,Colombia,2023-06-12,Referido
+3040,Argentina,2022-08-10,Referido
+3041,Argentina,2022-11-17,Facebook
+3042,Perú,2023-07-16,Facebook
+3043,Chile,2023-02-04,Facebook
+3044,México,2024-01-26,Orgánico
+3045,Colombia,2024-01-13,Orgánico
+3046,Perú,2023-06-08,Referido
+3047,Colombia,2023-08-11,Referido
+3048,Colombia,2023-06-26,Google Ads
+3049,México,2022-01-01,Orgánico
+3050,Argentina,2023-06-27,Google Ads
+3051,Colombia,2022-06-20,Referido
+3052,Argentina,2022-08-31,Facebook
+3053,Argentina,2023-02-23,Google Ads
+3054,Perú,2022-05-07,Facebook
+3055,Colombia,2022-04-24,Google Ads
+3056,Colombia,2022-10-07,Facebook
+3057,Chile,2023-06-08,Referido
+3058,Perú,2023-01-08,Facebook
+3059,Colombia,2023-02-01,Referido
+3060,Colombia,2022-10-29,Google Ads
+3061,Colombia,2022-12-06,Google Ads
+3062,Chile,2022-11-08,Referido
+3063,Perú,2022-01-07,Google Ads
+3064,Perú,2023-10-11,Referido
+3065,México,2022-09-07,Facebook
+3066,Colombia,2022-09-23,Google Ads
+3067,Colombia,2023-09-27,Orgánico
+3068,Argentina,2023-03-31,Google Ads
+3069,México,2023-06-19,Google Ads
+3070,México,2023-05-16,Google Ads
+3071,Colombia,2022-09-19,Orgánico
+3072,Perú,2023-10-15,Orgánico
+3073,México,2023-06-21,Referido
+3074,Chile,2024-01-28,Referido
+3075,México,2023-08-04,Facebook
+3076,México,2022-10-10,Orgánico
+3077,Chile,2023-08-16,Google Ads
+3078,Perú,2023-03-11,Google Ads
+3079,Argentina,2022-11-23,Facebook
+3080,Argentina,2023-06-09,Orgánico
+3081,Perú,2023-12-24,Google Ads
+3082,Perú,2024-01-25,Referido
+3083,Argentina,2023-06-02,Referido
+3084,Colombia,2022-04-04,Referido
+3085,Chile,2023-10-22,Google Ads
+3086,Colombia,2023-07-09,Facebook
+3087,Argentina,2023-05-30,Google Ads
+3088,Chile,2023-10-09,Orgánico
+3089,Chile,2022-08-30,Google Ads
+3090,Perú,2023-11-22,Orgánico
+3091,Chile,2023-12-13,Orgánico
+3092,Perú,2022-07-23,Referido
+3093,Argentina,2022-10-21,Referido
+3094,Perú,2023-10-21,Google Ads
+3095,Argentina,2022-08-26,Facebook
+3096,Argentina,2023-07-19,Google Ads
+3097,Chile,2023-10-03,Orgánico
+3098,Perú,2022-05-11,Referido
+3099,Perú,2022-07-23,Orgánico
+3100,Argentina,2022-11-09,Facebook
+3101,Chile,2022-02-14,Referido
+3102,Colombia,2022-04-25,Referido
+3103,Chile,2023-09-05,Facebook
+3104,Perú,2022-06-11,Facebook
+3105,Perú,2022-11-17,Facebook
+3106,Colombia,2022-06-06,Referido
+3107,Colombia,2023-11-01,Referido
+3108,México,2023-10-16,Referido
+3109,Chile,2023-10-13,Google Ads
+3110,Colombia,2023-01-06,Referido
+3111,Chile,2022-12-25,Google Ads
+3112,Colombia,2022-12-02,Google Ads
+3113,Argentina,2023-06-08,Orgánico
+3114,Perú,2022-09-08,Referido
+3115,Argentina,2022-04-16,Orgánico
+3116,México,2023-11-28,Referido
+3117,Perú,2023-04-07,Orgánico
+3118,Perú,2023-01-05,Referido
+3119,México,2023-04-24,Google Ads
+3120,México,2023-05-04,Orgánico
+3121,Argentina,2022-01-08,Orgánico
+3122,Colombia,2022-02-15,Facebook
+3123,Perú,2022-10-03,Facebook
+3124,México,2024-02-23,Referido
+3125,Chile,2022-05-23,Facebook
+3126,México,2023-01-13,Google Ads
+3127,Perú,2022-05-28,Orgánico
+3128,México,2023-10-25,Google Ads
+3129,Chile,2022-07-20,Google Ads
+3130,México,2023-03-04,Google Ads
+3131,México,2022-09-08,Google Ads
+3132,Argentina,2023-03-19,Facebook
+3133,Colombia,2022-09-20,Referido
+3134,México,2023-11-24,Referido
+3135,Colombia,2023-12-22,Google Ads
+3136,Argentina,2022-02-10,Google Ads
+3137,Colombia,2023-11-01,Google Ads
+3138,México,2023-01-31,Orgánico
+3139,Argentina,2022-08-21,Facebook
+3140,Chile,2022-07-15,Orgánico
+3141,Colombia,2023-07-22,Google Ads
+3142,México,2023-02-16,Google Ads
+3143,Chile,2023-01-14,Referido
+3144,México,2024-02-17,Google Ads
+3145,Perú,2023-04-02,Orgánico
+3146,Perú,2022-12-02,Referido
+3147,México,2023-02-04,Orgánico
+3148,Chile,2023-09-20,Referido
+3149,Colombia,2023-03-23,Orgánico
+3150,Argentina,2023-12-30,Orgánico
+3151,Argentina,2022-05-24,Orgánico
+3152,Perú,2022-02-22,Referido
+3153,Colombia,2023-11-22,Facebook
+3154,Chile,2022-04-11,Google Ads
+3155,Perú,2022-08-02,Orgánico
+3156,Chile,2022-03-22,Referido
+3157,Argentina,2023-10-07,Orgánico
+3158,Colombia,2022-05-04,Google Ads
+3159,México,2023-11-06,Google Ads
+3160,Argentina,2023-01-12,Facebook
+3161,México,2023-05-02,Facebook
+3162,Argentina,2022-03-18,Google Ads
+3163,Argentina,2023-06-01,Google Ads
+3164,Chile,2022-08-15,Google Ads
+3165,Chile,2022-08-13,Google Ads
+3166,México,2022-06-07,Orgánico
+3167,Colombia,2022-07-01,Referido
+3168,Perú,2023-07-19,Referido
+3169,Chile,2022-10-10,Google Ads
+3170,México,2022-09-27,Referido
+3171,Chile,2023-02-17,Referido
+3172,México,2024-01-30,Orgánico
+3173,México,2023-11-14,Facebook
+3174,Chile,2023-06-03,Referido
+3175,Perú,2024-02-28,Google Ads
+3176,Chile,2023-10-03,Orgánico
+3177,Colombia,2022-05-07,Facebook
+3178,Chile,2022-07-03,Referido
+3179,México,2023-12-03,Orgánico
+3180,Chile,2023-06-28,Google Ads
+3181,Argentina,2023-01-31,Facebook
+3182,Chile,2022-08-19,Referido
+3183,Argentina,2022-07-15,Referido
+3184,Chile,2022-07-07,Google Ads
+3185,Colombia,2022-08-25,Google Ads
+3186,Perú,2023-05-24,Facebook
+3187,México,2022-11-03,Facebook
+3188,Colombia,2023-05-04,Google Ads
+3189,Colombia,2022-12-14,Facebook
+3190,México,2024-02-10,Orgánico
+3191,México,2022-02-22,Referido
+3192,México,2023-12-19,Referido
+3193,México,2024-03-07,Orgánico
+3194,Colombia,2023-06-07,Referido
+3195,Argentina,2023-09-11,Referido
+3196,Argentina,2022-01-16,Orgánico
+3197,Perú,2022-04-02,Google Ads
+3198,Colombia,2023-02-04,Orgánico
+3199,México,2022-11-12,Google Ads
+3200,Chile,2023-01-15,Orgánico
+3201,Colombia,2023-01-04,Referido
+3202,Perú,2023-10-31,Referido
+3203,México,2022-04-04,Referido
+3204,Colombia,2024-01-07,Facebook
+3205,México,2023-09-22,Google Ads
+3206,Perú,2022-05-06,Facebook
+3207,Colombia,2023-02-05,Orgánico
+3208,México,2022-04-20,Facebook
+3209,Perú,2023-05-03,Referido
+3210,Colombia,2023-04-16,Orgánico
+3211,Perú,2023-07-18,Orgánico
+3212,Perú,2023-08-25,Referido
+3213,Chile,2022-01-10,Orgánico
+3214,México,2022-12-21,Google Ads
+3215,Argentina,2022-04-09,Referido
+3216,Colombia,2022-11-22,Facebook
+3217,Perú,2023-03-06,Orgánico
+3218,Colombia,2024-01-16,Referido
+3219,Perú,2022-12-29,Google Ads
+3220,Perú,2022-01-03,Facebook
+3221,Colombia,2023-10-24,Referido
+3222,Argentina,2024-02-04,Orgánico
+3223,Chile,2023-08-28,Orgánico
+3224,Argentina,2023-08-11,Referido
+3225,México,2024-01-18,Google Ads
+3226,Perú,2023-01-20,Orgánico
+3227,Perú,2022-03-04,Facebook
+3228,Perú,2024-01-09,Referido
+3229,México,2023-11-06,Google Ads
+3230,Chile,2023-03-25,Google Ads
+3231,México,2023-01-03,Referido
+3232,Chile,2022-05-21,Facebook
+3233,Perú,2023-02-03,Orgánico
+3234,Argentina,2023-09-08,Orgánico
+3235,Argentina,2022-11-30,Orgánico
+3236,Perú,2023-08-27,Facebook
+3237,Argentina,2023-08-19,Google Ads
+3238,Chile,2024-02-15,Google Ads
+3239,Colombia,2022-10-05,Orgánico
+3240,Chile,2022-04-16,Referido
+3241,México,2023-10-16,Referido
+3242,Chile,2023-10-11,Referido
+3243,Argentina,2022-03-09,Referido
+3244,Argentina,2023-03-29,Referido
+3245,Perú,2022-07-02,Orgánico
+3246,Chile,2023-02-24,Orgánico
+3247,Colombia,2022-04-02,Facebook
+3248,Perú,2023-04-28,Orgánico
+3249,México,2023-01-11,Google Ads
+3250,Argentina,2023-09-11,Referido
+3251,Perú,2022-03-04,Facebook
+3252,Argentina,2022-09-01,Facebook
+3253,Chile,2022-05-28,Orgánico
+3254,Colombia,2024-02-12,Orgánico
+3255,México,2023-10-05,Google Ads
+3256,Colombia,2023-06-20,Google Ads
+3257,Argentina,2023-07-28,Referido
+3258,Chile,2022-07-11,Orgánico
+3259,Perú,2023-05-30,Orgánico
+3260,Argentina,2022-07-25,Google Ads
+3261,Colombia,2022-03-18,Google Ads
+3262,Argentina,2023-06-27,Orgánico
+3263,México,2023-03-05,Google Ads
+3264,Colombia,2022-10-20,Orgánico
+3265,Colombia,2022-10-04,Facebook
+3266,Chile,2022-11-14,Referido
+3267,Argentina,2022-11-19,Facebook
+3268,Argentina,2022-05-14,Orgánico
+3269,Colombia,2022-10-19,Facebook
+3270,Chile,2022-09-04,Referido
+3271,Perú,2023-08-01,Orgánico
+3272,Argentina,2023-01-30,Facebook
+3273,Chile,2022-10-20,Referido
+3274,Colombia,2022-09-05,Referido
+3275,Chile,2022-01-04,Google Ads
+3276,México,2022-11-14,Google Ads
+3277,Perú,2022-03-30,Referido
+3278,Argentina,2022-11-12,Referido
+3279,Perú,2023-03-16,Facebook
+3280,Colombia,2022-01-08,Orgánico
+3281,México,2023-09-07,Referido
+3282,México,2024-01-24,Google Ads
+3283,Chile,2022-08-23,Referido
+3284,Colombia,2022-12-29,Facebook
+3285,Perú,2023-07-29,Orgánico
+3286,Perú,2022-07-16,Facebook
+3287,Colombia,2022-10-04,Referido
+3288,Argentina,2023-07-28,Google Ads
+3289,Chile,2023-05-10,Facebook
+3290,Perú,2022-07-13,Facebook
+3291,México,2023-08-03,Facebook
+3292,Colombia,2022-07-10,Referido
+3293,Argentina,2022-09-18,Facebook
+3294,Chile,2023-07-24,Referido
+3295,Perú,2023-06-10,Orgánico
+3296,Argentina,2022-02-17,Facebook
+3297,Perú,2023-01-13,Google Ads
+3298,Chile,2023-12-09,Orgánico
+3299,Perú,2022-10-08,Google Ads
+3300,Colombia,2023-09-19,Google Ads
+3301,Colombia,2024-01-12,Referido
+3302,Chile,2022-04-12,Google Ads
+3303,Colombia,2022-01-23,Google Ads
+3304,México,2022-09-10,Facebook
+3305,México,2023-09-26,Referido
+3306,Chile,2023-12-25,Orgánico
+3307,México,2022-11-08,Google Ads
+3308,Perú,2023-11-06,Orgánico
+3309,Perú,2022-02-01,Facebook
+3310,Colombia,2023-10-23,Google Ads
+3311,Argentina,2022-11-30,Google Ads
+3312,México,2024-02-08,Referido
+3313,Perú,2023-10-30,Orgánico
+3314,Perú,2023-10-20,Google Ads
+3315,Argentina,2024-01-12,Referido
+3316,México,2022-01-24,Orgánico
+3317,México,2024-01-25,Facebook
+3318,Chile,2023-03-03,Referido
+3319,México,2023-07-17,Facebook
+3320,Argentina,2022-06-14,Facebook
+3321,Argentina,2022-09-19,Referido
+3322,Chile,2022-04-11,Orgánico
+3323,Perú,2022-11-06,Orgánico
+3324,Chile,2023-09-09,Google Ads
+3325,Colombia,2023-11-22,Orgánico
+3326,Argentina,2022-09-16,Facebook
+3327,México,2023-12-29,Facebook
+3328,Argentina,2023-11-07,Orgánico
+3329,Colombia,2022-10-24,Google Ads
+3330,Perú,2023-08-16,Orgánico
+3331,Chile,2024-01-16,Orgánico
+3332,Perú,2023-06-10,Orgánico
+3333,Argentina,2023-05-15,Referido
+3334,Colombia,2022-07-09,Orgánico
+3335,México,2022-03-27,Orgánico
+3336,Perú,2022-03-26,Facebook
+3337,Perú,2023-12-31,Orgánico
+3338,Argentina,2024-01-14,Facebook
+3339,México,2023-02-25,Referido
+3340,México,2023-05-29,Facebook
+3341,Colombia,2023-03-11,Google Ads
+3342,Argentina,2023-04-08,Facebook
+3343,México,2022-05-13,Orgánico
+3344,Chile,2023-01-22,Google Ads
+3345,Chile,2023-02-08,Facebook
+3346,Colombia,2023-12-23,Facebook
+3347,Colombia,2022-03-12,Facebook
+3348,México,2022-05-19,Referido
+3349,Colombia,2023-04-14,Google Ads
+3350,México,2022-11-14,Orgánico
+3351,México,2022-11-23,Google Ads
+3352,Chile,2023-06-06,Orgánico
+3353,Colombia,2023-10-01,Referido
+3354,Colombia,2022-07-17,Facebook
+3355,Perú,2022-10-25,Referido
+3356,México,2022-06-27,Google Ads
+3357,Colombia,2023-06-17,Referido
+3358,Argentina,2022-03-16,Google Ads
+3359,Perú,2022-03-04,Orgánico
+3360,Perú,2024-03-06,Google Ads
+3361,Perú,2023-03-28,Google Ads
+3362,Colombia,2023-12-14,Referido
+3363,Colombia,2023-06-01,Facebook
+3364,Chile,2023-08-24,Google Ads
+3365,Perú,2023-07-15,Facebook
+3366,Chile,2023-04-05,Google Ads
+3367,Argentina,2023-10-03,Referido
+3368,Argentina,2022-06-06,Orgánico
+3369,Perú,2022-06-12,Orgánico
+3370,México,2022-12-06,Orgánico
+3371,Chile,2023-09-22,Google Ads
+3372,Chile,2023-07-17,Orgánico
+3373,México,2023-01-04,Facebook
+3374,Argentina,2022-07-02,Google Ads
+3375,Argentina,2022-08-30,Referido
+3376,Colombia,2023-06-08,Google Ads
+3377,Colombia,2022-01-28,Orgánico
+3378,México,2022-02-16,Orgánico
+3379,Argentina,2023-10-18,Orgánico
+3380,Chile,2024-01-08,Facebook
+3381,México,2022-02-23,Referido
+3382,México,2023-08-10,Referido
+3383,México,2023-09-06,Orgánico
+3384,México,2023-11-21,Referido
+3385,Colombia,2022-12-30,Google Ads
+3386,Chile,2023-06-09,Facebook
+3387,México,2022-07-07,Google Ads
+3388,Colombia,2022-04-24,Orgánico
+3389,Chile,2022-11-18,Orgánico
+3390,Colombia,2022-03-22,Referido
+3391,México,2023-03-19,Facebook
+3392,México,2023-12-18,Google Ads
+3393,Chile,2023-09-11,Referido
+3394,Colombia,2023-08-30,Facebook
+3395,Chile,2023-11-19,Google Ads
+3396,Argentina,2024-01-07,Facebook
+3397,Colombia,2022-10-09,Orgánico
+3398,México,2023-06-18,Referido
+3399,Colombia,2022-11-06,Facebook
+3400,Chile,2023-03-10,Google Ads
+3401,Perú,2023-03-25,Google Ads
+3402,Chile,2024-02-10,Facebook
+3403,Chile,2023-07-05,Orgánico
+3404,Argentina,2024-02-04,Orgánico
+3405,Argentina,2022-12-12,Facebook
+3406,Perú,2022-09-12,Google Ads
+3407,Argentina,2023-05-14,Google Ads
+3408,Argentina,2022-05-22,Orgánico
+3409,Argentina,2023-09-16,Facebook
+3410,Perú,2023-04-28,Orgánico
+3411,Perú,2022-02-11,Facebook
+3412,Colombia,2023-01-21,Referido
+3413,Argentina,2023-03-07,Google Ads
+3414,México,2022-06-18,Google Ads
+3415,Colombia,2023-07-26,Referido
+3416,México,2023-04-05,Referido
+3417,México,2023-12-20,Google Ads
+3418,Argentina,2024-02-11,Referido
+3419,Chile,2023-11-10,Orgánico
+3420,Argentina,2022-01-25,Orgánico
+3421,México,2023-03-20,Facebook
+3422,Colombia,2022-09-14,Facebook
+3423,Argentina,2022-11-04,Orgánico
+3424,Chile,2023-11-28,Referido
+3425,México,2023-11-26,Facebook
+3426,Argentina,2023-06-27,Facebook
+3427,Perú,2023-07-05,Orgánico
+3428,México,2023-02-28,Facebook
+3429,Perú,2023-10-12,Referido
+3430,Argentina,2022-06-24,Orgánico
+3431,Colombia,2023-06-24,Orgánico
+3432,Chile,2023-06-28,Google Ads
+3433,México,2022-12-27,Google Ads
+3434,Colombia,2022-07-07,Facebook
+3435,Colombia,2023-05-09,Google Ads
+3436,Perú,2023-08-17,Facebook
+3437,Argentina,2022-10-29,Referido
+3438,Perú,2022-10-05,Referido
+3439,Argentina,2022-11-28,Orgánico
+3440,Argentina,2023-08-16,Google Ads
+3441,Argentina,2023-04-09,Facebook
+3442,México,2023-07-22,Google Ads
+3443,Chile,2023-04-06,Google Ads
+3444,México,2023-11-12,Referido
+3445,Argentina,2023-08-06,Facebook
+3446,Perú,2024-03-07,Referido
+3447,Colombia,2023-02-11,Referido
+3448,Perú,2023-05-04,Facebook
+3449,Chile,2022-06-22,Orgánico
+3450,Argentina,2023-04-07,Orgánico
+3451,Argentina,2023-07-05,Orgánico
+3452,Argentina,2022-12-24,Referido
+3453,Colombia,2023-10-15,Google Ads
+3454,Colombia,2022-06-13,Orgánico
+3455,Chile,2023-03-13,Facebook
+3456,Chile,2022-03-21,Orgánico
+3457,Colombia,2022-09-24,Referido
+3458,Argentina,2022-06-20,Orgánico
+3459,Perú,2022-05-12,Referido
+3460,Perú,2024-02-18,Google Ads
+3461,Colombia,2022-02-26,Google Ads
+3462,Argentina,2023-07-19,Facebook
+3463,Chile,2023-01-21,Orgánico
+3464,Argentina,2022-12-10,Orgánico
+3465,Perú,2023-10-05,Orgánico
+3466,Chile,2023-05-03,Facebook
+3467,Argentina,2022-03-31,Orgánico
+3468,Argentina,2022-06-10,Facebook
+3469,Argentina,2022-08-16,Google Ads
+3470,Colombia,2022-09-12,Orgánico
+3471,Perú,2023-04-28,Orgánico
+3472,México,2022-05-13,Facebook
+3473,Chile,2022-12-06,Google Ads
+3474,Perú,2022-05-28,Facebook
+3475,México,2022-07-23,Facebook
+3476,Colombia,2022-12-09,Referido
+3477,Argentina,2022-10-24,Facebook
+3478,México,2024-01-10,Facebook
+3479,Argentina,2023-09-08,Orgánico
+3480,Colombia,2023-08-10,Google Ads
+3481,Colombia,2022-05-06,Facebook
+3482,Chile,2023-03-29,Referido
+3483,Colombia,2023-03-19,Google Ads
+3484,Colombia,2022-08-14,Orgánico
+3485,Argentina,2023-11-22,Referido
+3486,Colombia,2022-12-19,Orgánico
+3487,Argentina,2023-09-01,Orgánico
+3488,Argentina,2023-08-10,Orgánico
+3489,México,2023-08-23,Referido
+3490,Colombia,2022-04-07,Google Ads
+3491,Perú,2022-06-22,Referido
+3492,Chile,2023-01-23,Facebook
+3493,México,2024-03-05,Referido
+3494,Argentina,2023-06-13,Orgánico
+3495,Argentina,2022-02-10,Referido
+3496,México,2022-06-10,Orgánico
+3497,Argentina,2023-07-25,Google Ads
+3498,México,2022-05-12,Referido
+3499,Chile,2024-02-27,Referido
+3500,Perú,2022-07-08,Referido
+3501,Perú,2022-03-06,Google Ads
+3502,México,2024-01-08,Orgánico
+3503,Perú,2022-08-20,Referido
+3504,México,2023-02-04,Referido
+3505,México,2023-06-03,Referido
+3506,Chile,2022-05-30,Referido
+3507,Chile,2022-11-04,Orgánico
+3508,México,2023-06-26,Google Ads
+3509,Chile,2023-05-15,Facebook
+3510,Colombia,2022-07-24,Orgánico
+3511,México,2023-02-18,Google Ads
+3512,Colombia,2023-06-01,Facebook
+3513,Perú,2022-12-26,Google Ads
+3514,Colombia,2023-12-22,Orgánico
+3515,Colombia,2022-04-17,Orgánico
+3516,Argentina,2023-05-13,Orgánico
+3517,Chile,2023-05-04,Facebook
+3518,Perú,2022-06-01,Referido
+3519,Perú,2023-01-16,Google Ads
+3520,Argentina,2023-03-06,Orgánico
+3521,Perú,2022-09-30,Facebook
+3522,Perú,2024-01-09,Google Ads
+3523,México,2022-04-19,Facebook
+3524,Argentina,2023-03-08,Facebook
+3525,Colombia,2022-01-31,Orgánico
+3526,México,2022-09-10,Facebook
+3527,Perú,2022-12-26,Facebook
+3528,México,2022-03-12,Orgánico
+3529,Perú,2022-01-23,Google Ads
+3530,México,2022-07-01,Referido
+3531,Argentina,2023-03-21,Facebook
+3532,México,2023-06-20,Referido
+3533,Colombia,2023-09-14,Google Ads
+3534,Colombia,2022-10-19,Referido
+3535,Perú,2022-10-10,Google Ads
+3536,Argentina,2022-11-24,Referido
+3537,Colombia,2022-10-19,Facebook
+3538,Argentina,2022-07-15,Google Ads
+3539,México,2022-09-23,Referido
+3540,México,2023-05-13,Orgánico
+3541,Colombia,2022-08-15,Google Ads
+3542,Colombia,2022-07-28,Facebook
+3543,Argentina,2023-06-30,Orgánico
+3544,Argentina,2022-11-14,Google Ads
+3545,Argentina,2023-05-01,Google Ads
+3546,Argentina,2023-10-08,Referido
+3547,México,2023-02-17,Facebook
+3548,Perú,2022-01-17,Google Ads
+3549,Perú,2024-02-03,Facebook
+3550,Colombia,2022-02-14,Referido
+3551,Argentina,2022-11-14,Google Ads
+3552,Perú,2023-06-09,Google Ads
+3553,Perú,2023-01-05,Referido
+3554,México,2024-02-07,Facebook
+3555,Chile,2023-06-14,Google Ads
+3556,Argentina,2024-02-28,Google Ads
+3557,Perú,2022-05-01,Orgánico
+3558,Perú,2022-05-10,Referido
+3559,Argentina,2022-11-16,Orgánico
+3560,México,2022-06-18,Orgánico
+3561,México,2023-06-29,Facebook
+3562,Argentina,2023-09-26,Referido
+3563,México,2023-12-26,Orgánico
+3564,México,2023-03-03,Facebook
+3565,Argentina,2023-09-19,Facebook
+3566,Argentina,2023-01-29,Facebook
+3567,Chile,2022-03-18,Referido
+3568,Perú,2023-01-15,Facebook
+3569,Perú,2023-10-12,Facebook
+3570,Argentina,2022-06-04,Referido
+3571,Argentina,2023-06-10,Facebook
+3572,México,2022-02-22,Orgánico
+3573,Argentina,2022-12-07,Orgánico
+3574,Argentina,2023-07-28,Facebook
+3575,Argentina,2023-05-13,Referido
+3576,Chile,2023-04-16,Orgánico
+3577,Colombia,2023-10-23,Google Ads
+3578,México,2023-12-30,Facebook
+3579,Colombia,2023-07-26,Google Ads
+3580,Argentina,2023-03-24,Facebook
+3581,México,2023-02-28,Orgánico
+3582,Colombia,2023-10-31,Google Ads
+3583,Perú,2023-05-04,Google Ads
+3584,México,2024-03-03,Orgánico
+3585,Argentina,2023-04-14,Referido
+3586,México,2022-08-10,Facebook
+3587,Chile,2023-03-14,Orgánico
+3588,Colombia,2022-02-27,Facebook
+3589,Colombia,2022-10-22,Orgánico
+3590,Colombia,2023-10-14,Facebook
+3591,Colombia,2023-10-25,Google Ads
+3592,Perú,2023-06-13,Orgánico
+3593,Chile,2022-10-11,Google Ads
+3594,México,2023-03-05,Orgánico
+3595,Chile,2023-03-15,Google Ads
+3596,Chile,2022-06-28,Google Ads
+3597,Argentina,2022-02-04,Orgánico
+3598,Chile,2023-05-19,Orgánico
+3599,Perú,2022-10-12,Facebook
+3600,Perú,2023-03-29,Orgánico
+3601,México,2023-03-01,Referido
+3602,Perú,2022-05-27,Google Ads
+3603,Chile,2023-04-22,Referido
+3604,Chile,2022-01-21,Orgánico
+3605,Perú,2022-02-23,Facebook
+3606,Colombia,2023-09-13,Referido
+3607,México,2023-11-23,Facebook
+3608,Argentina,2023-01-05,Facebook
+3609,Perú,2023-05-30,Orgánico
+3610,Perú,2022-01-16,Referido
+3611,Perú,2023-10-11,Orgánico
+3612,Chile,2023-03-07,Google Ads
+3613,Chile,2023-01-20,Google Ads
+3614,Colombia,2023-07-30,Referido
+3615,México,2022-07-19,Orgánico
+3616,Colombia,2022-10-08,Google Ads
+3617,Colombia,2022-05-25,Referido
+3618,México,2023-02-26,Referido
+3619,Chile,2024-03-08,Google Ads
+3620,Colombia,2023-03-12,Google Ads
+3621,Chile,2022-04-15,Google Ads
+3622,Argentina,2022-11-05,Facebook
+3623,Argentina,2023-09-01,Orgánico
+3624,Chile,2022-09-08,Facebook
+3625,Argentina,2023-04-27,Google Ads
+3626,México,2022-06-06,Orgánico
+3627,Argentina,2022-11-08,Orgánico
+3628,Colombia,2022-12-07,Google Ads
+3629,Chile,2022-10-15,Orgánico
+3630,Perú,2022-01-15,Referido
+3631,Perú,2022-11-16,Orgánico
+3632,Chile,2023-06-02,Facebook
+3633,Chile,2023-08-02,Google Ads
+3634,Perú,2023-12-28,Orgánico
+3635,México,2023-05-18,Referido
+3636,Chile,2023-07-01,Orgánico
+3637,México,2023-05-01,Orgánico
+3638,Chile,2023-04-01,Google Ads
+3639,Chile,2023-08-30,Orgánico
+3640,Argentina,2023-09-16,Orgánico
+3641,Perú,2022-03-29,Referido
+3642,Perú,2022-06-26,Facebook
+3643,Chile,2022-02-09,Google Ads
+3644,Argentina,2022-05-14,Orgánico
+3645,México,2023-01-09,Referido
+3646,Colombia,2022-01-07,Google Ads
+3647,Colombia,2022-03-12,Referido
+3648,México,2023-11-22,Google Ads
+3649,México,2022-01-23,Google Ads
+3650,Argentina,2022-05-09,Orgánico
+3651,México,2022-07-05,Referido
+3652,México,2023-10-26,Orgánico
+3653,México,2023-04-18,Orgánico
+3654,Colombia,2022-03-31,Facebook
+3655,Chile,2022-10-21,Facebook
+3656,Argentina,2023-01-27,Orgánico
+3657,Chile,2022-10-30,Google Ads
+3658,Colombia,2024-01-26,Google Ads
+3659,Chile,2022-11-26,Facebook
+3660,México,2022-06-22,Google Ads
+3661,México,2023-10-15,Google Ads
+3662,Chile,2023-04-14,Google Ads
+3663,México,2024-01-27,Facebook
+3664,Perú,2022-05-31,Orgánico
+3665,Argentina,2022-02-19,Google Ads
+3666,México,2022-12-06,Google Ads
+3667,Colombia,2022-06-03,Google Ads
+3668,Chile,2023-06-07,Orgánico
+3669,Perú,2023-03-20,Facebook
+3670,Argentina,2023-05-18,Facebook
+3671,Chile,2023-10-15,Google Ads
+3672,Argentina,2023-05-04,Referido
+3673,Perú,2022-01-19,Orgánico
+3674,Perú,2023-01-02,Referido
+3675,México,2023-07-18,Referido
+3676,México,2024-03-05,Orgánico
+3677,Perú,2023-09-07,Referido
+3678,Chile,2023-05-01,Facebook
+3679,Chile,2024-01-08,Facebook
+3680,Chile,2024-01-09,Orgánico
+3681,Argentina,2022-07-18,Facebook
+3682,Argentina,2023-05-27,Referido
+3683,Perú,2022-09-09,Orgánico
+3684,Perú,2023-10-07,Google Ads
+3685,México,2023-05-14,Referido
+3686,México,2024-01-11,Google Ads
+3687,Argentina,2022-05-05,Facebook
+3688,Argentina,2023-03-10,Referido
+3689,Argentina,2022-03-10,Facebook
+3690,Perú,2023-09-09,Orgánico
+3691,México,2023-12-08,Facebook
+3692,Perú,2023-11-29,Referido
+3693,Argentina,2023-06-27,Facebook
+3694,Perú,2024-02-24,Google Ads
+3695,Chile,2023-02-23,Referido
+3696,Argentina,2022-02-16,Facebook
+3697,Colombia,2022-06-07,Orgánico
+3698,México,2024-02-28,Orgánico
+3699,Argentina,2022-01-10,Orgánico
+3700,Chile,2022-06-22,Facebook
+3701,Colombia,2022-10-21,Google Ads
+3702,México,2023-05-27,Facebook
+3703,Chile,2023-07-20,Referido
+3704,Argentina,2023-08-06,Facebook
+3705,Perú,2023-01-18,Facebook
+3706,Perú,2022-05-25,Referido
+3707,Colombia,2024-02-17,Orgánico
+3708,Colombia,2022-09-14,Google Ads
+3709,Colombia,2023-07-08,Google Ads
+3710,Chile,2023-05-25,Referido
+3711,México,2022-11-11,Referido
+3712,Chile,2022-11-24,Google Ads
+3713,Chile,2023-03-23,Referido
+3714,Colombia,2022-12-04,Google Ads
+3715,México,2022-11-12,Google Ads
+3716,Perú,2023-09-12,Referido
+3717,Chile,2022-08-03,Google Ads
+3718,México,2022-04-02,Orgánico
+3719,Argentina,2022-10-23,Facebook
+3720,Perú,2022-06-13,Orgánico
+3721,Chile,2022-08-07,Orgánico
+3722,México,2022-02-25,Google Ads
+3723,Chile,2022-04-28,Facebook
+3724,México,2024-02-12,Orgánico
+3725,Colombia,2023-09-26,Orgánico
+3726,Chile,2024-01-23,Referido
+3727,Colombia,2023-11-08,Facebook
+3728,Argentina,2023-05-19,Google Ads
+3729,Colombia,2022-09-01,Orgánico
+3730,Argentina,2022-09-09,Orgánico
+3731,Argentina,2023-10-10,Google Ads
+3732,México,2023-12-16,Referido
+3733,Argentina,2024-03-01,Facebook
+3734,Perú,2022-12-15,Google Ads
+3735,Perú,2023-12-09,Orgánico
+3736,Argentina,2022-04-14,Google Ads
+3737,Argentina,2023-01-17,Orgánico
+3738,Argentina,2023-07-23,Google Ads
+3739,Chile,2023-09-03,Referido
+3740,México,2023-03-14,Google Ads
+3741,Perú,2022-10-09,Facebook
+3742,México,2023-09-06,Orgánico
+3743,Chile,2022-11-12,Orgánico
+3744,Colombia,2022-09-10,Facebook
+3745,Colombia,2022-07-29,Facebook
+3746,Argentina,2022-12-21,Facebook
+3747,Perú,2022-12-31,Google Ads
+3748,Chile,2023-02-09,Orgánico
+3749,Perú,2022-06-15,Google Ads
+3750,Colombia,2022-01-01,Facebook
+3751,Colombia,2023-08-26,Facebook
+3752,Colombia,2023-09-06,Referido
+3753,Perú,2022-06-28,Facebook
+3754,Colombia,2022-11-08,Orgánico
+3755,Colombia,2022-08-30,Referido
+3756,Argentina,2022-04-28,Google Ads
+3757,Chile,2023-05-09,Facebook
+3758,Colombia,2023-12-29,Google Ads
+3759,Chile,2022-08-28,Facebook
+3760,Colombia,2022-07-04,Google Ads
+3761,Argentina,2023-08-26,Facebook
+3762,Chile,2022-01-13,Orgánico
+3763,Colombia,2022-12-09,Orgánico
+3764,Colombia,2022-02-24,Referido
+3765,Chile,2022-10-10,Google Ads
+3766,Perú,2023-01-03,Google Ads
+3767,Colombia,2022-05-25,Referido
+3768,Colombia,2022-05-08,Referido
+3769,Colombia,2023-10-08,Google Ads
+3770,Chile,2024-03-08,Google Ads
+3771,Chile,2023-04-07,Facebook
+3772,Colombia,2022-10-20,Google Ads
+3773,México,2023-10-21,Referido
+3774,Argentina,2023-07-13,Referido
+3775,Chile,2023-07-22,Facebook
+3776,Colombia,2023-09-03,Orgánico
+3777,Argentina,2023-09-30,Referido
+3778,Chile,2022-07-21,Referido
+3779,México,2023-05-14,Facebook
+3780,México,2022-06-24,Orgánico
+3781,Chile,2022-05-09,Google Ads
+3782,Chile,2022-11-06,Google Ads
+3783,Colombia,2023-03-20,Orgánico
+3784,Argentina,2022-07-02,Referido
+3785,Argentina,2023-08-17,Referido
+3786,México,2023-10-24,Referido
+3787,México,2023-12-03,Referido
+3788,Argentina,2022-08-15,Google Ads
+3789,Perú,2022-08-16,Facebook
+3790,Perú,2024-02-04,Facebook
+3791,Perú,2023-07-13,Orgánico
+3792,Colombia,2022-02-09,Referido
+3793,Perú,2022-05-26,Referido
+3794,Argentina,2024-02-10,Orgánico
+3795,Perú,2022-10-23,Facebook
+3796,Chile,2023-01-12,Facebook
+3797,Chile,2023-08-22,Orgánico
+3798,Perú,2023-10-22,Orgánico
+3799,Argentina,2022-11-19,Orgánico
+3800,México,2023-02-18,Google Ads
+3801,Colombia,2022-10-04,Google Ads
+3802,Colombia,2023-12-16,Facebook
+3803,Chile,2023-11-01,Google Ads
+3804,Perú,2023-05-22,Google Ads
+3805,Chile,2023-09-13,Referido
+3806,Argentina,2022-05-11,Orgánico
+3807,Colombia,2023-06-03,Facebook
+3808,Chile,2023-02-22,Google Ads
+3809,México,2023-04-12,Referido
+3810,México,2023-06-13,Google Ads
+3811,Argentina,2023-01-08,Orgánico
+3812,Argentina,2023-01-14,Referido
+3813,Argentina,2023-06-30,Facebook
+3814,Colombia,2023-08-18,Facebook
+3815,Chile,2023-07-28,Orgánico
+3816,Colombia,2022-03-03,Referido
+3817,Argentina,2023-01-13,Facebook
+3818,Perú,2023-09-24,Google Ads
+3819,México,2023-01-07,Google Ads
+3820,Chile,2022-09-30,Referido
+3821,México,2022-06-04,Google Ads
+3822,Perú,2023-11-11,Referido
+3823,Perú,2022-11-11,Orgánico
+3824,Chile,2023-10-18,Referido
+3825,Colombia,2022-07-30,Google Ads
+3826,Chile,2023-09-03,Google Ads
+3827,Argentina,2022-06-17,Google Ads
+3828,Perú,2023-01-27,Referido
+3829,Perú,2023-07-04,Referido
+3830,México,2022-08-19,Google Ads
+3831,México,2023-09-30,Referido
+3832,Chile,2022-04-17,Referido
+3833,Colombia,2023-09-23,Referido
+3834,Argentina,2022-08-19,Referido
+3835,Chile,2022-09-13,Orgánico
+3836,México,2023-03-13,Referido
+3837,Chile,2022-08-17,Referido
+3838,Perú,2023-10-13,Google Ads
+3839,México,2022-11-09,Facebook
+3840,Chile,2022-03-31,Referido
+3841,México,2022-06-18,Facebook
+3842,Colombia,2022-02-21,Referido
+3843,México,2022-01-22,Orgánico
+3844,Perú,2022-05-28,Orgánico
+3845,Perú,2022-12-28,Facebook
+3846,Colombia,2022-06-21,Facebook
+3847,México,2023-08-23,Referido
+3848,Argentina,2022-08-18,Referido
+3849,Perú,2023-03-04,Google Ads
+3850,Perú,2023-02-12,Facebook
+3851,Perú,2022-07-08,Referido
+3852,Perú,2022-03-14,Google Ads
+3853,Argentina,2023-06-04,Orgánico
+3854,Perú,2023-03-16,Facebook
+3855,México,2023-12-03,Facebook
+3856,Colombia,2022-03-19,Referido
+3857,Colombia,2022-09-28,Orgánico
+3858,Argentina,2022-12-17,Referido
+3859,Perú,2022-01-22,Facebook
+3860,Perú,2023-12-21,Google Ads
+3861,Colombia,2023-07-27,Facebook
+3862,Colombia,2023-04-15,Facebook
+3863,México,2022-10-22,Facebook
+3864,Colombia,2023-10-13,Google Ads
+3865,Argentina,2022-11-30,Google Ads
+3866,Argentina,2022-09-21,Orgánico
+3867,Argentina,2022-08-14,Orgánico
+3868,México,2022-12-13,Facebook
+3869,Chile,2023-01-08,Google Ads
+3870,Chile,2023-09-11,Orgánico
+3871,Colombia,2022-04-30,Orgánico
+3872,Chile,2023-02-10,Google Ads
+3873,Colombia,2022-12-13,Facebook
+3874,Argentina,2022-10-29,Facebook
+3875,Perú,2022-09-14,Facebook
+3876,Argentina,2023-03-04,Facebook
+3877,Chile,2023-01-26,Orgánico
+3878,Chile,2024-02-12,Google Ads
+3879,Colombia,2023-10-27,Google Ads
+3880,Chile,2023-06-09,Referido
+3881,México,2023-11-30,Google Ads
+3882,Colombia,2023-04-11,Facebook
+3883,Colombia,2023-11-02,Orgánico
+3884,Chile,2023-06-18,Google Ads
+3885,México,2023-11-17,Orgánico
+3886,México,2023-06-17,Facebook
+3887,Colombia,2022-07-24,Facebook
+3888,Chile,2022-06-27,Google Ads
+3889,Chile,2022-06-12,Google Ads
+3890,Perú,2022-06-22,Facebook
+3891,Argentina,2023-02-24,Facebook
+3892,Argentina,2023-05-31,Referido
+3893,México,2022-04-29,Referido
+3894,México,2022-01-22,Referido
+3895,Perú,2023-11-15,Orgánico
+3896,Argentina,2024-03-07,Google Ads
+3897,Colombia,2022-06-06,Google Ads
+3898,Chile,2023-09-20,Facebook
+3899,Argentina,2022-08-13,Orgánico
+3900,Chile,2024-01-02,Referido
+3901,Colombia,2023-08-22,Google Ads
+3902,Argentina,2022-12-18,Google Ads
+3903,Colombia,2023-10-08,Google Ads
+3904,Chile,2022-04-09,Referido
+3905,Chile,2023-04-26,Facebook
+3906,Chile,2024-01-07,Google Ads
+3907,Argentina,2023-07-19,Facebook
+3908,Chile,2023-11-26,Facebook
+3909,México,2022-03-03,Orgánico
+3910,México,2023-11-19,Referido
+3911,Colombia,2023-12-30,Orgánico
+3912,Argentina,2023-09-23,Google Ads
+3913,Perú,2022-02-21,Referido
+3914,Argentina,2022-12-28,Referido
+3915,México,2022-05-01,Referido
+3916,Colombia,2022-02-18,Facebook
+3917,Chile,2023-07-18,Google Ads
+3918,Argentina,2022-02-05,Orgánico
+3919,Perú,2022-12-26,Google Ads
+3920,México,2022-11-20,Orgánico
+3921,Chile,2022-04-13,Referido
+3922,Argentina,2023-02-05,Referido
+3923,Argentina,2023-05-20,Facebook
+3924,Chile,2022-09-26,Orgánico
+3925,Chile,2022-04-21,Referido
+3926,Argentina,2022-09-15,Facebook
+3927,Chile,2022-03-08,Google Ads
+3928,Colombia,2024-02-29,Google Ads
+3929,Chile,2023-01-07,Orgánico
+3930,Argentina,2023-03-18,Facebook
+3931,México,2022-10-09,Referido
+3932,Colombia,2023-06-04,Orgánico
+3933,México,2022-01-18,Google Ads
+3934,Argentina,2023-11-19,Google Ads
+3935,México,2023-07-22,Orgánico
+3936,Colombia,2022-09-26,Orgánico
+3937,Colombia,2022-12-08,Orgánico
+3938,Chile,2022-03-21,Orgánico
+3939,Colombia,2022-02-15,Referido
+3940,Perú,2023-02-21,Google Ads
+3941,Chile,2024-02-08,Orgánico
+3942,Chile,2023-11-20,Referido
+3943,Perú,2023-04-11,Google Ads
+3944,Chile,2023-06-26,Facebook
+3945,Colombia,2022-01-22,Facebook
+3946,Chile,2022-04-07,Referido
+3947,México,2023-02-13,Orgánico
+3948,Chile,2023-12-13,Referido
+3949,Argentina,2022-06-29,Orgánico
+3950,Perú,2023-07-26,Facebook
+3951,Colombia,2022-11-05,Facebook
+3952,Argentina,2022-08-02,Facebook
+3953,México,2024-02-24,Google Ads
+3954,Perú,2023-01-29,Facebook
+3955,Colombia,2023-09-15,Google Ads
+3956,Chile,2022-06-21,Facebook
+3957,Chile,2022-08-21,Referido
+3958,Argentina,2023-03-19,Google Ads
+3959,Colombia,2022-10-01,Orgánico
+3960,Perú,2022-12-15,Facebook
+3961,Perú,2023-01-25,Orgánico
+3962,Chile,2023-05-14,Google Ads
+3963,Colombia,2023-10-10,Orgánico
+3964,Colombia,2023-09-21,Facebook
+3965,Argentina,2022-09-14,Orgánico
+3966,Colombia,2023-03-07,Google Ads
+3967,Colombia,2022-03-29,Orgánico
+3968,Colombia,2022-03-10,Referido
+3969,Chile,2023-05-16,Facebook
+3970,México,2023-10-23,Referido
+3971,Chile,2023-11-26,Orgánico
+3972,México,2022-02-09,Orgánico
+3973,Chile,2022-07-20,Facebook
+3974,Perú,2023-11-16,Referido
+3975,Colombia,2023-10-04,Orgánico
+3976,Argentina,2023-03-07,Orgánico
+3977,Perú,2023-01-28,Referido
+3978,Argentina,2022-10-25,Referido
+3979,Colombia,2022-06-28,Orgánico
+3980,Chile,2023-06-15,Google Ads
+3981,Argentina,2022-02-13,Google Ads
+3982,Chile,2022-09-15,Google Ads
+3983,Argentina,2022-02-06,Referido
+3984,Argentina,2022-11-19,Orgánico
+3985,Perú,2022-12-24,Facebook
+3986,Colombia,2023-11-27,Facebook
+3987,Chile,2022-08-13,Orgánico
+3988,Colombia,2024-01-07,Google Ads
+3989,Chile,2023-12-22,Facebook
+3990,Colombia,2023-07-02,Referido
+3991,Colombia,2023-12-07,Facebook
+3992,Perú,2023-07-05,Orgánico
+3993,Perú,2023-10-24,Referido
+3994,Chile,2023-02-12,Google Ads
+3995,Chile,2022-02-17,Facebook
+3996,Perú,2022-08-15,Referido
+3997,Argentina,2022-07-10,Referido
+3998,Colombia,2024-02-24,Google Ads
+3999,México,2023-07-16,Orgánico
+4000,México,2023-02-03,Orgánico
+4001,Chile,2022-10-20,Facebook
+4002,Perú,2022-11-15,Orgánico
+4003,Argentina,2022-12-25,Google Ads
+4004,Perú,2022-03-09,Facebook
+4005,Colombia,2023-10-15,Orgánico
+4006,México,2022-08-25,Referido
+4007,Colombia,2022-01-18,Google Ads
+4008,Chile,2022-12-06,Facebook
+4009,Chile,2024-02-14,Referido
+4010,Colombia,2023-01-07,Facebook
+4011,Argentina,2022-02-10,Referido
+4012,Chile,2022-02-02,Facebook
+4013,Colombia,2023-12-20,Facebook
+4014,Argentina,2022-03-17,Referido
+4015,Perú,2022-08-29,Google Ads
+4016,Argentina,2022-11-12,Google Ads
+4017,Perú,2022-12-04,Referido
+4018,Colombia,2022-09-16,Referido
+4019,Colombia,2022-03-10,Facebook
+4020,Perú,2022-11-11,Orgánico
+4021,Perú,2023-06-17,Referido
+4022,Colombia,2022-10-20,Orgánico
+4023,México,2024-02-01,Facebook
+4024,Perú,2023-06-19,Google Ads
+4025,Chile,2022-12-06,Referido
+4026,Colombia,2022-03-20,Facebook
+4027,Perú,2023-03-31,Referido
+4028,Colombia,2023-09-16,Google Ads
+4029,Chile,2022-06-17,Orgánico
+4030,Argentina,2022-05-29,Orgánico
+4031,Chile,2023-03-27,Facebook
+4032,Chile,2023-02-05,Facebook
+4033,Argentina,2022-05-29,Google Ads
+4034,Colombia,2024-02-08,Orgánico
+4035,Argentina,2023-09-04,Facebook
+4036,Argentina,2023-12-27,Facebook
+4037,México,2024-01-26,Facebook
+4038,México,2022-01-31,Referido
+4039,Perú,2022-06-19,Google Ads
+4040,Perú,2022-05-07,Referido
+4041,Argentina,2024-03-10,Facebook
+4042,Perú,2023-07-29,Orgánico
+4043,Colombia,2024-01-13,Orgánico
+4044,México,2023-10-24,Orgánico
+4045,Argentina,2023-04-19,Orgánico
+4046,Colombia,2024-03-04,Orgánico
+4047,Chile,2022-09-20,Orgánico
+4048,Colombia,2022-11-04,Facebook
+4049,Perú,2022-06-23,Referido
+4050,México,2022-10-04,Google Ads
+4051,Colombia,2022-02-18,Google Ads
+4052,Chile,2022-08-20,Orgánico
+4053,Perú,2024-01-06,Google Ads
+4054,Colombia,2023-02-27,Google Ads
+4055,Argentina,2022-12-20,Referido
+4056,México,2023-04-18,Referido
+4057,Argentina,2022-02-16,Facebook
+4058,Chile,2022-03-29,Facebook
+4059,Argentina,2022-07-02,Facebook
+4060,México,2022-03-31,Facebook
+4061,Colombia,2023-11-03,Referido
+4062,Colombia,2024-02-10,Orgánico
+4063,Chile,2024-01-22,Orgánico
+4064,Chile,2023-09-13,Referido
+4065,Argentina,2023-02-25,Referido
+4066,Perú,2022-12-29,Google Ads
+4067,México,2023-11-21,Referido
+4068,Perú,2022-07-14,Google Ads
+4069,México,2023-12-01,Facebook
+4070,Chile,2022-07-28,Referido
+4071,Perú,2022-05-04,Orgánico
+4072,México,2023-01-23,Facebook
+4073,Colombia,2023-05-10,Google Ads
+4074,Argentina,2022-07-04,Referido
+4075,Argentina,2022-08-09,Facebook
+4076,Chile,2022-02-16,Facebook
+4077,México,2024-01-26,Facebook
+4078,México,2023-10-17,Orgánico
+4079,Colombia,2023-08-16,Orgánico
+4080,Perú,2023-09-13,Orgánico
+4081,Chile,2024-02-26,Facebook
+4082,Chile,2022-07-14,Orgánico
+4083,México,2022-12-13,Orgánico
+4084,Perú,2023-06-26,Referido
+4085,Chile,2023-08-29,Orgánico
+4086,Argentina,2022-10-26,Facebook
+4087,México,2022-07-18,Facebook
+4088,Argentina,2022-12-31,Referido
+4089,México,2023-11-16,Orgánico
+4090,Perú,2022-07-02,Orgánico
+4091,Chile,2023-01-30,Orgánico
+4092,Colombia,2022-09-14,Orgánico
+4093,Colombia,2023-01-06,Facebook
+4094,Perú,2023-08-03,Referido
+4095,México,2023-09-09,Facebook
+4096,México,2023-07-12,Facebook
+4097,México,2022-11-21,Orgánico
+4098,Chile,2023-12-27,Google Ads
+4099,Perú,2023-03-07,Referido
+4100,Argentina,2022-12-15,Facebook
+4101,Perú,2022-11-11,Facebook
+4102,Colombia,2022-11-01,Google Ads
+4103,Perú,2023-05-02,Referido
+4104,Perú,2023-10-19,Orgánico
+4105,Chile,2023-10-23,Referido
+4106,Chile,2023-03-21,Google Ads
+4107,Chile,2023-09-30,Google Ads
+4108,México,2023-01-05,Referido
+4109,Colombia,2022-02-03,Referido
+4110,México,2023-05-02,Facebook
+4111,México,2023-03-08,Facebook
+4112,Chile,2022-06-12,Google Ads
+4113,Perú,2023-02-08,Google Ads
+4114,Chile,2023-04-02,Orgánico
+4115,Chile,2022-12-23,Google Ads
+4116,Chile,2023-07-09,Orgánico
+4117,Perú,2022-12-16,Referido
+4118,Chile,2023-01-11,Facebook
+4119,Argentina,2023-02-14,Orgánico
+4120,Chile,2023-10-01,Google Ads
+4121,Chile,2023-04-21,Referido
+4122,Argentina,2022-02-05,Google Ads
+4123,Chile,2022-09-27,Facebook
+4124,Argentina,2022-09-20,Google Ads
+4125,Argentina,2023-03-28,Google Ads
+4126,Colombia,2023-02-13,Orgánico
+4127,Chile,2022-02-06,Orgánico
+4128,Perú,2022-07-31,Referido
+4129,Colombia,2022-11-19,Referido
+4130,Chile,2022-08-19,Referido
+4131,Perú,2023-08-24,Orgánico
+4132,Chile,2023-05-10,Google Ads
+4133,México,2022-05-03,Facebook
+4134,Chile,2022-05-10,Facebook
+4135,Perú,2023-09-16,Referido
+4136,Chile,2024-03-02,Facebook
+4137,Chile,2022-04-16,Referido
+4138,Argentina,2024-02-21,Orgánico
+4139,Perú,2023-09-28,Referido
+4140,Colombia,2023-10-21,Google Ads
+4141,Argentina,2022-10-22,Orgánico
+4142,Perú,2023-02-13,Referido
+4143,Chile,2024-02-02,Google Ads
+4144,Argentina,2022-08-04,Orgánico
+4145,Argentina,2023-12-07,Referido
+4146,México,2023-07-20,Orgánico
+4147,Chile,2022-11-01,Google Ads
+4148,Perú,2023-03-05,Google Ads
+4149,Argentina,2023-05-20,Referido
+4150,Colombia,2023-04-03,Facebook
+4151,México,2023-03-05,Facebook
+4152,Perú,2022-02-09,Orgánico
+4153,Chile,2022-08-29,Referido
+4154,México,2023-01-26,Referido
+4155,Perú,2023-02-04,Referido
+4156,Colombia,2022-12-14,Orgánico
+4157,Chile,2023-11-27,Google Ads
+4158,Perú,2023-03-06,Orgánico
+4159,Argentina,2022-01-07,Facebook
+4160,México,2024-02-02,Orgánico
+4161,Argentina,2023-09-26,Facebook
+4162,Chile,2023-01-08,Orgánico
+4163,Argentina,2022-12-26,Orgánico
+4164,Chile,2022-01-09,Google Ads
+4165,Perú,2024-01-29,Facebook
+4166,México,2023-08-04,Google Ads
+4167,Chile,2022-12-25,Referido
+4168,Perú,2023-05-24,Facebook
+4169,Colombia,2022-04-06,Facebook
+4170,México,2024-02-13,Referido
+4171,Perú,2022-03-09,Orgánico
+4172,México,2023-01-02,Referido
+4173,México,2023-11-18,Orgánico
+4174,Argentina,2023-05-26,Google Ads
+4175,Chile,2022-11-29,Facebook
+4176,Colombia,2022-03-09,Orgánico
+4177,Perú,2022-11-20,Referido
+4178,Argentina,2023-11-02,Facebook
+4179,Colombia,2022-03-24,Orgánico
+4180,Colombia,2022-02-16,Google Ads
+4181,México,2023-12-31,Facebook
+4182,Perú,2023-09-28,Facebook
+4183,Chile,2022-10-11,Google Ads
+4184,Perú,2024-01-20,Referido
+4185,Chile,2023-08-16,Orgánico
+4186,México,2024-02-02,Orgánico
+4187,Perú,2024-02-02,Facebook
+4188,Argentina,2023-02-08,Orgánico
+4189,Argentina,2023-12-12,Facebook
+4190,Argentina,2023-07-10,Referido
+4191,Argentina,2023-10-07,Google Ads
+4192,Colombia,2023-01-03,Facebook
+4193,México,2022-03-11,Orgánico
+4194,Argentina,2022-07-10,Facebook
+4195,Chile,2022-08-08,Referido
+4196,Colombia,2023-09-22,Referido
+4197,Argentina,2022-05-28,Facebook
+4198,Argentina,2023-07-10,Facebook
+4199,Colombia,2023-05-11,Orgánico
+4200,Colombia,2022-03-13,Orgánico
+4201,Chile,2023-11-23,Google Ads
+4202,Argentina,2022-03-07,Referido
+4203,Perú,2023-06-20,Orgánico
+4204,Perú,2022-02-18,Google Ads
+4205,Chile,2022-05-21,Orgánico
+4206,Argentina,2022-04-22,Facebook
+4207,Argentina,2022-02-09,Facebook
+4208,Argentina,2023-01-23,Google Ads
+4209,Chile,2022-04-08,Referido
+4210,Chile,2022-10-31,Referido
+4211,Colombia,2022-01-29,Google Ads
+4212,Perú,2022-10-13,Referido
+4213,México,2022-09-06,Referido
+4214,Chile,2022-07-04,Orgánico
+4215,México,2022-03-28,Referido
+4216,Perú,2022-12-06,Referido
+4217,Chile,2023-12-29,Facebook
+4218,Colombia,2023-08-09,Orgánico
+4219,Argentina,2022-06-10,Orgánico
+4220,Perú,2022-12-31,Google Ads
+4221,Argentina,2023-06-17,Google Ads
+4222,Argentina,2022-08-01,Facebook
+4223,Colombia,2023-10-12,Google Ads
+4224,Chile,2023-07-08,Referido
+4225,México,2023-09-06,Referido
+4226,Argentina,2023-11-30,Google Ads
+4227,Perú,2022-08-14,Orgánico
+4228,Colombia,2022-05-04,Google Ads
+4229,Argentina,2023-01-20,Google Ads
+4230,Perú,2022-01-22,Facebook
+4231,Perú,2022-01-14,Referido
+4232,México,2022-04-06,Orgánico
+4233,Argentina,2022-12-19,Facebook
+4234,Chile,2022-06-12,Facebook
+4235,Chile,2022-09-20,Orgánico
+4236,Argentina,2023-12-17,Google Ads
+4237,Argentina,2022-06-19,Orgánico
+4238,Perú,2022-05-09,Orgánico
+4239,Chile,2022-10-28,Facebook
+4240,Argentina,2022-01-28,Facebook
+4241,Colombia,2022-12-27,Facebook
+4242,Colombia,2023-09-05,Orgánico
+4243,Perú,2022-08-25,Referido
+4244,Chile,2022-09-10,Facebook
+4245,Argentina,2023-05-09,Facebook
+4246,Perú,2023-07-31,Facebook
+4247,Colombia,2023-08-04,Facebook
+4248,Argentina,2023-05-10,Referido
+4249,Perú,2023-08-12,Google Ads
+4250,Colombia,2022-05-10,Referido
+4251,Colombia,2023-07-13,Orgánico
+4252,Chile,2024-01-21,Referido
+4253,Chile,2022-09-15,Facebook
+4254,Perú,2022-10-23,Referido
+4255,Colombia,2023-09-08,Google Ads
+4256,Colombia,2023-08-24,Orgánico
+4257,Perú,2024-03-06,Orgánico
+4258,Perú,2022-11-19,Referido
+4259,México,2023-07-15,Google Ads
+4260,México,2023-06-22,Referido
+4261,Perú,2022-08-24,Referido
+4262,Argentina,2023-11-30,Referido
+4263,Colombia,2022-08-23,Orgánico
+4264,Argentina,2024-02-01,Google Ads
+4265,Chile,2023-08-20,Referido
+4266,México,2023-12-05,Facebook
+4267,Perú,2022-06-10,Referido
+4268,Colombia,2022-07-03,Facebook
+4269,Argentina,2022-09-19,Referido
+4270,México,2022-06-05,Google Ads
+4271,Colombia,2023-08-26,Referido
+4272,Chile,2022-09-24,Orgánico
+4273,México,2023-01-15,Facebook
+4274,Perú,2022-06-06,Facebook
+4275,Argentina,2022-08-22,Orgánico
+4276,Perú,2022-10-31,Facebook
+4277,Perú,2023-05-25,Facebook
+4278,México,2023-06-17,Facebook
+4279,Colombia,2022-11-29,Referido
+4280,Argentina,2023-10-17,Referido
+4281,Perú,2022-02-19,Referido
+4282,Colombia,2022-11-02,Google Ads
+4283,Argentina,2022-04-19,Orgánico
+4284,Colombia,2024-02-15,Referido
+4285,Perú,2023-11-26,Google Ads
+4286,Perú,2024-02-19,Referido
+4287,México,2022-09-25,Facebook
+4288,Argentina,2022-08-03,Facebook
+4289,Argentina,2023-01-18,Facebook
+4290,México,2023-06-21,Facebook
+4291,México,2023-06-04,Orgánico
+4292,Perú,2022-09-04,Google Ads
+4293,Chile,2023-11-23,Facebook
+4294,Chile,2022-10-10,Facebook
+4295,Chile,2022-05-04,Facebook
+4296,Argentina,2023-04-01,Orgánico
+4297,Perú,2022-10-18,Referido
+4298,Perú,2022-10-20,Facebook
+4299,Colombia,2023-10-16,Google Ads
+4300,México,2022-01-25,Facebook
+4301,Argentina,2022-07-21,Referido
+4302,Argentina,2023-03-13,Google Ads
+4303,Perú,2023-05-16,Google Ads
+4304,Perú,2023-04-07,Facebook
+4305,Argentina,2023-08-21,Google Ads
+4306,Perú,2023-02-23,Referido
+4307,Chile,2022-06-25,Referido
+4308,Argentina,2022-03-31,Orgánico
+4309,Perú,2022-08-19,Orgánico
+4310,México,2023-02-05,Referido
+4311,Chile,2022-12-25,Google Ads
+4312,Chile,2022-05-19,Orgánico
+4313,México,2023-02-04,Referido
+4314,México,2022-06-26,Orgánico
+4315,Colombia,2022-02-02,Google Ads
+4316,Chile,2023-07-25,Referido
+4317,Perú,2023-08-12,Orgánico
+4318,Argentina,2022-12-22,Facebook
+4319,Perú,2023-05-26,Facebook
+4320,Colombia,2022-03-26,Referido
+4321,Perú,2023-07-18,Referido
+4322,México,2022-06-06,Facebook
+4323,México,2023-02-13,Facebook
+4324,Perú,2024-02-17,Orgánico
+4325,México,2024-02-06,Referido
+4326,Colombia,2023-01-06,Referido
+4327,Colombia,2023-06-16,Facebook
+4328,México,2022-10-17,Orgánico
+4329,México,2023-05-13,Referido
+4330,Perú,2022-08-08,Referido
+4331,Chile,2022-11-14,Facebook
+4332,Chile,2022-02-06,Google Ads
+4333,Colombia,2023-04-17,Referido
+4334,Colombia,2024-01-09,Orgánico
+4335,Chile,2022-05-04,Google Ads
+4336,Colombia,2023-09-03,Google Ads
+4337,Colombia,2023-10-23,Referido
+4338,Argentina,2024-03-04,Google Ads
+4339,Perú,2022-10-20,Facebook
+4340,Chile,2023-11-15,Referido
+4341,México,2023-11-24,Google Ads
+4342,Chile,2023-03-13,Facebook
+4343,México,2022-12-05,Google Ads
+4344,Argentina,2022-03-29,Orgánico
+4345,Chile,2022-03-15,Facebook
+4346,Chile,2023-09-30,Facebook
+4347,Chile,2023-05-18,Referido
+4348,Argentina,2022-10-02,Referido
+4349,Colombia,2023-01-07,Facebook
+4350,Chile,2022-04-05,Referido
+4351,Colombia,2023-08-14,Google Ads
+4352,Perú,2023-05-23,Orgánico
+4353,Colombia,2023-05-10,Facebook
+4354,Chile,2023-07-29,Facebook
+4355,Argentina,2023-10-24,Referido
+4356,Perú,2022-11-21,Referido
+4357,Argentina,2023-01-18,Referido
+4358,Argentina,2022-06-05,Referido
+4359,Chile,2023-01-05,Google Ads
+4360,Colombia,2022-09-02,Referido
+4361,México,2023-05-07,Google Ads
+4362,Chile,2023-03-19,Google Ads
+4363,Perú,2022-08-23,Facebook
+4364,Argentina,2024-01-26,Orgánico
+4365,Chile,2022-09-25,Orgánico
+4366,Colombia,2023-02-17,Referido
+4367,Perú,2023-11-13,Referido
+4368,Chile,2023-05-05,Referido
+4369,Argentina,2023-03-10,Referido
+4370,México,2022-12-30,Facebook
+4371,Argentina,2022-09-30,Referido
+4372,Colombia,2022-07-22,Referido
+4373,Argentina,2022-08-20,Facebook
+4374,México,2023-01-06,Referido
+4375,Chile,2023-07-19,Referido
+4376,Perú,2022-04-24,Google Ads
+4377,Perú,2024-02-23,Orgánico
+4378,México,2022-04-12,Referido
+4379,Colombia,2023-08-14,Referido
+4380,México,2023-11-03,Orgánico
+4381,Chile,2023-03-11,Orgánico
+4382,Argentina,2023-02-06,Facebook
+4383,Argentina,2023-01-31,Orgánico
+4384,Perú,2023-04-13,Orgánico
+4385,Argentina,2022-02-02,Google Ads
+4386,Chile,2022-05-14,Google Ads
+4387,Colombia,2022-04-11,Facebook
+4388,Chile,2024-02-12,Google Ads
+4389,Colombia,2023-01-10,Orgánico
+4390,Argentina,2024-02-10,Facebook
+4391,Argentina,2022-04-29,Google Ads
+4392,Colombia,2024-02-12,Orgánico
+4393,Argentina,2022-09-18,Referido
+4394,Colombia,2023-04-20,Facebook
+4395,Chile,2023-01-29,Orgánico
+4396,Perú,2023-11-10,Google Ads
+4397,Argentina,2022-11-10,Referido
+4398,México,2023-03-13,Facebook
+4399,Perú,2022-03-24,Referido
+4400,Colombia,2022-01-25,Facebook
+4401,Argentina,2024-01-24,Orgánico
+4402,Chile,2022-10-12,Google Ads
+4403,Perú,2023-07-17,Google Ads
+4404,México,2022-05-30,Google Ads
+4405,México,2024-03-10,Referido
+4406,Argentina,2022-08-01,Google Ads
+4407,Colombia,2024-01-30,Orgánico
+4408,Chile,2022-06-22,Google Ads
+4409,México,2024-02-15,Google Ads
+4410,Chile,2023-09-06,Google Ads
+4411,Perú,2022-04-12,Orgánico
+4412,Colombia,2024-03-03,Orgánico
+4413,México,2023-10-14,Facebook
+4414,México,2022-10-20,Google Ads
+4415,Perú,2022-05-17,Facebook
+4416,Colombia,2022-08-15,Orgánico
+4417,Perú,2022-04-21,Google Ads
+4418,Colombia,2023-07-18,Orgánico
+4419,México,2022-03-23,Facebook
+4420,Colombia,2022-08-01,Referido
+4421,México,2022-04-23,Google Ads
+4422,Chile,2023-05-24,Referido
+4423,Perú,2023-03-26,Google Ads
+4424,Perú,2022-04-17,Referido
+4425,Chile,2022-07-22,Referido
+4426,Chile,2023-07-03,Orgánico
+4427,México,2024-01-21,Google Ads
+4428,Chile,2022-03-15,Facebook
+4429,Chile,2023-06-23,Orgánico
+4430,Chile,2022-11-07,Referido
+4431,Perú,2022-09-02,Google Ads
+4432,Chile,2022-12-24,Facebook
+4433,Colombia,2022-09-29,Google Ads
+4434,Chile,2022-07-29,Referido
+4435,Chile,2022-10-05,Facebook
+4436,Chile,2023-12-27,Referido
+4437,Colombia,2022-04-15,Google Ads
+4438,Colombia,2023-05-31,Orgánico
+4439,Chile,2024-02-15,Facebook
+4440,Perú,2023-10-19,Google Ads
+4441,Colombia,2023-02-13,Referido
+4442,Colombia,2022-01-14,Google Ads
+4443,Argentina,2022-05-24,Referido
+4444,México,2022-03-26,Facebook
+4445,Chile,2024-01-04,Orgánico
+4446,Chile,2022-06-19,Orgánico
+4447,Colombia,2023-01-25,Referido
+4448,México,2023-07-26,Orgánico
+4449,México,2023-07-13,Orgánico
+4450,Chile,2024-02-07,Facebook
+4451,México,2023-03-04,Orgánico
+4452,Colombia,2023-08-21,Referido
+4453,Chile,2023-09-24,Facebook
+4454,Colombia,2024-02-05,Google Ads
+4455,Colombia,2023-01-02,Facebook
+4456,Chile,2023-01-20,Referido
+4457,México,2022-03-27,Google Ads
+4458,Argentina,2022-03-21,Google Ads
+4459,Perú,2022-10-26,Facebook
+4460,Perú,2022-11-18,Facebook
+4461,Chile,2023-10-13,Google Ads
+4462,Chile,2023-03-20,Referido
+4463,México,2022-02-24,Facebook
+4464,México,2023-12-28,Facebook
+4465,Perú,2024-03-09,Referido
+4466,México,2023-08-10,Google Ads
+4467,Colombia,2022-01-31,Google Ads
+4468,México,2023-09-21,Orgánico
+4469,México,2022-01-06,Facebook
+4470,Argentina,2023-09-13,Google Ads
+4471,Perú,2023-11-21,Google Ads
+4472,Chile,2022-03-04,Facebook
+4473,Colombia,2022-06-15,Facebook
+4474,Perú,2023-11-15,Google Ads
+4475,Colombia,2023-10-07,Google Ads
+4476,México,2023-08-30,Google Ads
+4477,Colombia,2023-03-08,Orgánico
+4478,Argentina,2023-07-05,Facebook
+4479,México,2023-12-12,Orgánico
+4480,Perú,2022-03-23,Facebook
+4481,Perú,2023-02-25,Google Ads
+4482,México,2022-09-30,Referido
+4483,Chile,2023-03-21,Facebook
+4484,México,2023-01-27,Referido
+4485,Chile,2023-12-05,Orgánico
+4486,Chile,2022-04-21,Orgánico
+4487,Colombia,2023-03-05,Orgánico
+4488,Colombia,2023-01-31,Referido
+4489,Colombia,2022-11-16,Referido
+4490,México,2023-05-12,Orgánico
+4491,Chile,2023-05-26,Referido
+4492,Chile,2023-07-27,Referido
+4493,Colombia,2023-05-18,Facebook
+4494,Chile,2024-03-09,Referido
+4495,Perú,2022-11-23,Google Ads
+4496,Perú,2022-08-24,Referido
+4497,Perú,2022-12-19,Orgánico
+4498,Colombia,2023-08-11,Google Ads
+4499,Chile,2022-04-10,Google Ads
+4500,México,2023-06-27,Facebook
+4501,Argentina,2024-02-19,Facebook
+4502,Perú,2022-11-28,Orgánico
+4503,Perú,2022-11-07,Orgánico
+4504,México,2022-09-21,Orgánico
+4505,Colombia,2023-10-08,Google Ads
+4506,Colombia,2022-09-03,Google Ads
+4507,Chile,2022-08-02,Google Ads
+4508,Argentina,2022-05-08,Orgánico
+4509,Perú,2024-02-21,Orgánico
+4510,Chile,2024-01-06,Google Ads
+4511,Colombia,2022-02-28,Google Ads
+4512,Argentina,2022-05-15,Referido
+4513,Colombia,2022-02-08,Facebook
+4514,Colombia,2023-01-01,Orgánico
+4515,México,2022-07-20,Orgánico
+4516,Perú,2023-02-27,Google Ads
+4517,México,2022-03-10,Google Ads
+4518,Perú,2023-08-21,Referido
+4519,Colombia,2022-03-29,Google Ads
+4520,Colombia,2023-01-26,Orgánico
+4521,Perú,2022-11-15,Referido
+4522,Perú,2022-09-26,Google Ads
+4523,Colombia,2022-12-20,Facebook
+4524,Colombia,2023-11-09,Facebook
+4525,México,2023-01-27,Referido
+4526,Argentina,2023-02-26,Facebook
+4527,Argentina,2023-03-16,Orgánico
+4528,México,2022-03-13,Referido
+4529,Chile,2022-11-07,Facebook
+4530,Colombia,2022-09-18,Google Ads
+4531,Perú,2022-02-03,Facebook
+4532,México,2022-08-07,Google Ads
+4533,Perú,2023-04-26,Orgánico
+4534,México,2022-04-16,Orgánico
+4535,Chile,2023-05-22,Orgánico
+4536,Argentina,2023-03-22,Facebook
+4537,Chile,2023-10-05,Google Ads
+4538,Argentina,2023-12-18,Orgánico
+4539,México,2023-10-09,Orgánico
+4540,Perú,2022-07-18,Google Ads
+4541,Chile,2023-12-22,Orgánico
+4542,Perú,2022-12-16,Orgánico
+4543,Chile,2022-03-10,Google Ads
+4544,México,2022-07-13,Referido
+4545,Colombia,2022-07-14,Google Ads
+4546,Chile,2022-08-26,Referido
+4547,México,2023-08-31,Orgánico
+4548,Chile,2023-05-10,Referido
+4549,Colombia,2023-06-21,Google Ads
+4550,Chile,2023-03-12,Orgánico
+4551,Colombia,2023-02-20,Orgánico
+4552,México,2022-08-16,Google Ads
+4553,Argentina,2022-08-31,Orgánico
+4554,Colombia,2022-02-14,Facebook
+4555,Perú,2022-05-21,Referido
+4556,Perú,2022-05-06,Referido
+4557,México,2023-04-02,Google Ads
+4558,México,2024-01-26,Referido
+4559,Argentina,2023-03-16,Google Ads
+4560,Argentina,2023-02-23,Google Ads
+4561,Perú,2024-01-18,Facebook
+4562,México,2023-01-06,Referido
+4563,Colombia,2023-12-29,Google Ads
+4564,Colombia,2023-12-01,Google Ads
+4565,Argentina,2022-09-26,Facebook
+4566,Argentina,2023-02-23,Orgánico
+4567,Perú,2023-09-29,Google Ads
+4568,Argentina,2024-02-15,Facebook
+4569,Argentina,2023-02-17,Referido
+4570,Chile,2022-06-25,Google Ads
+4571,Colombia,2022-01-02,Orgánico
+4572,Chile,2023-04-25,Google Ads
+4573,Perú,2023-04-25,Facebook
+4574,Argentina,2023-02-18,Google Ads
+4575,Chile,2024-03-09,Facebook
+4576,Perú,2022-05-03,Google Ads
+4577,Colombia,2023-05-17,Referido
+4578,Argentina,2023-12-25,Facebook
+4579,Argentina,2023-04-23,Orgánico
+4580,Perú,2023-06-21,Google Ads
+4581,Colombia,2023-11-22,Referido
+4582,Perú,2022-01-20,Referido
+4583,México,2024-03-08,Orgánico
+4584,Colombia,2022-09-27,Google Ads
+4585,México,2022-09-08,Facebook
+4586,Chile,2022-02-08,Referido
+4587,Chile,2022-09-26,Referido
+4588,Colombia,2022-03-18,Facebook
+4589,Colombia,2024-01-13,Facebook
+4590,Perú,2023-06-23,Google Ads
+4591,Perú,2022-07-23,Referido
+4592,Perú,2022-12-31,Google Ads
+4593,Chile,2022-03-14,Facebook
+4594,Colombia,2022-09-01,Facebook
+4595,Perú,2023-08-19,Orgánico
+4596,Perú,2023-09-18,Referido
+4597,Colombia,2023-05-14,Referido
+4598,Colombia,2023-02-15,Referido
+4599,Argentina,2023-07-05,Facebook
+4600,México,2023-09-16,Referido
+4601,Perú,2023-07-26,Orgánico
+4602,Colombia,2023-02-28,Google Ads
+4603,Argentina,2023-02-17,Referido
+4604,Colombia,2023-05-25,Google Ads
+4605,Argentina,2024-01-27,Facebook
+4606,Argentina,2023-10-11,Referido
+4607,Colombia,2023-05-13,Orgánico
+4608,Perú,2022-08-16,Referido
+4609,México,2022-07-13,Referido
+4610,Colombia,2023-01-19,Orgánico
+4611,México,2023-05-18,Referido
+4612,México,2022-10-17,Orgánico
+4613,Chile,2023-07-30,Facebook
+4614,Chile,2022-04-16,Orgánico
+4615,Colombia,2023-12-07,Referido
+4616,Argentina,2023-10-05,Referido
+4617,Argentina,2022-01-18,Facebook
+4618,Colombia,2024-03-06,Referido
+4619,México,2023-03-11,Google Ads
+4620,Perú,2024-01-07,Referido
+4621,Perú,2022-07-03,Orgánico
+4622,Argentina,2022-02-02,Orgánico
+4623,Argentina,2022-06-11,Google Ads
+4624,Colombia,2022-10-19,Facebook
+4625,Argentina,2022-01-23,Google Ads
+4626,México,2022-05-07,Google Ads
+4627,Argentina,2022-11-01,Referido
+4628,Perú,2022-03-09,Referido
+4629,Argentina,2022-02-11,Google Ads
+4630,México,2022-05-06,Referido
+4631,México,2023-02-20,Facebook
+4632,Perú,2022-04-16,Google Ads
+4633,Perú,2022-11-12,Orgánico
+4634,Chile,2023-12-04,Facebook
+4635,México,2022-05-17,Google Ads
+4636,Chile,2023-05-17,Orgánico
+4637,México,2022-03-07,Referido
+4638,México,2022-08-14,Orgánico
+4639,Perú,2022-04-12,Facebook
+4640,Chile,2023-02-14,Orgánico
+4641,Perú,2022-08-22,Orgánico
+4642,Chile,2022-10-11,Orgánico
+4643,Argentina,2022-06-13,Google Ads
+4644,Perú,2022-04-17,Orgánico
+4645,Colombia,2022-11-17,Orgánico
+4646,Perú,2022-03-24,Referido
+4647,Colombia,2022-06-14,Google Ads
+4648,México,2023-10-20,Facebook
+4649,Colombia,2022-12-06,Referido
+4650,Argentina,2022-12-15,Referido
+4651,Colombia,2023-02-24,Google Ads
+4652,Argentina,2022-09-23,Google Ads
+4653,Chile,2023-03-26,Referido
+4654,Perú,2023-02-26,Facebook
+4655,Colombia,2022-09-06,Orgánico
+4656,Colombia,2023-10-11,Referido
+4657,Perú,2022-05-28,Google Ads
+4658,Argentina,2023-10-14,Facebook
+4659,Perú,2022-11-12,Facebook
+4660,México,2023-07-27,Referido
+4661,Perú,2022-12-08,Orgánico
+4662,Colombia,2022-08-18,Facebook
+4663,Perú,2023-12-24,Orgánico
+4664,Chile,2023-07-09,Orgánico
+4665,Chile,2023-01-08,Referido
+4666,Chile,2023-08-03,Orgánico
+4667,Colombia,2022-04-28,Google Ads
+4668,Colombia,2023-06-30,Referido
+4669,Argentina,2022-09-14,Referido
+4670,Chile,2023-04-21,Facebook
+4671,Argentina,2022-07-08,Google Ads
+4672,Perú,2023-09-03,Orgánico
+4673,México,2022-01-21,Referido
+4674,Perú,2022-12-16,Facebook
+4675,Argentina,2024-03-01,Google Ads
+4676,México,2023-03-29,Google Ads
+4677,Colombia,2022-06-26,Facebook
+4678,Colombia,2022-11-04,Orgánico
+4679,Chile,2022-05-14,Referido
+4680,Argentina,2023-04-07,Referido
+4681,Chile,2022-08-30,Orgánico
+4682,Chile,2024-01-13,Referido
+4683,Argentina,2022-10-10,Referido
+4684,Colombia,2022-08-16,Google Ads
+4685,Argentina,2022-02-11,Facebook
+4686,México,2024-01-24,Referido
+4687,Argentina,2023-10-12,Orgánico
+4688,Colombia,2023-06-03,Facebook
+4689,Perú,2023-06-02,Referido
+4690,México,2022-10-12,Google Ads
+4691,Argentina,2022-11-16,Orgánico
+4692,Perú,2023-09-10,Google Ads
+4693,Chile,2023-12-01,Google Ads
+4694,Chile,2023-06-13,Facebook
+4695,Perú,2022-05-25,Facebook
+4696,México,2023-11-17,Orgánico
+4697,Argentina,2023-10-27,Orgánico
+4698,Chile,2023-01-14,Orgánico
+4699,México,2023-07-01,Facebook
+4700,Colombia,2024-01-05,Facebook
+4701,Colombia,2023-01-29,Orgánico
+4702,México,2023-01-03,Google Ads
+4703,Colombia,2023-10-13,Google Ads
+4704,Argentina,2022-05-08,Referido
+4705,Colombia,2023-03-01,Facebook
+4706,Colombia,2022-02-28,Google Ads
+4707,México,2023-03-14,Referido
+4708,Chile,2022-04-27,Facebook
+4709,Colombia,2022-01-25,Facebook
+4710,México,2023-01-21,Referido
+4711,Chile,2022-12-03,Google Ads
+4712,México,2022-09-16,Referido
+4713,Argentina,2023-07-04,Facebook
+4714,Chile,2023-06-12,Facebook
+4715,Perú,2022-10-29,Facebook
+4716,Colombia,2022-05-22,Google Ads
+4717,Chile,2023-10-12,Google Ads
+4718,México,2023-12-28,Orgánico
+4719,México,2022-11-14,Referido
+4720,Chile,2023-02-28,Referido
+4721,Perú,2022-02-17,Google Ads
+4722,Colombia,2023-11-30,Facebook
+4723,Perú,2022-04-01,Referido
+4724,Argentina,2023-12-28,Orgánico
+4725,Perú,2023-03-18,Referido
+4726,Argentina,2023-05-12,Orgánico
+4727,Chile,2023-07-03,Orgánico
+4728,Perú,2022-07-31,Referido
+4729,Perú,2022-05-01,Facebook
+4730,Argentina,2023-07-24,Facebook
+4731,Argentina,2022-01-06,Google Ads
+4732,Colombia,2022-03-19,Facebook
+4733,Chile,2022-09-07,Google Ads
+4734,Chile,2023-02-12,Referido
+4735,México,2023-04-21,Referido
+4736,Perú,2023-04-18,Orgánico
+4737,México,2022-01-15,Orgánico
+4738,Colombia,2023-10-10,Orgánico
+4739,Argentina,2024-02-29,Orgánico
+4740,Chile,2024-02-22,Google Ads
+4741,Perú,2023-07-23,Orgánico
+4742,México,2022-09-28,Google Ads
+4743,Argentina,2023-06-18,Facebook
+4744,Chile,2023-10-09,Google Ads
+4745,Perú,2022-07-05,Google Ads
+4746,México,2022-07-04,Facebook
+4747,Argentina,2022-12-13,Google Ads
+4748,Colombia,2023-08-04,Orgánico
+4749,Perú,2023-08-21,Orgánico
+4750,México,2022-06-21,Referido
+4751,Chile,2022-05-11,Referido
+4752,Colombia,2023-05-04,Google Ads
+4753,Chile,2022-06-29,Google Ads
+4754,México,2022-02-16,Referido
+4755,Argentina,2022-10-16,Facebook
+4756,Argentina,2022-01-29,Facebook
+4757,Argentina,2022-12-30,Orgánico
+4758,Perú,2022-04-13,Facebook
+4759,México,2024-02-08,Referido
+4760,Perú,2022-12-28,Facebook
+4761,México,2023-01-29,Google Ads
+4762,Argentina,2023-06-02,Facebook
+4763,Chile,2022-07-03,Google Ads
+4764,Colombia,2022-06-01,Orgánico
+4765,Perú,2024-01-09,Referido
+4766,Colombia,2022-08-14,Orgánico
+4767,México,2023-03-30,Facebook
+4768,Chile,2022-01-24,Orgánico
+4769,Chile,2022-04-23,Referido
+4770,Colombia,2022-06-14,Referido
+4771,Perú,2023-10-01,Referido
+4772,México,2022-02-11,Google Ads
+4773,Chile,2022-05-29,Google Ads
+4774,Perú,2022-09-22,Facebook
+4775,México,2024-01-26,Facebook
+4776,Chile,2022-11-10,Google Ads
+4777,Argentina,2024-02-19,Google Ads
+4778,Colombia,2022-10-19,Google Ads
+4779,Chile,2023-01-09,Facebook
+4780,Chile,2023-06-05,Google Ads
+4781,Perú,2023-11-12,Orgánico
+4782,México,2023-11-04,Facebook
+4783,Colombia,2022-04-21,Google Ads
+4784,Colombia,2023-02-11,Referido
+4785,Perú,2023-12-17,Referido
+4786,Argentina,2022-09-18,Orgánico
+4787,Chile,2023-12-17,Google Ads
+4788,México,2022-01-12,Google Ads
+4789,Chile,2023-06-13,Orgánico
+4790,México,2022-03-09,Facebook
+4791,Perú,2023-06-24,Referido
+4792,Colombia,2022-04-06,Referido
+4793,México,2022-04-05,Referido
+4794,Perú,2022-11-30,Google Ads
+4795,Argentina,2024-02-18,Google Ads
+4796,Perú,2023-05-10,Referido
+4797,Chile,2023-09-26,Orgánico
+4798,Chile,2023-09-30,Google Ads
+4799,Argentina,2023-01-08,Referido
+4800,Chile,2023-07-26,Orgánico
+4801,Perú,2023-02-18,Facebook
+4802,Perú,2023-11-13,Referido
+4803,Perú,2023-09-03,Facebook
+4804,Colombia,2022-10-08,Referido
+4805,Colombia,2023-04-05,Google Ads
+4806,México,2022-09-29,Orgánico
+4807,México,2023-07-04,Orgánico
+4808,Argentina,2022-03-31,Referido
+4809,Argentina,2023-01-09,Orgánico
+4810,México,2023-08-11,Google Ads
+4811,Perú,2022-02-18,Referido
+4812,Perú,2023-11-29,Google Ads
+4813,Colombia,2022-10-31,Google Ads
+4814,Chile,2022-07-09,Facebook
+4815,Chile,2023-01-30,Google Ads
+4816,Perú,2022-10-15,Orgánico
+4817,Chile,2023-10-30,Google Ads
+4818,Argentina,2024-01-12,Referido
+4819,Argentina,2022-11-15,Orgánico
+4820,México,2023-08-09,Orgánico
+4821,Argentina,2023-10-12,Google Ads
+4822,Colombia,2022-10-04,Orgánico
+4823,Argentina,2023-07-02,Referido
+4824,Perú,2022-01-01,Orgánico
+4825,Chile,2022-03-20,Google Ads
+4826,Chile,2023-03-16,Facebook
+4827,México,2022-09-16,Google Ads
+4828,Argentina,2023-02-02,Referido
+4829,Colombia,2022-11-29,Google Ads
+4830,Perú,2023-05-31,Facebook
+4831,Chile,2024-01-09,Orgánico
+4832,Argentina,2023-12-11,Facebook
+4833,México,2022-02-19,Facebook
+4834,México,2023-03-19,Orgánico
+4835,Perú,2024-01-23,Facebook
+4836,Colombia,2023-01-06,Referido
+4837,Perú,2023-09-11,Referido
+4838,Perú,2022-10-04,Orgánico
+4839,Chile,2024-01-20,Referido
+4840,Colombia,2023-01-21,Facebook
+4841,Argentina,2023-09-06,Referido
+4842,Colombia,2023-02-16,Facebook
+4843,Perú,2022-04-11,Google Ads
+4844,Argentina,2023-10-08,Google Ads
+4845,México,2023-02-28,Facebook
+4846,Chile,2023-07-17,Referido
+4847,México,2023-07-14,Google Ads
+4848,Colombia,2022-04-25,Orgánico
+4849,Perú,2022-12-06,Facebook
+4850,Colombia,2023-08-05,Referido
+4851,Colombia,2022-11-07,Referido
+4852,Argentina,2024-01-17,Facebook
+4853,Colombia,2023-04-22,Facebook
+4854,Argentina,2023-03-02,Facebook
+4855,Chile,2023-05-26,Google Ads
+4856,Colombia,2022-12-27,Referido
+4857,Argentina,2022-06-01,Orgánico
+4858,Chile,2023-11-24,Facebook
+4859,Argentina,2023-02-21,Facebook
+4860,México,2023-07-31,Referido
+4861,Colombia,2022-11-18,Google Ads
+4862,Perú,2022-01-16,Facebook
+4863,Colombia,2023-05-28,Referido
+4864,Chile,2024-02-07,Google Ads
+4865,Colombia,2022-02-01,Orgánico
+4866,Argentina,2023-02-20,Referido
+4867,Chile,2024-02-27,Google Ads
+4868,Chile,2022-08-24,Orgánico
+4869,Argentina,2023-08-21,Orgánico
+4870,Argentina,2024-01-03,Google Ads
+4871,Chile,2023-01-03,Referido
+4872,México,2024-02-06,Google Ads
+4873,Argentina,2022-08-06,Facebook
+4874,Colombia,2023-12-11,Facebook
+4875,Colombia,2023-02-20,Facebook
+4876,Colombia,2022-06-24,Orgánico
+4877,Chile,2023-12-11,Referido
+4878,Argentina,2023-09-12,Google Ads
+4879,Perú,2023-06-30,Google Ads
+4880,Argentina,2023-02-28,Google Ads
+4881,México,2023-11-27,Facebook
+4882,Chile,2022-08-15,Referido
+4883,Perú,2022-04-19,Orgánico
+4884,Chile,2023-09-10,Facebook
+4885,Argentina,2023-09-07,Referido
+4886,México,2023-07-23,Referido
+4887,México,2023-04-07,Google Ads
+4888,Chile,2023-06-28,Orgánico
+4889,Chile,2023-02-02,Facebook
+4890,Argentina,2022-02-22,Facebook
+4891,México,2022-12-19,Google Ads
+4892,México,2023-07-10,Google Ads
+4893,Colombia,2023-10-12,Referido
+4894,Argentina,2022-07-07,Orgánico
+4895,Chile,2022-02-05,Referido
+4896,Colombia,2022-09-06,Referido
+4897,Chile,2023-06-30,Facebook
+4898,Argentina,2023-07-22,Google Ads
+4899,Colombia,2023-09-16,Facebook
+4900,Argentina,2022-10-05,Facebook
+4901,Colombia,2022-12-07,Referido
+4902,Colombia,2022-03-23,Orgánico
+4903,México,2022-11-08,Facebook
+4904,Colombia,2022-06-15,Referido
+4905,Chile,2022-08-25,Referido
+4906,Chile,2022-10-29,Google Ads
+4907,Argentina,2022-10-25,Orgánico
+4908,Colombia,2023-04-11,Orgánico
+4909,Argentina,2022-02-25,Facebook
+4910,México,2022-02-26,Orgánico
+4911,Argentina,2022-06-12,Facebook
+4912,Colombia,2022-11-12,Orgánico
+4913,México,2022-08-12,Google Ads
+4914,Colombia,2023-11-05,Facebook
+4915,Colombia,2022-04-24,Facebook
+4916,Argentina,2022-07-09,Orgánico
+4917,Argentina,2022-06-24,Orgánico
+4918,Chile,2023-01-11,Orgánico
+4919,Chile,2022-11-25,Facebook
+4920,México,2022-12-16,Orgánico
+4921,Colombia,2022-03-12,Orgánico
+4922,Colombia,2024-02-12,Orgánico
+4923,México,2022-12-03,Referido
+4924,Colombia,2023-07-13,Referido
+4925,Colombia,2022-02-14,Orgánico
+4926,Colombia,2023-09-10,Facebook
+4927,Argentina,2022-01-09,Referido
+4928,Colombia,2022-04-11,Facebook
+4929,México,2022-06-04,Facebook
+4930,México,2022-11-03,Orgánico
+4931,México,2023-11-27,Facebook
+4932,Colombia,2023-01-04,Facebook
+4933,Perú,2022-12-13,Google Ads
+4934,México,2024-02-29,Facebook
+4935,Chile,2022-03-18,Facebook
+4936,Colombia,2023-07-16,Orgánico
+4937,Chile,2022-07-22,Google Ads
+4938,Perú,2022-01-10,Google Ads
+4939,Argentina,2022-05-23,Facebook
+4940,Perú,2023-04-19,Facebook
+4941,Perú,2022-06-05,Google Ads
+4942,Argentina,2023-02-07,Orgánico
+4943,México,2023-09-10,Orgánico
+4944,Chile,2023-06-17,Orgánico
+4945,Perú,2023-09-17,Google Ads
+4946,México,2022-11-18,Facebook
+4947,México,2023-02-06,Orgánico
+4948,México,2023-09-18,Facebook
+4949,Chile,2022-11-20,Orgánico
+4950,Chile,2022-05-09,Orgánico
+4951,Chile,2023-01-03,Orgánico
+4952,Chile,2023-09-11,Facebook
+4953,Argentina,2023-03-06,Google Ads
+4954,Chile,2023-07-28,Google Ads
+4955,Argentina,2023-10-02,Google Ads
+4956,Chile,2023-06-15,Referido
+4957,Perú,2023-04-14,Google Ads
+4958,Chile,2022-12-06,Orgánico
+4959,Perú,2022-06-05,Google Ads
+4960,Colombia,2022-07-29,Google Ads
+4961,Chile,2022-11-13,Orgánico
+4962,Perú,2023-02-27,Referido
+4963,México,2023-08-11,Google Ads
+4964,Colombia,2023-11-05,Facebook
+4965,Argentina,2023-01-21,Orgánico
+4966,México,2022-02-26,Google Ads
+4967,Chile,2023-06-18,Referido
+4968,Perú,2023-09-03,Referido
+4969,Argentina,2022-12-31,Facebook
+4970,México,2022-07-16,Google Ads
+4971,Chile,2024-01-17,Google Ads
+4972,México,2023-08-02,Orgánico
+4973,Chile,2023-04-13,Google Ads
+4974,Argentina,2022-03-04,Facebook
+4975,Chile,2022-06-14,Google Ads
+4976,Colombia,2022-05-06,Referido
+4977,Argentina,2023-11-05,Orgánico
+4978,Chile,2023-11-22,Orgánico
+4979,Perú,2023-02-13,Google Ads
+4980,Argentina,2023-03-03,Facebook
+4981,México,2023-09-10,Google Ads
+4982,Colombia,2022-06-07,Referido
+4983,Chile,2023-02-21,Referido
+4984,Chile,2024-03-03,Orgánico
+4985,México,2023-10-05,Referido
+4986,México,2023-04-14,Orgánico
+4987,México,2022-11-12,Facebook
+4988,Argentina,2022-01-27,Facebook
+4989,Chile,2023-05-18,Orgánico
+4990,Argentina,2023-04-16,Google Ads
+4991,México,2023-11-27,Orgánico
+4992,Perú,2022-05-01,Orgánico
+4993,Chile,2023-05-02,Orgánico
+4994,Perú,2023-05-06,Referido
+4995,México,2024-01-13,Facebook
+4996,Perú,2024-02-09,Facebook
+4997,Perú,2022-11-09,Google Ads
+4998,Chile,2023-09-21,Facebook
+4999,Argentina,2023-01-23,Orgánico
+5000,Colombia,2022-03-28,Facebook
